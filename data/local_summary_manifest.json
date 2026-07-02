@@ -194,8 +194,73 @@
       "chunks": 5,
       "elapsed_seconds": 148.7303822040558,
       "error": ""
+    },
+    {
+      "index": 16,
+      "video_id": "JRTAtZ5iBkU",
+      "title": "HTML is All You Need (for Agents to Make Graphics) - Amol Kapoor, Nori",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/016-html-is-all-you-need-for-agents-to-make-graphics.md",
+      "transcript_words": 1133,
+      "chunks": 2,
+      "elapsed_seconds": 47.90746212005615,
+      "error": ""
+    },
+    {
+      "index": 17,
+      "video_id": "tB9RKTrU-Ig",
+      "title": "Turbocharge Your Agent's Retrieval with TurboQuant - Shashi Jagtap, Superagentic AI",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/017-turbocharge-your-agent-s-retrieval-with-turboquant.md",
+      "transcript_words": 1854,
+      "chunks": 3,
+      "elapsed_seconds": 163.4924509525299,
+      "error": ""
+    },
+    {
+      "index": 18,
+      "video_id": "akk6KRlcwW4",
+      "title": "OpenClaw in Your Hand: Building a Physical AI Terminal - Lech Kalinowski, Callstack",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/018-openclaw-in-your-hand-building-a-physical-ai-terminal.md",
+      "transcript_words": 2389,
+      "chunks": 3,
+      "elapsed_seconds": 166.7432038784027,
+      "error": ""
+    },
+    {
+      "index": 19,
+      "video_id": "Akm1sqvWG4A",
+      "title": "Bypassing the Multimodal Tax: Hybrid RAG, SQL RRF & UI Telemetry - Abed Matini, Ogilvy",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/019-bypassing-the-multimodal-tax-hybrid-rag-sql-rrf-ui-telemetry.md",
+      "transcript_words": 6290,
+      "chunks": 7,
+      "elapsed_seconds": 406.16952085494995,
+      "error": ""
+    },
+    {
+      "index": 20,
+      "video_id": "XovaGv4f39A",
+      "title": "When All Context Matters: Extended Cache Augmented Generation - Luis Romero-Sevilla, Orbis",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/020-when-all-context-matters-extended-cache-augmented-generation.md",
+      "transcript_words": 855,
+      "chunks": 2,
+      "elapsed_seconds": 59.90779399871826,
+      "error": ""
     }
   ],
-  "ok_count": 15,
+  "ok_count": 20,
   "dry_run_count": 0
 }

@@ -240,8 +240,15 @@ def proper_terms(text: str, limit: int = 8) -> list[str]:
         "And",
         "And I",
         "But",
+        "All",
+        "Currently",
+        "For",
         "Great",
         "Hey",
+        "How",
+        "However",
+        "Inserting",
+        "Let",
         "Many",
         "Now",
         "Okay",
@@ -258,9 +265,9 @@ def proper_terms(text: str, limit: int = 8) -> list[str]:
         "Yeah",
     }
     for candidate in candidates:
-        cleaned = candidate.strip()
+        cleaned = re.sub(r"\s+", " ", candidate).strip(" .,:;!?")
         first_word = cleaned.split()[0].lower()
-        if len(cleaned) < 3 or cleaned in ignored or first_word in STOPWORDS:
+        if len(cleaned) < 3 or "." in cleaned or cleaned in ignored or first_word in STOPWORDS:
             continue
         counts[cleaned] = counts.get(cleaned, 0) + 1
     return [term for term, _ in sorted(counts.items(), key=lambda item: (-item[1], item[0]))[:limit]]
@@ -278,13 +285,25 @@ def clean_bullets(text: str, limit: int = 10) -> list[str]:
     }
     for line in text.splitlines():
         cleaned = re.sub(r"^\s*[-*]\s*", "", line).strip()
+        cleaned = re.sub(r"\*\*", "", cleaned)
         cleaned = cleaned.strip("*_` ")
         cleaned = re.sub(r"^\d+\.\s*", "", cleaned).strip()
         cleaned = re.sub(r"^#+\s*", "", cleaned).strip()
         normalized = cleaned.lower().strip(":.")
         if not cleaned or cleaned.lower().startswith(("transcript chunk", "return markdown")):
             continue
-        if normalized.startswith(("5-10 ", "chunk thesis", "learning signals", "risks and failure modes")):
+        if normalized.startswith(
+            (
+                "5-10 ",
+                "chunk thesis",
+                "concepts, tools",
+                "examples:",
+                "learning signals",
+                "risks and failure modes",
+                "risks and failure modes:",
+                "summarize transcript chunk",
+            )
+        ):
             continue
         if normalized in ignored:
             continue
