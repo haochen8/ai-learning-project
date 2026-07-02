@@ -1,7 +1,7 @@
 {
   "playlist_id": "PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn",
   "video_count_checked": 81,
-  "caption_count": 74,
+  "caption_count": 76,
   "records": [
     {
       "index": 1,
@@ -1034,27 +1034,27 @@
       "index": 80,
       "video_id": "UNzCG3lw6O0",
       "title": "Building Great Agent Skills: The Missing Manual",
-      "status": "error",
-      "track_name": "English (auto-generated)",
-      "language_code": "en",
-      "is_auto_generated": true,
-      "word_count": 0,
-      "raw_path": "",
-      "clean_path": "",
-      "error": "HTTP Error 429: Too Many Requests"
+      "status": "ok",
+      "track_name": "summarize.sh extract",
+      "language_code": "",
+      "is_auto_generated": false,
+      "word_count": 298,
+      "raw_path": "transcripts/raw/080-UNzCG3lw6O0.summarize.md",
+      "clean_path": "transcripts/clean/080-UNzCG3lw6O0.txt",
+      "error": ""
     },
     {
       "index": 81,
       "video_id": "4sX_He5c4sI",
       "title": "WF2026: Autoresearch & Keynotes ft. Anthropic, Google DeepMind, Amazon AGI, Sonar, Arena, Recursive",
-      "status": "no_caption_track",
-      "track_name": "",
+      "status": "ok",
+      "track_name": "summarize.sh extract",
       "language_code": "",
       "is_auto_generated": false,
-      "word_count": 0,
-      "raw_path": "",
-      "clean_path": "",
-      "error": "youtube-transcript-api failed: \nCould not retrieve a transcript for the video https://www.youtube.com/watch?v=4sX_He5c4sI! This is most likely caused by:\n\nSubtitles are disabled for this video\n\nIf you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!"
+      "word_count": 124,
+      "raw_path": "transcripts/raw/081-4sX_He5c4sI.summarize.md",
+      "clean_path": "transcripts/clean/081-4sX_He5c4sI.txt",
+      "error": ""
     }
   ]
 }

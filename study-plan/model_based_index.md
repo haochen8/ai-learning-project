@@ -98,5 +98,5 @@ This index tracks the local open-source model notes in `summaries/model_based/`.
 - 077. 10x - Reimagining Mobile Development Workflow - Orel Zion, stag.build - not summarized
 - 078. Predicting Novel Research Directions in Big Pharma - Vasilije Markovic, cognee - missing transcript
 - 079. The Factory That Dreams: 39 AI Agents, No Framework - Rushabh Doshi, Machinecraft - not summarized
-- 080. Building Great Agent Skills: The Missing Manual - missing transcript
-- 081. WF2026: Autoresearch & Keynotes ft. Anthropic, Google DeepMind, Amazon AGI, Sonar, Arena, Recursive - missing transcript
+- 080. Building Great Agent Skills: The Missing Manual - not summarized
+- 081. WF2026: Autoresearch & Keynotes ft. Anthropic, Google DeepMind, Amazon AGI, Sonar, Arena, Recursive - not summarized
