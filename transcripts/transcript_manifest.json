@@ -1,7 +1,7 @@
 {
   "playlist_id": "PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn",
   "video_count_checked": 81,
-  "caption_count": 59,
+  "caption_count": 62,
   "records": [
     {
       "index": 1,
@@ -800,40 +800,40 @@
       "index": 62,
       "video_id": "maTp79FD9gI",
       "title": "Agent Output Is Not UX: Rendering Layer Your LLM Pipeline Is Missing - Bala Ramdoss, Amazon",
-      "status": "error",
-      "track_name": "English (auto-generated)",
-      "language_code": "en",
-      "is_auto_generated": true,
-      "word_count": 0,
-      "raw_path": "",
-      "clean_path": "",
-      "error": "HTTP Error 429: Too Many Requests"
+      "status": "ok",
+      "track_name": "summarize.sh extract",
+      "language_code": "",
+      "is_auto_generated": false,
+      "word_count": 267,
+      "raw_path": "transcripts/raw/062-maTp79FD9gI.summarize.md",
+      "clean_path": "transcripts/clean/062-maTp79FD9gI.txt",
+      "error": ""
     },
     {
       "index": 63,
       "video_id": "bRnoEpoK5m4",
       "title": "The Pipeline Is Dead - Iris ten Teije, Sky Valley Ambient Computing",
-      "status": "error",
-      "track_name": "English (auto-generated)",
-      "language_code": "en",
-      "is_auto_generated": true,
-      "word_count": 0,
-      "raw_path": "",
-      "clean_path": "",
-      "error": "HTTP Error 429: Too Many Requests"
+      "status": "ok",
+      "track_name": "summarize.sh extract",
+      "language_code": "",
+      "is_auto_generated": false,
+      "word_count": 155,
+      "raw_path": "transcripts/raw/063-bRnoEpoK5m4.summarize.md",
+      "clean_path": "transcripts/clean/063-bRnoEpoK5m4.txt",
+      "error": ""
     },
     {
       "index": 64,
       "video_id": "bZISsg7H7DA",
       "title": "Your Agents Need a Save Button - Hamza Tahir, ZenML",
-      "status": "error",
-      "track_name": "English (auto-generated)",
-      "language_code": "en",
-      "is_auto_generated": true,
-      "word_count": 0,
-      "raw_path": "",
-      "clean_path": "",
-      "error": "HTTP Error 429: Too Many Requests"
+      "status": "ok",
+      "track_name": "summarize.sh extract",
+      "language_code": "",
+      "is_auto_generated": false,
+      "word_count": 273,
+      "raw_path": "transcripts/raw/064-bZISsg7H7DA.summarize.md",
+      "clean_path": "transcripts/clean/064-bZISsg7H7DA.txt",
+      "error": ""
     },
     {
       "index": 65,

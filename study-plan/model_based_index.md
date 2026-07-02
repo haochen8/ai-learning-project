@@ -80,9 +80,9 @@ This index tracks the local open-source model notes in `summaries/model_based/`.
 - 059. Voice Agents That Handle Interrupts - Chintan Agrawal, Amazon Web Services - not summarized
 - 060. Continual Learning for AI Agents: From Failures to Durable Improvements - Soheil Feizi, RELAI - not summarized
 - 061. GTM Is You - Victoria Melnikova, Evil Martians - missing transcript
-- 062. Agent Output Is Not UX: Rendering Layer Your LLM Pipeline Is Missing - Bala Ramdoss, Amazon - missing transcript
-- 063. The Pipeline Is Dead - Iris ten Teije, Sky Valley Ambient Computing - missing transcript
-- 064. Your Agents Need a Save Button - Hamza Tahir, ZenML - missing transcript
+- 062. Agent Output Is Not UX: Rendering Layer Your LLM Pipeline Is Missing - Bala Ramdoss, Amazon - not summarized
+- 063. The Pipeline Is Dead - Iris ten Teije, Sky Valley Ambient Computing - not summarized
+- 064. Your Agents Need a Save Button - Hamza Tahir, ZenML - not summarized
 - 065. Your AI Product Will Fail Unless You Can Explain It - Veronica Hylak, Hey AI - missing transcript
 - 066. Agents Need Receipts, Not More Tool Calls - Armanas Povilionis, Alithea Bio - missing transcript
 - 067. Build the AI GTM Agent That Knows the Buyer - Dr. Sajjan Kanukolanu, Position2 (Position Squared) - missing transcript
