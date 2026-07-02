@@ -92,8 +92,8 @@ This index tracks the local open-source model notes in `summaries/model_based/`.
 - 071. 500 people vibe-coded for 30 days. I was one of them. - Sanja Grbic, Automattic - not summarized
 - 072. Build AI Systems for Discernment, Not Approval - Angel Ortmann Lee, Duolingo - not summarized
 - 073. What if the harness mattered more than the model? - Aditya Bhargava, Etsy - missing transcript
-- 074. How we taught agents to use good retrieval - Hanna Lichtenberg, Mixedbread AI - missing transcript
-- 075. Beyond the Harness: A Journey Towards Adaptative Engineering - Rajiv Chandegra, Annicha Labs - missing transcript
+- 074. How we taught agents to use good retrieval - Hanna Lichtenberg, Mixedbread AI - not summarized
+- 075. Beyond the Harness: A Journey Towards Adaptative Engineering - Rajiv Chandegra, Annicha Labs - not summarized
 - 076. Build Neural Networks in TypeScript - Junichi Takahashi, and raindrops - missing transcript
 - 077. 10x - Reimagining Mobile Development Workflow - Orel Zion, stag.build - missing transcript
 - 078. Predicting Novel Research Directions in Big Pharma - Vasilije Markovic, cognee - missing transcript
