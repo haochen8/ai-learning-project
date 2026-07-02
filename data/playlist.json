@@ -1,0 +1,658 @@
+{
+  "playlist_id": "PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn",
+  "playlist_url": "https://www.youtube.com/playlist?list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn",
+  "fetched_at": "2026-07-02T09:11:47.305954+00:00",
+  "video_count": 81,
+  "total_seconds": 155197,
+  "total_duration": "43:06:37",
+  "videos": [
+    {
+      "index": 1,
+      "video_id": "3hXJI2q0Jz8",
+      "title": "Recursive Coding Agents - Raymond Weitekamp, OpenProse",
+      "duration": "23:48",
+      "duration_seconds": 1428,
+      "url": "https://www.youtube.com/watch?v=3hXJI2q0Jz8&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 2,
+      "video_id": "UPwGaM2MKHY",
+      "title": "The Log Is The Agent - Ishaan Sehgal, Omnara",
+      "duration": "15:11",
+      "duration_seconds": 911,
+      "url": "https://www.youtube.com/watch?v=UPwGaM2MKHY&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 3,
+      "video_id": "vljxQZfJ9wY",
+      "title": "Production Evals For Agentic AI Systems - Nishant Gupta, Meta Superintelligence Labs",
+      "duration": "8:12",
+      "duration_seconds": 492,
+      "url": "https://www.youtube.com/watch?v=vljxQZfJ9wY&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 4,
+      "video_id": "IJXjTLPzvAU",
+      "title": "The Miranda Hypothesis: How Hamilton Poisoned Persona Evals - Jacob E. Thomas, Results Gen",
+      "duration": "58:17",
+      "duration_seconds": 3497,
+      "url": "https://www.youtube.com/watch?v=IJXjTLPzvAU&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 5,
+      "video_id": "jVjt-2g8NMY",
+      "title": "A Genius With Amnesia - Victor Savkin, Nx",
+      "duration": "20:00",
+      "duration_seconds": 1200,
+      "url": "https://www.youtube.com/watch?v=jVjt-2g8NMY&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 6,
+      "video_id": "ZRM_TfEZcIo",
+      "title": "Turn 10,994 Notes Into Memory - Paul Iusztin, Decoding AI & Louis-François Bouchard, Towards AI",
+      "duration": "39:32",
+      "duration_seconds": 2372,
+      "url": "https://www.youtube.com/watch?v=ZRM_TfEZcIo&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 7,
+      "video_id": "ZD9-4fW2HhM",
+      "title": "Build Systems, Not Code - Angie Jones, Agentic AI Foundation",
+      "duration": "19:39",
+      "duration_seconds": 1179,
+      "url": "https://www.youtube.com/watch?v=ZD9-4fW2HhM&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 8,
+      "video_id": "ij-AU9dpJjc",
+      "title": "Stop Writing Tone Instructions. Layer Them. - Isadora Martin-Dye, Isadora & Co",
+      "duration": "20:57",
+      "duration_seconds": 1257,
+      "url": "https://www.youtube.com/watch?v=ij-AU9dpJjc&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 9,
+      "video_id": "4uFVSLgD2Q4",
+      "title": "Agents in Production: How OpenGov Built and Scaled OG Assist - Gabe De Mesa, OpenGov",
+      "duration": "18:30",
+      "duration_seconds": 1110,
+      "url": "https://www.youtube.com/watch?v=4uFVSLgD2Q4&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 10,
+      "video_id": "whue9_YquGA",
+      "title": "Building an Autonomous Engineering Org - Angie Jones, Agentic AI Foundation",
+      "duration": "17:36",
+      "duration_seconds": 1056,
+      "url": "https://www.youtube.com/watch?v=whue9_YquGA&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 11,
+      "video_id": "aHhB3sjGjkI",
+      "title": "Agents Building Agents - Alfonso Graziano, Nearform",
+      "duration": "30:14",
+      "duration_seconds": 1814,
+      "url": "https://www.youtube.com/watch?v=aHhB3sjGjkI&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 12,
+      "video_id": "vh2VGuQ3zhY",
+      "title": "The 100-Tool Agent Is a Trap - Sohail Shaikh & Ankush Rastogi, Prosodica",
+      "duration": "28:27",
+      "duration_seconds": 1707,
+      "url": "https://www.youtube.com/watch?v=vh2VGuQ3zhY&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 13,
+      "video_id": "IddXPepIAS4",
+      "title": "Using Spec-Driven Development for Production Workflows - Erik Hanchett, AWS",
+      "duration": "17:47",
+      "duration_seconds": 1067,
+      "url": "https://www.youtube.com/watch?v=IddXPepIAS4&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 14,
+      "video_id": "OXMMN-XbxwA",
+      "title": "Research to Reality: Bringing Frontier ML Research to Production - Vaidas Razgaitis, Higharc",
+      "duration": "14:57",
+      "duration_seconds": 897,
+      "url": "https://www.youtube.com/watch?v=OXMMN-XbxwA&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 15,
+      "video_id": "-x5GEVnkuRw",
+      "title": "Structuring the Unstructured - Cedric Clyburn, Red Hat",
+      "duration": "20:41",
+      "duration_seconds": 1241,
+      "url": "https://www.youtube.com/watch?v=-x5GEVnkuRw&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 16,
+      "video_id": "JRTAtZ5iBkU",
+      "title": "HTML is All You Need (for Agents to Make Graphics) - Amol Kapoor, Nori",
+      "duration": "7:00",
+      "duration_seconds": 420,
+      "url": "https://www.youtube.com/watch?v=JRTAtZ5iBkU&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 17,
+      "video_id": "tB9RKTrU-Ig",
+      "title": "Turbocharge Your Agent's Retrieval with TurboQuant - Shashi Jagtap, Superagentic AI",
+      "duration": "14:48",
+      "duration_seconds": 888,
+      "url": "https://www.youtube.com/watch?v=tB9RKTrU-Ig&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 18,
+      "video_id": "akk6KRlcwW4",
+      "title": "OpenClaw in Your Hand: Building a Physical AI Terminal - Lech Kalinowski, Callstack",
+      "duration": "24:36",
+      "duration_seconds": 1476,
+      "url": "https://www.youtube.com/watch?v=akk6KRlcwW4&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 19,
+      "video_id": "Akm1sqvWG4A",
+      "title": "Bypassing the Multimodal Tax: Hybrid RAG, SQL RRF & UI Telemetry - Abed Matini, Ogilvy",
+      "duration": "45:48",
+      "duration_seconds": 2748,
+      "url": "https://www.youtube.com/watch?v=Akm1sqvWG4A&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 20,
+      "video_id": "XovaGv4f39A",
+      "title": "When All Context Matters: Extended Cache Augmented Generation - Luis Romero-Sevilla, Orbis",
+      "duration": "5:52",
+      "duration_seconds": 352,
+      "url": "https://www.youtube.com/watch?v=XovaGv4f39A&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 21,
+      "video_id": "T0HhO4YtTfE",
+      "title": "AI System Design: From Idea to Production - Apoorva Joshi, MongoDB",
+      "duration": "28:53",
+      "duration_seconds": 1733,
+      "url": "https://www.youtube.com/watch?v=T0HhO4YtTfE&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 22,
+      "video_id": "uiP88SpCi1Q",
+      "title": "Your Agent Is Wasting Tokens and You Don't Know It - Erik Hanchett, AWS",
+      "duration": "5:55",
+      "duration_seconds": 355,
+      "url": "https://www.youtube.com/watch?v=uiP88SpCi1Q&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 23,
+      "video_id": "dRmWYHuIJxM",
+      "title": "We Cut 94% of AI Coding Tokens With a Local Code Index - Rajkumar Sakthivel, Tesco",
+      "duration": "10:43",
+      "duration_seconds": 643,
+      "url": "https://www.youtube.com/watch?v=dRmWYHuIJxM&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 24,
+      "video_id": "Iwe_RY-fYgI",
+      "title": "AI-Driven Multi-Document Correlation for Financial Compliance - Varsha Shah, Independent",
+      "duration": "19:00",
+      "duration_seconds": 1140,
+      "url": "https://www.youtube.com/watch?v=Iwe_RY-fYgI&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 25,
+      "video_id": "65X0pQ6Lmbg",
+      "title": "Voice In, Visuals Out: The Agony and the Ecstasy - Allen Pike, Forestwalk Labs",
+      "duration": "13:05",
+      "duration_seconds": 785,
+      "url": "https://www.youtube.com/watch?v=65X0pQ6Lmbg&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 26,
+      "video_id": "Lc8zRh9muoY",
+      "title": "Your Agent Failed in Prod. Good Luck Reproducing It. - Tisha Chawla & Susheem Koul, Microsoft",
+      "duration": "14:10",
+      "duration_seconds": 850,
+      "url": "https://www.youtube.com/watch?v=Lc8zRh9muoY&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 27,
+      "video_id": "LrGCT7G_rU8",
+      "title": "Using RL Agent to Detect and Remediate ETL Pipeline Failures - Anna Marie Benzon",
+      "duration": "14:41",
+      "duration_seconds": 881,
+      "url": "https://www.youtube.com/watch?v=LrGCT7G_rU8&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 28,
+      "video_id": "6bmM45jkMDY",
+      "title": "You Can't Prompt the Room: The Last Skill AI Won't Replace - Balázs Horváth, VisualLabs",
+      "duration": "15:45",
+      "duration_seconds": 945,
+      "url": "https://www.youtube.com/watch?v=6bmM45jkMDY&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 29,
+      "video_id": "APh1Vx0oLmQ",
+      "title": "Deterministic Infra for Non-Deterministic AI Agents - Nishant Gupta, Meta Superintelligence Labs",
+      "duration": "7:14",
+      "duration_seconds": 434,
+      "url": "https://www.youtube.com/watch?v=APh1Vx0oLmQ&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 30,
+      "video_id": "pSto5YaNGUo",
+      "title": "The Agentic AI Engineer - Benedikt Sanftl, Mutagent",
+      "duration": "34:50",
+      "duration_seconds": 2090,
+      "url": "https://www.youtube.com/watch?v=pSto5YaNGUo&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 31,
+      "video_id": "DqtmZE6Hl0g",
+      "title": "The Prompt is the Platform - Dominik Tornow, Resonate HQ",
+      "duration": "17:33",
+      "duration_seconds": 1053,
+      "url": "https://www.youtube.com/watch?v=DqtmZE6Hl0g&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 32,
+      "video_id": "Jx4ZFEAq6bY",
+      "title": "User Signal Dies at the Retrieval Boundary - Sonam Pankaj, StarlightSearch",
+      "duration": "15:37",
+      "duration_seconds": 937,
+      "url": "https://www.youtube.com/watch?v=Jx4ZFEAq6bY&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 33,
+      "video_id": "JnubYCYunk8",
+      "title": "Browser Agents Don't Need Better Models. They Need Better Eyes. - Kushan Raj, ARK",
+      "duration": "4:26",
+      "duration_seconds": 266,
+      "url": "https://www.youtube.com/watch?v=JnubYCYunk8&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 34,
+      "video_id": "htM02KMNZnk",
+      "title": "WF2026: Software Factories & Keynotes ft. Microsoft, OpenAI, OpenClaw, Z.ai (GLM), MiniMax, HF",
+      "duration": "8:36:52",
+      "duration_seconds": 31012,
+      "url": "https://www.youtube.com/watch?v=htM02KMNZnk&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 35,
+      "video_id": "RGiXcVxSD3s",
+      "title": "Chat and citations won't save your vertical AI - Atul Ramachandran, Filed Inc",
+      "duration": "15:12",
+      "duration_seconds": 912,
+      "url": "https://www.youtube.com/watch?v=RGiXcVxSD3s&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 36,
+      "video_id": "kZsf_Sfm7RU",
+      "title": "The Missing Layer After Launch - Raphael Kalandadze, Wandero AI",
+      "duration": "19:33",
+      "duration_seconds": 1173,
+      "url": "https://www.youtube.com/watch?v=kZsf_Sfm7RU&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 37,
+      "video_id": "EfcfUB2uprc",
+      "title": "Stop Evaluating Models Like It's the 50s - Alejandro Vidal, Mindmakers",
+      "duration": "23:00",
+      "duration_seconds": 1380,
+      "url": "https://www.youtube.com/watch?v=EfcfUB2uprc&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 38,
+      "video_id": "7P0elyLIxXo",
+      "title": "What Does Done Even Mean? Agents and Paperclip's Liveness Model - Dotta, Paperclip",
+      "duration": "7:14",
+      "duration_seconds": 434,
+      "url": "https://www.youtube.com/watch?v=7P0elyLIxXo&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 39,
+      "video_id": "B8l81jhvHbI",
+      "title": "Enterprise Agents Have a Structure Problem - Ishita Daga, Tesla",
+      "duration": "12:08",
+      "duration_seconds": 728,
+      "url": "https://www.youtube.com/watch?v=B8l81jhvHbI&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 40,
+      "video_id": "fnLBmfsI_Fg",
+      "title": "Your Voice Agent Doesn't Need a Frontier Model - Joel Allou & Ornella Bahidika, Microsoft",
+      "duration": "5:45",
+      "duration_seconds": 345,
+      "url": "https://www.youtube.com/watch?v=fnLBmfsI_Fg&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 41,
+      "video_id": "m24UKZomm7k",
+      "title": "Don't Let the LLM Drive - Ornella Bahidika & Joel Allou, Microsoft",
+      "duration": "6:08",
+      "duration_seconds": 368,
+      "url": "https://www.youtube.com/watch?v=m24UKZomm7k&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 42,
+      "video_id": "4kYl2_mqmnQ",
+      "title": "I Run a Fleet of AI Agents Across Three Machines. Here's What Broke. - Kyle Jaejun Lee, KRAFTON",
+      "duration": "9:11",
+      "duration_seconds": 551,
+      "url": "https://www.youtube.com/watch?v=4kYl2_mqmnQ&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 43,
+      "video_id": "wEc9aG7cRQc",
+      "title": "Why Your Agent Disagrees With Itself (And What To Do About It) - Diane Lin, Datadog",
+      "duration": "25:38",
+      "duration_seconds": 1538,
+      "url": "https://www.youtube.com/watch?v=wEc9aG7cRQc&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 44,
+      "video_id": "9arM9b7JgOo",
+      "title": "Develop at Idea Velocity - Jeffrey Lee-Chan, Snapchat",
+      "duration": "17:01",
+      "duration_seconds": 1021,
+      "url": "https://www.youtube.com/watch?v=9arM9b7JgOo&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 45,
+      "video_id": "IQkVMvXQKLY",
+      "title": "Your LLM Deception Monitor Is Broken. The Fix Is in the Training Data - Sachin Kumar, LexisNexis",
+      "duration": "13:58",
+      "duration_seconds": 838,
+      "url": "https://www.youtube.com/watch?v=IQkVMvXQKLY&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 46,
+      "video_id": "TJPInBjhE4Q",
+      "title": "Your Coding Agent Is Creating Review Debt - Sachin Gupta",
+      "duration": "25:00",
+      "duration_seconds": 1500,
+      "url": "https://www.youtube.com/watch?v=TJPInBjhE4Q&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 47,
+      "video_id": "vJukHCIv7Ck",
+      "title": "Stop AI Agent Hallucinations: 5 Techniques + Production Patterns - Elizabeth Fuentes, AWS",
+      "duration": "55:19",
+      "duration_seconds": 3319,
+      "url": "https://www.youtube.com/watch?v=vJukHCIv7Ck&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 48,
+      "video_id": "sAOBXCDiDOs",
+      "title": "MCP Apps: Primitives, discovery, and the Future of Software - Pietro Zullo, Manufact, Inc",
+      "duration": "28:54",
+      "duration_seconds": 1734,
+      "url": "https://www.youtube.com/watch?v=sAOBXCDiDOs&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 49,
+      "video_id": "WLXxTaPagA8",
+      "title": "Every Solo Agent Builder Eventually Reinvents a Worse Version of CI/CD - Sumaiya Shrabony",
+      "duration": "10:51",
+      "duration_seconds": 651,
+      "url": "https://www.youtube.com/watch?v=WLXxTaPagA8&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 50,
+      "video_id": "EUsPvBeIx70",
+      "title": "Semantic Blindness: 500,000 Sensors Confused an LLM - Raahul Singh & Vanč Levstik, Phaidra",
+      "duration": "16:25",
+      "duration_seconds": 985,
+      "url": "https://www.youtube.com/watch?v=EUsPvBeIx70&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 51,
+      "video_id": "Rx8f05JI_WA",
+      "title": "SWE-Marathon: Evaluating Coding Agents at Billion-Token Scale - Rishi Desai, Abundant AI",
+      "duration": "12:58",
+      "duration_seconds": 778,
+      "url": "https://www.youtube.com/watch?v=Rx8f05JI_WA&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 52,
+      "video_id": "hVJOnuhFmTA",
+      "title": "The Prompt Is Still a Punch Card - Ted Johnson, JoinIn AI",
+      "duration": "20:13",
+      "duration_seconds": 1213,
+      "url": "https://www.youtube.com/watch?v=hVJOnuhFmTA&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 53,
+      "video_id": "7JgIS42mz7U",
+      "title": "The AI bugpocalypse is here. Now what? - Jack Cable, Corridor",
+      "duration": "19:44",
+      "duration_seconds": 1184,
+      "url": "https://www.youtube.com/watch?v=7JgIS42mz7U&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 54,
+      "video_id": "UlFB6efYN5Q",
+      "title": "A Song of Types and Agents - Roberto Stagi, Ratel",
+      "duration": "14:16",
+      "duration_seconds": 856,
+      "url": "https://www.youtube.com/watch?v=UlFB6efYN5Q&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 55,
+      "video_id": "spNAUEgq_A8",
+      "title": "The Future Is Domain-Specific Agents - Justin Schroeder, StandardAgents",
+      "duration": "30:38",
+      "duration_seconds": 1838,
+      "url": "https://www.youtube.com/watch?v=spNAUEgq_A8&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 56,
+      "video_id": "fWXJM-J0ZB8",
+      "title": "Frontier results, on device - RL Nabors, Arize",
+      "duration": "30:52",
+      "duration_seconds": 1852,
+      "url": "https://www.youtube.com/watch?v=fWXJM-J0ZB8&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 57,
+      "video_id": "0RNNfxpdbQk",
+      "title": "Medic for Apache Spark - First Aid for Failing Jobs - Drasko Profirovic, Pinterest",
+      "duration": "11:21",
+      "duration_seconds": 681,
+      "url": "https://www.youtube.com/watch?v=0RNNfxpdbQk&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 58,
+      "video_id": "LC3-P7v3yoI",
+      "title": "Skills are the New SDKs - Elvin Aghammadzada, DataRobot",
+      "duration": "26:40",
+      "duration_seconds": 1600,
+      "url": "https://www.youtube.com/watch?v=LC3-P7v3yoI&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 59,
+      "video_id": "hMlLw1LeIK8",
+      "title": "Voice Agents That Handle Interrupts - Chintan Agrawal, Amazon Web Services",
+      "duration": "32:57",
+      "duration_seconds": 1977,
+      "url": "https://www.youtube.com/watch?v=hMlLw1LeIK8&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 60,
+      "video_id": "2IxD9OB3XuQ",
+      "title": "Continual Learning for AI Agents: From Failures to Durable Improvements - Soheil Feizi, RELAI",
+      "duration": "22:35",
+      "duration_seconds": 1355,
+      "url": "https://www.youtube.com/watch?v=2IxD9OB3XuQ&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 61,
+      "video_id": "G6IlDzj8OjA",
+      "title": "GTM Is You - Victoria Melnikova, Evil Martians",
+      "duration": "12:35",
+      "duration_seconds": 755,
+      "url": "https://www.youtube.com/watch?v=G6IlDzj8OjA&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 62,
+      "video_id": "maTp79FD9gI",
+      "title": "Agent Output Is Not UX: Rendering Layer Your LLM Pipeline Is Missing - Bala Ramdoss, Amazon",
+      "duration": "14:13",
+      "duration_seconds": 853,
+      "url": "https://www.youtube.com/watch?v=maTp79FD9gI&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 63,
+      "video_id": "bRnoEpoK5m4",
+      "title": "The Pipeline Is Dead - Iris ten Teije, Sky Valley Ambient Computing",
+      "duration": "19:50",
+      "duration_seconds": 1190,
+      "url": "https://www.youtube.com/watch?v=bRnoEpoK5m4&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 64,
+      "video_id": "bZISsg7H7DA",
+      "title": "Your Agents Need a Save Button - Hamza Tahir, ZenML",
+      "duration": "17:07",
+      "duration_seconds": 1027,
+      "url": "https://www.youtube.com/watch?v=bZISsg7H7DA&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 65,
+      "video_id": "d_Ftrl3vfV0",
+      "title": "Your AI Product Will Fail Unless You Can Explain It - Veronica Hylak, Hey AI",
+      "duration": "6:02",
+      "duration_seconds": 362,
+      "url": "https://www.youtube.com/watch?v=d_Ftrl3vfV0&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 66,
+      "video_id": "Q9ycQHbDdJs",
+      "title": "Agents Need Receipts, Not More Tool Calls - Armanas Povilionis, Alithea Bio",
+      "duration": "10:23",
+      "duration_seconds": 623,
+      "url": "https://www.youtube.com/watch?v=Q9ycQHbDdJs&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 67,
+      "video_id": "ltv-L5oMPIs",
+      "title": "Build the AI GTM Agent That Knows the Buyer - Dr. Sajjan Kanukolanu, Position2 (Position Squared)",
+      "duration": "26:27",
+      "duration_seconds": 1587,
+      "url": "https://www.youtube.com/watch?v=ltv-L5oMPIs&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 68,
+      "video_id": "L3RuP_q8Bwc",
+      "title": "The UX of AI: Making AI-Powered Apps Your Users Don't Hate - Kathryn Grayson Nanz, Progress Software",
+      "duration": "35:59",
+      "duration_seconds": 2159,
+      "url": "https://www.youtube.com/watch?v=L3RuP_q8Bwc&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 69,
+      "video_id": "bUJgirn4_yc",
+      "title": "When Agents Meet Physical Data: The Other Physics of Agent Harnesses - Dmitry Petrov, DataChain",
+      "duration": "27:33",
+      "duration_seconds": 1653,
+      "url": "https://www.youtube.com/watch?v=bUJgirn4_yc&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 70,
+      "video_id": "CLttOU7n6sI",
+      "title": "Respect The Process - Andrew Dumit, Watershed Technology Inc.",
+      "duration": "16:43",
+      "duration_seconds": 1003,
+      "url": "https://www.youtube.com/watch?v=CLttOU7n6sI&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 71,
+      "video_id": "UcYoMg-8-L8",
+      "title": "500 people vibe-coded for 30 days. I was one of them. - Sanja Grbic, Automattic",
+      "duration": "17:49",
+      "duration_seconds": 1069,
+      "url": "https://www.youtube.com/watch?v=UcYoMg-8-L8&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 72,
+      "video_id": "CDqzWpwkSls",
+      "title": "Build AI Systems for Discernment, Not Approval - Angel Ortmann Lee, Duolingo",
+      "duration": "25:53",
+      "duration_seconds": 1553,
+      "url": "https://www.youtube.com/watch?v=CDqzWpwkSls&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 73,
+      "video_id": "2e9ANoOEn28",
+      "title": "What if the harness mattered more than the model? - Aditya Bhargava, Etsy",
+      "duration": "32:04",
+      "duration_seconds": 1924,
+      "url": "https://www.youtube.com/watch?v=2e9ANoOEn28&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 74,
+      "video_id": "1IdzkRVmWAA",
+      "title": "How we taught agents to use good retrieval - Hanna Lichtenberg, Mixedbread AI",
+      "duration": "14:28",
+      "duration_seconds": 868,
+      "url": "https://www.youtube.com/watch?v=1IdzkRVmWAA&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 75,
+      "video_id": "qdZzND79mcg",
+      "title": "Beyond the Harness: A Journey Towards Adaptative Engineering - Rajiv Chandegra, Annicha Labs",
+      "duration": "37:01",
+      "duration_seconds": 2221,
+      "url": "https://www.youtube.com/watch?v=qdZzND79mcg&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 76,
+      "video_id": "rX14bHH5wI0",
+      "title": "Build Neural Networks in TypeScript - Junichi Takahashi, and raindrops",
+      "duration": "13:54",
+      "duration_seconds": 834,
+      "url": "https://www.youtube.com/watch?v=rX14bHH5wI0&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 77,
+      "video_id": "rCVVsxHWai8",
+      "title": "10x - Reimagining Mobile Development Workflow - Orel Zion, stag.build",
+      "duration": "8:28",
+      "duration_seconds": 508,
+      "url": "https://www.youtube.com/watch?v=rCVVsxHWai8&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 78,
+      "video_id": "M7-KY0W-BPo",
+      "title": "Predicting Novel Research Directions in Big Pharma - Vasilije Markovic, cognee",
+      "duration": "3:24",
+      "duration_seconds": 204,
+      "url": "https://www.youtube.com/watch?v=M7-KY0W-BPo&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 79,
+      "video_id": "jtzh-GBXBWc",
+      "title": "The Factory That Dreams: 39 AI Agents, No Framework - Rushabh Doshi, Machinecraft",
+      "duration": "9:58",
+      "duration_seconds": 598,
+      "url": "https://www.youtube.com/watch?v=jtzh-GBXBWc&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 80,
+      "video_id": "UNzCG3lw6O0",
+      "title": "Building Great Agent Skills: The Missing Manual",
+      "duration": "20:43",
+      "duration_seconds": 1243,
+      "url": "https://www.youtube.com/watch?v=UNzCG3lw6O0&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    },
+    {
+      "index": 81,
+      "video_id": "4sX_He5c4sI",
+      "title": "WF2026: Autoresearch & Keynotes ft. Anthropic, Google DeepMind, Amazon AGI, Sonar, Arena, Recursive",
+      "duration": "8:51:56",
+      "duration_seconds": 31916,
+      "url": "https://www.youtube.com/watch?v=4sX_He5c4sI&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn"
+    }
+  ]
+}
