@@ -1,7 +1,7 @@
 {
   "playlist_id": "PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn",
   "video_count_checked": 81,
-  "caption_count": 76,
+  "caption_count": 81,
   "records": [
     {
       "index": 1,
@@ -657,14 +657,14 @@
       "index": 51,
       "video_id": "Rx8f05JI_WA",
       "title": "SWE-Marathon: Evaluating Coding Agents at Billion-Token Scale - Rishi Desai, Abundant AI",
-      "status": "too_short",
+      "status": "ok",
       "track_name": "summarize.sh extract",
       "language_code": "",
       "is_auto_generated": false,
-      "word_count": 0,
-      "raw_path": "",
-      "clean_path": "",
-      "error": "extracted text had only 96 words"
+      "word_count": 96,
+      "raw_path": "transcripts/raw/051-Rx8f05JI_WA.summarize.md",
+      "clean_path": "transcripts/clean/051-Rx8f05JI_WA.txt",
+      "error": ""
     },
     {
       "index": 52,
@@ -787,14 +787,14 @@
       "index": 61,
       "video_id": "G6IlDzj8OjA",
       "title": "GTM Is You - Victoria Melnikova, Evil Martians",
-      "status": "too_short",
+      "status": "ok",
       "track_name": "summarize.sh extract",
       "language_code": "",
       "is_auto_generated": false,
-      "word_count": 0,
-      "raw_path": "",
-      "clean_path": "",
-      "error": "extracted text had only 78 words"
+      "word_count": 78,
+      "raw_path": "transcripts/raw/061-G6IlDzj8OjA.summarize.md",
+      "clean_path": "transcripts/clean/061-G6IlDzj8OjA.txt",
+      "error": ""
     },
     {
       "index": 62,
@@ -943,14 +943,14 @@
       "index": 73,
       "video_id": "2e9ANoOEn28",
       "title": "What if the harness mattered more than the model? - Aditya Bhargava, Etsy",
-      "status": "too_short",
+      "status": "ok",
       "track_name": "summarize.sh extract",
       "language_code": "",
       "is_auto_generated": false,
-      "word_count": 0,
-      "raw_path": "",
-      "clean_path": "",
-      "error": "extracted text had only 76 words"
+      "word_count": 76,
+      "raw_path": "transcripts/raw/073-2e9ANoOEn28.summarize.md",
+      "clean_path": "transcripts/clean/073-2e9ANoOEn28.txt",
+      "error": ""
     },
     {
       "index": 74,
@@ -982,14 +982,14 @@
       "index": 76,
       "video_id": "rX14bHH5wI0",
       "title": "Build Neural Networks in TypeScript - Junichi Takahashi, and raindrops",
-      "status": "too_short",
+      "status": "ok",
       "track_name": "summarize.sh extract",
       "language_code": "",
       "is_auto_generated": false,
-      "word_count": 0,
-      "raw_path": "",
-      "clean_path": "",
-      "error": "extracted text had only 88 words"
+      "word_count": 88,
+      "raw_path": "transcripts/raw/076-rX14bHH5wI0.summarize.md",
+      "clean_path": "transcripts/clean/076-rX14bHH5wI0.txt",
+      "error": ""
     },
     {
       "index": 77,
@@ -1008,14 +1008,14 @@
       "index": 78,
       "video_id": "M7-KY0W-BPo",
       "title": "Predicting Novel Research Directions in Big Pharma - Vasilije Markovic, cognee",
-      "status": "too_short",
+      "status": "ok",
       "track_name": "summarize.sh extract",
       "language_code": "",
       "is_auto_generated": false,
-      "word_count": 0,
-      "raw_path": "",
-      "clean_path": "",
-      "error": "extracted text had only 98 words"
+      "word_count": 98,
+      "raw_path": "transcripts/raw/078-M7-KY0W-BPo.summarize.md",
+      "clean_path": "transcripts/clean/078-M7-KY0W-BPo.txt",
+      "error": ""
     },
     {
       "index": 79,

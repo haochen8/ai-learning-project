@@ -69,7 +69,7 @@ This index tracks the local open-source model notes in `summaries/model_based/`.
 ## Missing Transcript Queue
 
 - 050. Semantic Blindness: 500,000 Sensors Confused an LLM - Raahul Singh & Vanč Levstik, Phaidra - not summarized
-- 051. SWE-Marathon: Evaluating Coding Agents at Billion-Token Scale - Rishi Desai, Abundant AI - missing transcript
+- 051. SWE-Marathon: Evaluating Coding Agents at Billion-Token Scale - Rishi Desai, Abundant AI - not summarized
 - 052. The Prompt Is Still a Punch Card - Ted Johnson, JoinIn AI - not summarized
 - 053. The AI bugpocalypse is here. Now what? - Jack Cable, Corridor - not summarized
 - 054. A Song of Types and Agents - Roberto Stagi, Ratel - not summarized
@@ -79,7 +79,7 @@ This index tracks the local open-source model notes in `summaries/model_based/`.
 - 058. Skills are the New SDKs - Elvin Aghammadzada, DataRobot - not summarized
 - 059. Voice Agents That Handle Interrupts - Chintan Agrawal, Amazon Web Services - not summarized
 - 060. Continual Learning for AI Agents: From Failures to Durable Improvements - Soheil Feizi, RELAI - not summarized
-- 061. GTM Is You - Victoria Melnikova, Evil Martians - missing transcript
+- 061. GTM Is You - Victoria Melnikova, Evil Martians - not summarized
 - 062. Agent Output Is Not UX: Rendering Layer Your LLM Pipeline Is Missing - Bala Ramdoss, Amazon - not summarized
 - 063. The Pipeline Is Dead - Iris ten Teije, Sky Valley Ambient Computing - not summarized
 - 064. Your Agents Need a Save Button - Hamza Tahir, ZenML - not summarized
@@ -91,12 +91,12 @@ This index tracks the local open-source model notes in `summaries/model_based/`.
 - 070. Respect The Process - Andrew Dumit, Watershed Technology Inc. - not summarized
 - 071. 500 people vibe-coded for 30 days. I was one of them. - Sanja Grbic, Automattic - not summarized
 - 072. Build AI Systems for Discernment, Not Approval - Angel Ortmann Lee, Duolingo - not summarized
-- 073. What if the harness mattered more than the model? - Aditya Bhargava, Etsy - missing transcript
+- 073. What if the harness mattered more than the model? - Aditya Bhargava, Etsy - not summarized
 - 074. How we taught agents to use good retrieval - Hanna Lichtenberg, Mixedbread AI - not summarized
 - 075. Beyond the Harness: A Journey Towards Adaptative Engineering - Rajiv Chandegra, Annicha Labs - not summarized
-- 076. Build Neural Networks in TypeScript - Junichi Takahashi, and raindrops - missing transcript
+- 076. Build Neural Networks in TypeScript - Junichi Takahashi, and raindrops - not summarized
 - 077. 10x - Reimagining Mobile Development Workflow - Orel Zion, stag.build - not summarized
-- 078. Predicting Novel Research Directions in Big Pharma - Vasilije Markovic, cognee - missing transcript
+- 078. Predicting Novel Research Directions in Big Pharma - Vasilije Markovic, cognee - not summarized
 - 079. The Factory That Dreams: 39 AI Agents, No Framework - Rushabh Doshi, Machinecraft - not summarized
 - 080. Building Great Agent Skills: The Missing Manual - not summarized
 - 081. WF2026: Autoresearch & Keynotes ft. Anthropic, Google DeepMind, Amazon AGI, Sonar, Arena, Recursive - not summarized
