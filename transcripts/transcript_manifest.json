@@ -1,7 +1,7 @@
 {
   "playlist_id": "PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn",
   "video_count_checked": 81,
-  "caption_count": 54,
+  "caption_count": 57,
   "records": [
     {
       "index": 1,
@@ -722,40 +722,40 @@
       "index": 56,
       "video_id": "fWXJM-J0ZB8",
       "title": "Frontier results, on device - RL Nabors, Arize",
-      "status": "error",
-      "track_name": "English (auto-generated)",
-      "language_code": "en",
-      "is_auto_generated": true,
-      "word_count": 0,
-      "raw_path": "",
-      "clean_path": "",
-      "error": "HTTP Error 429: Too Many Requests"
+      "status": "ok",
+      "track_name": "summarize.sh extract",
+      "language_code": "",
+      "is_auto_generated": false,
+      "word_count": 249,
+      "raw_path": "transcripts/raw/056-fWXJM-J0ZB8.summarize.md",
+      "clean_path": "transcripts/clean/056-fWXJM-J0ZB8.txt",
+      "error": ""
     },
     {
       "index": 57,
       "video_id": "0RNNfxpdbQk",
       "title": "Medic for Apache Spark - First Aid for Failing Jobs - Drasko Profirovic, Pinterest",
-      "status": "error",
-      "track_name": "English (auto-generated)",
-      "language_code": "en",
-      "is_auto_generated": true,
-      "word_count": 0,
-      "raw_path": "",
-      "clean_path": "",
-      "error": "HTTP Error 429: Too Many Requests"
+      "status": "ok",
+      "track_name": "summarize.sh extract",
+      "language_code": "",
+      "is_auto_generated": false,
+      "word_count": 325,
+      "raw_path": "transcripts/raw/057-0RNNfxpdbQk.summarize.md",
+      "clean_path": "transcripts/clean/057-0RNNfxpdbQk.txt",
+      "error": ""
     },
     {
       "index": 58,
       "video_id": "LC3-P7v3yoI",
       "title": "Skills are the New SDKs - Elvin Aghammadzada, DataRobot",
-      "status": "error",
-      "track_name": "English (auto-generated)",
-      "language_code": "en",
-      "is_auto_generated": true,
-      "word_count": 0,
-      "raw_path": "",
-      "clean_path": "",
-      "error": "HTTP Error 429: Too Many Requests"
+      "status": "ok",
+      "track_name": "summarize.sh extract",
+      "language_code": "",
+      "is_auto_generated": false,
+      "word_count": 197,
+      "raw_path": "transcripts/raw/058-LC3-P7v3yoI.summarize.md",
+      "clean_path": "transcripts/clean/058-LC3-P7v3yoI.txt",
+      "error": ""
     },
     {
       "index": 59,

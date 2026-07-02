@@ -74,9 +74,9 @@ This index tracks the local open-source model notes in `summaries/model_based/`.
 - 053. The AI bugpocalypse is here. Now what? - Jack Cable, Corridor - not summarized
 - 054. A Song of Types and Agents - Roberto Stagi, Ratel - not summarized
 - 055. The Future Is Domain-Specific Agents - Justin Schroeder, StandardAgents - not summarized
-- 056. Frontier results, on device - RL Nabors, Arize - missing transcript
-- 057. Medic for Apache Spark - First Aid for Failing Jobs - Drasko Profirovic, Pinterest - missing transcript
-- 058. Skills are the New SDKs - Elvin Aghammadzada, DataRobot - missing transcript
+- 056. Frontier results, on device - RL Nabors, Arize - not summarized
+- 057. Medic for Apache Spark - First Aid for Failing Jobs - Drasko Profirovic, Pinterest - not summarized
+- 058. Skills are the New SDKs - Elvin Aghammadzada, DataRobot - not summarized
 - 059. Voice Agents That Handle Interrupts - Chintan Agrawal, Amazon Web Services - missing transcript
 - 060. Continual Learning for AI Agents: From Failures to Durable Improvements - Soheil Feizi, RELAI - missing transcript
 - 061. GTM Is You - Victoria Melnikova, Evil Martians - missing transcript
