@@ -71,9 +71,9 @@ This index tracks the local open-source model notes in `summaries/model_based/`.
 - 050. Semantic Blindness: 500,000 Sensors Confused an LLM - Raahul Singh & Vanč Levstik, Phaidra - not summarized
 - 051. SWE-Marathon: Evaluating Coding Agents at Billion-Token Scale - Rishi Desai, Abundant AI - missing transcript
 - 052. The Prompt Is Still a Punch Card - Ted Johnson, JoinIn AI - not summarized
-- 053. The AI bugpocalypse is here. Now what? - Jack Cable, Corridor - missing transcript
-- 054. A Song of Types and Agents - Roberto Stagi, Ratel - missing transcript
-- 055. The Future Is Domain-Specific Agents - Justin Schroeder, StandardAgents - missing transcript
+- 053. The AI bugpocalypse is here. Now what? - Jack Cable, Corridor - not summarized
+- 054. A Song of Types and Agents - Roberto Stagi, Ratel - not summarized
+- 055. The Future Is Domain-Specific Agents - Justin Schroeder, StandardAgents - not summarized
 - 056. Frontier results, on device - RL Nabors, Arize - missing transcript
 - 057. Medic for Apache Spark - First Aid for Failing Jobs - Drasko Profirovic, Pinterest - missing transcript
 - 058. Skills are the New SDKs - Elvin Aghammadzada, DataRobot - missing transcript
