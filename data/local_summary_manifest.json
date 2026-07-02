@@ -324,8 +324,73 @@
       "chunks": 3,
       "elapsed_seconds": 177.3576409816742,
       "error": ""
+    },
+    {
+      "index": 26,
+      "video_id": "Lc8zRh9muoY",
+      "title": "Your Agent Failed in Prod. Good Luck Reproducing It. - Tisha Chawla & Susheem Koul, Microsoft",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/026-your-agent-failed-in-prod-good-luck-reproducing-it.md",
+      "transcript_words": 2395,
+      "chunks": 3,
+      "elapsed_seconds": 74.69192409515381,
+      "error": ""
+    },
+    {
+      "index": 28,
+      "video_id": "6bmM45jkMDY",
+      "title": "You Can't Prompt the Room: The Last Skill AI Won't Replace - Balázs Horváth, VisualLabs",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/028-you-can-t-prompt-the-room-the-last-skill-ai-won-t-replace.md",
+      "transcript_words": 2339,
+      "chunks": 3,
+      "elapsed_seconds": 75.61636900901794,
+      "error": ""
+    },
+    {
+      "index": 29,
+      "video_id": "APh1Vx0oLmQ",
+      "title": "Deterministic Infra for Non-Deterministic AI Agents - Nishant Gupta, Meta Superintelligence Labs",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/029-deterministic-infra-for-non-deterministic-ai-agents.md",
+      "transcript_words": 1047,
+      "chunks": 2,
+      "elapsed_seconds": 26.078025817871094,
+      "error": ""
+    },
+    {
+      "index": 30,
+      "video_id": "pSto5YaNGUo",
+      "title": "The Agentic AI Engineer - Benedikt Sanftl, Mutagent",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/030-the-agentic-ai-engineer.md",
+      "transcript_words": 4306,
+      "chunks": 5,
+      "elapsed_seconds": 142.59199595451355,
+      "error": ""
+    },
+    {
+      "index": 31,
+      "video_id": "DqtmZE6Hl0g",
+      "title": "The Prompt is the Platform - Dominik Tornow, Resonate HQ",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/031-the-prompt-is-the-platform.md",
+      "transcript_words": 2091,
+      "chunks": 3,
+      "elapsed_seconds": 59.975701332092285,
+      "error": ""
     }
   ],
-  "ok_count": 25,
+  "ok_count": 30,
   "dry_run_count": 0
 }
