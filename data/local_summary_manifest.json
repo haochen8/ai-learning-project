@@ -259,8 +259,73 @@
       "chunks": 2,
       "elapsed_seconds": 59.90779399871826,
       "error": ""
+    },
+    {
+      "index": 21,
+      "video_id": "T0HhO4YtTfE",
+      "title": "AI System Design: From Idea to Production - Apoorva Joshi, MongoDB",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/021-ai-system-design-from-idea-to-production.md",
+      "transcript_words": 4199,
+      "chunks": 5,
+      "elapsed_seconds": 306.74290204048157,
+      "error": ""
+    },
+    {
+      "index": 22,
+      "video_id": "uiP88SpCi1Q",
+      "title": "Your Agent Is Wasting Tokens and You Don't Know It - Erik Hanchett, AWS",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/022-your-agent-is-wasting-tokens-and-you-don-t-know-it.md",
+      "transcript_words": 1001,
+      "chunks": 2,
+      "elapsed_seconds": 96.07336115837097,
+      "error": ""
+    },
+    {
+      "index": 23,
+      "video_id": "dRmWYHuIJxM",
+      "title": "We Cut 94% of AI Coding Tokens With a Local Code Index - Rajkumar Sakthivel, Tesco",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/023-we-cut-94-of-ai-coding-tokens-with-a-local-code-index.md",
+      "transcript_words": 1327,
+      "chunks": 2,
+      "elapsed_seconds": 96.52405214309692,
+      "error": ""
+    },
+    {
+      "index": 24,
+      "video_id": "Iwe_RY-fYgI",
+      "title": "AI-Driven Multi-Document Correlation for Financial Compliance - Varsha Shah, Independent",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/024-ai-driven-multi-document-correlation-for-financial-compliance.md",
+      "transcript_words": 2315,
+      "chunks": 4,
+      "elapsed_seconds": 184.13619112968445,
+      "error": ""
+    },
+    {
+      "index": 25,
+      "video_id": "65X0pQ6Lmbg",
+      "title": "Voice In, Visuals Out: The Agony and the Ecstasy - Allen Pike, Forestwalk Labs",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/025-voice-in-visuals-out-the-agony-and-the-ecstasy.md",
+      "transcript_words": 1938,
+      "chunks": 3,
+      "elapsed_seconds": 177.3576409816742,
+      "error": ""
     }
   ],
-  "ok_count": 20,
+  "ok_count": 25,
   "dry_run_count": 0
 }
