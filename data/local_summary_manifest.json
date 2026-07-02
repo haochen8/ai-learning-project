@@ -1,0 +1,19 @@
+{
+  "records": [
+    {
+      "index": 1,
+      "video_id": "3hXJI2q0Jz8",
+      "title": "Recursive Coding Agents - Raymond Weitekamp, OpenProse",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/001-recursive-coding-agents.md",
+      "transcript_words": 3703,
+      "chunks": 4,
+      "elapsed_seconds": 53.064849853515625,
+      "error": ""
+    }
+  ],
+  "ok_count": 1,
+  "dry_run_count": 0
+}

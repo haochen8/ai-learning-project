@@ -143,6 +143,230 @@ Transcript chunk:
 """
 
 
+STOPWORDS = {
+    "about",
+    "actually",
+    "after",
+    "again",
+    "also",
+    "because",
+    "been",
+    "before",
+    "being",
+    "between",
+    "could",
+    "does",
+    "doing",
+    "done",
+    "from",
+    "going",
+    "have",
+    "here",
+    "into",
+    "just",
+    "like",
+    "more",
+    "much",
+    "need",
+    "only",
+    "over",
+    "really",
+    "right",
+    "should",
+    "some",
+    "something",
+    "than",
+    "that",
+    "their",
+    "there",
+    "these",
+    "they",
+    "thing",
+    "think",
+    "this",
+    "those",
+    "through",
+    "very",
+    "want",
+    "what",
+    "when",
+    "where",
+    "which",
+    "with",
+    "would",
+    "your",
+}
+
+
+def sentence_split(text: str) -> list[str]:
+    compact = re.sub(r"\s+", " ", text).strip()
+    return [sentence.strip() for sentence in re.split(r"(?<=[.!?])\s+", compact) if sentence.strip()]
+
+
+def keywords(text: str, limit: int = 12) -> list[str]:
+    counts: dict[str, int] = {}
+    for word in re.findall(r"\b[a-zA-Z][a-zA-Z0-9_-]{3,}\b", text.lower()):
+        if word in STOPWORDS:
+            continue
+        counts[word] = counts.get(word, 0) + 1
+    return [word for word, _ in sorted(counts.items(), key=lambda item: (-item[1], item[0]))[:limit]]
+
+
+def representative_sentences(text: str, limit: int = 5) -> list[str]:
+    terms = set(keywords(text, limit=30))
+    scored: list[tuple[int, int, str]] = []
+    for position, sentence in enumerate(sentence_split(text)):
+        words = re.findall(r"\b[a-zA-Z][a-zA-Z0-9_-]{3,}\b", sentence.lower())
+        if len(words) < 8 or len(words) > 45:
+            continue
+        score = sum(1 for word in words if word in terms)
+        if score:
+            scored.append((score, -position, sentence))
+    selected = [sentence for _, _, sentence in sorted(scored, reverse=True)[:limit]]
+    return selected
+
+
+def short_anchor(sentence: str, max_words: int = 18) -> str:
+    words = sentence.split()
+    if len(words) <= max_words:
+        return sentence
+    return " ".join(words[:max_words]).rstrip(".,;:") + "..."
+
+
+def proper_terms(text: str, limit: int = 8) -> list[str]:
+    candidates = re.findall(r"\b(?:[A-Z][A-Za-z0-9+.-]*|[A-Z]{2,})(?:\s+(?:[A-Z][A-Za-z0-9+.-]*|[A-Z]{2,}))*", text)
+    counts: dict[str, int] = {}
+    ignored = {"And", "And I", "But", "Okay", "So", "The", "This", "Title", "Duration", "Transcript"}
+    for candidate in candidates:
+        cleaned = candidate.strip()
+        first_word = cleaned.split()[0].lower()
+        if len(cleaned) < 3 or cleaned in ignored or first_word in STOPWORDS:
+            continue
+        counts[cleaned] = counts.get(cleaned, 0) + 1
+    return [term for term, _ in sorted(counts.items(), key=lambda item: (-item[1], item[0]))[:limit]]
+
+
+def clean_bullets(text: str, limit: int = 10) -> list[str]:
+    bullets: list[str] = []
+    ignored = {
+        "5-10 concrete bullets",
+        "concepts, tools, frameworks, or patterns the learner should recognize",
+        "practical risks mentioned or implied",
+        "risks and failure modes",
+        "technical ideas",
+        "learning signals",
+    }
+    for line in text.splitlines():
+        cleaned = re.sub(r"^\s*[-*]\s*", "", line).strip()
+        cleaned = re.sub(r"^\d+\.\s*", "", cleaned).strip()
+        cleaned = re.sub(r"^#+\s*", "", cleaned).strip()
+        normalized = cleaned.lower().strip(":.")
+        if not cleaned or cleaned.lower().startswith(("transcript chunk", "return markdown")):
+            continue
+        if normalized.startswith(("5-10 ", "learning signals", "risks and failure modes")):
+            continue
+        if normalized in ignored:
+            continue
+        if 20 <= len(cleaned) <= 220 and cleaned not in bullets:
+            bullets.append(cleaned)
+        if len(bullets) >= limit:
+            break
+    return bullets
+
+
+def build_template_note(video: dict, transcript: str, chunk_summaries: list[str]) -> str:
+    topic = title_topic(video["title"])
+    named_terms = proper_terms(transcript, limit=8)
+    terms = named_terms + [
+        term
+        for term in keywords(transcript + "\n" + "\n".join(chunk_summaries), limit=14)
+        if term not in {item.lower() for item in named_terms}
+    ]
+    signals = clean_bullets("\n".join(chunk_summaries), limit=10)
+    anchors = representative_sentences(transcript, limit=5)
+    concept_terms = []
+    for term in [topic] + terms:
+        if term.lower() not in {item.lower() for item in concept_terms}:
+            concept_terms.append(term)
+        if len(concept_terms) >= 8:
+            break
+    if not concept_terms:
+        concept_terms = [slugify(topic).replace("-", " ")]
+    learning_bullets = [
+        f"How {topic} decomposes a larger AI engineering task into smaller reasoning or implementation steps.",
+        f"Which named tools, models, or frameworks matter in the talk: {', '.join(concept_terms[:5])}.",
+        "How to distinguish a convincing demo from a workflow that has been evaluated carefully.",
+        "Where context handling, intermediate assumptions, and orchestration can fail.",
+        "What smallest prototype would let you test the talk's main claim yourself.",
+    ]
+
+    def bullet_lines(items: Iterable[str]) -> str:
+        return "\n".join(f"- {item.rstrip('.')}" for item in items)
+
+    key_concepts = "\n".join(
+        f"- {term}: recurring transcript signal to connect back to {topic}."
+        for term in concept_terms
+    )
+    practical = [
+        f"Map the talk's claims into a small prototype before treating {topic} as a production pattern.",
+        "Separate what the speaker demonstrates from what still needs evaluation.",
+        "Track inputs, outputs, assumptions, and failure cases for each agent or model step.",
+        "Convert vague workflow ideas into tests, review checkpoints, and rollback paths.",
+    ]
+    if anchors:
+        practical.append("Use the transcript anchors below as review targets when rewatching the talk.")
+
+    review_terms = concept_terms[:5]
+    review_questions = [
+        f"What problem is {topic} trying to solve?",
+        f"Which assumption in the talk would be riskiest in production?",
+        f"How would you evaluate whether {topic} improves an AI engineering workflow?",
+        f"Which part should be prototyped first, and what is the smallest useful demo?",
+        f"How do these terms connect: {', '.join(review_terms)}?",
+    ]
+
+    anchor_lines = bullet_lines(short_anchor(anchor) for anchor in anchors) if anchors else "- No stable transcript anchors extracted."
+    model_observations = bullet_lines(signals[:5]) if signals else "- No usable local-model observations extracted."
+    return f"""\
+# {video['title']}
+
+## Executive Summary
+This is a local, model-assisted study note for **{topic}**. The local LLM summarized transcript chunks, then this final note was assembled into a stable learning format to avoid small-model formatting drift.
+
+The transcript signals repeated attention to: {', '.join(concept_terms)}. Treat the note as a learning scaffold: use it to decide what to rewatch, what to prototype, and what needs verification against the original talk.
+
+## What To Learn
+{bullet_lines(learning_bullets)}
+
+## Key Concepts
+{key_concepts}
+
+## Model-Assisted Observations
+{model_observations}
+
+## Practical Takeaways
+{bullet_lines(practical)}
+
+## Implementation Sketch
+Build a small prototype inspired by **{topic}**. Define one input task, one model or agent workflow, one observable output, and two evaluation checks. Log every intermediate step so you can compare model behavior against the speaker's claims instead of relying on impressions.
+
+## Failure Modes
+- The workflow may look convincing while hiding weak evaluation.
+- Long-context or multi-step agent behavior can degrade when intermediate assumptions are wrong.
+- Small local models may compress nuance; verify important claims against the transcript or video.
+- A demo pattern may not transfer cleanly to production constraints such as latency, cost, privacy, and maintainability.
+
+## Transcript Anchors
+{anchor_lines}
+
+## Watch Recommendation
+Watch if you are studying agent workflows, recursive decomposition, or AI engineering process design. Skim first if you only need the high-level idea, then return to the transcript anchors above for details.
+
+## Review Questions
+{bullet_lines(review_questions)}
+"""
+
+
 def final_prompt(video: dict, chunk_summaries: list[str]) -> str:
     joined = "\n\n---\n\n".join(chunk_summaries)
     return f"""\
@@ -187,14 +411,27 @@ Chunk summaries:
 """
 
 
-def ollama_generate(prompt: str, model: str, endpoint: str, temperature: float, timeout: int) -> str:
+def ollama_generate(
+    prompt: str,
+    model: str,
+    endpoint: str,
+    temperature: float,
+    timeout: int,
+    num_predict: int,
+    num_ctx: int,
+) -> str:
+    options = {
+        "temperature": temperature,
+    }
+    if num_predict > 0:
+        options["num_predict"] = num_predict
+    if num_ctx > 0:
+        options["num_ctx"] = num_ctx
     payload = {
         "model": model,
         "prompt": prompt,
         "stream": False,
-        "options": {
-            "temperature": temperature,
-        },
+        "options": options,
     }
     request = Request(
         endpoint.rstrip("/") + "/api/generate",
@@ -213,6 +450,7 @@ def llama_cpp_generate(
     gguf_model: str,
     temperature: float,
     timeout: int,
+    num_predict: int,
 ) -> str:
     command = [
         llama_cli,
@@ -223,19 +461,34 @@ def llama_cpp_generate(
         "--temp",
         str(temperature),
         "-n",
-        "2048",
+        str(num_predict if num_predict > 0 else 2048),
     ]
     result = subprocess.run(command, check=True, capture_output=True, text=True, timeout=timeout)
     return result.stdout.strip()
 
 
-def generate(prompt: str, args: argparse.Namespace) -> str:
+def generate(prompt: str, args: argparse.Namespace, num_predict: int) -> str:
     if args.backend == "ollama":
-        return ollama_generate(prompt, args.model, args.ollama_endpoint, args.temperature, args.timeout)
+        return ollama_generate(
+            prompt,
+            args.model,
+            args.ollama_endpoint,
+            args.temperature,
+            args.timeout,
+            num_predict,
+            args.num_ctx,
+        )
     if args.backend == "llama-cpp":
         if not args.llama_cli or not args.gguf_model:
             raise ValueError("--llama-cli and --gguf-model are required for llama-cpp backend")
-        return llama_cpp_generate(prompt, args.llama_cli, args.gguf_model, args.temperature, args.timeout)
+        return llama_cpp_generate(
+            prompt,
+            args.llama_cli,
+            args.gguf_model,
+            args.temperature,
+            args.timeout,
+            num_predict,
+        )
     raise ValueError(f"Unsupported backend: {args.backend}")
 
 
@@ -278,6 +531,9 @@ def summarize_video(video: dict, record: dict, args: argparse.Namespace) -> Summ
     if not transcript.strip():
         summary_record.status = "missing_transcript"
         return summary_record
+    if args.max_transcript_words and transcript_words > args.max_transcript_words:
+        summary_record.status = "skipped_too_long"
+        return summary_record
 
     chunks = chunk_text(transcript, args.chunk_chars)
     summary_record.chunks = len(chunks)
@@ -293,10 +549,21 @@ def summarize_video(video: dict, record: dict, args: argparse.Namespace) -> Summ
 
     chunk_summaries: list[str] = []
     for idx, chunk in enumerate(chunks, start=1):
+        if args.progress:
+            print(
+                f"{video['index']:03d} chunk {idx}/{len(chunks)} "
+                f"words={transcript_words} {video['title']}",
+                flush=True,
+            )
         prompt = chunk_prompt(video, chunk, idx, len(chunks))
-        chunk_summaries.append(generate(prompt, args))
+        chunk_summaries.append(generate(prompt, args, args.chunk_num_predict))
 
-    final_markdown = generate(final_prompt(video, chunk_summaries), args)
+    if args.synthesis_mode == "template":
+        final_markdown = build_template_note(video, transcript, chunk_summaries)
+    else:
+        if args.progress:
+            print(f"{video['index']:03d} final synthesis {video['title']}", flush=True)
+        final_markdown = generate(final_prompt(video, chunk_summaries), args, args.final_num_predict)
     if not final_markdown.startswith("# "):
         final_markdown = f"# {video['title']}\n\n{final_markdown}"
 
@@ -336,6 +603,12 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--chunk-chars", type=int, default=12000)
     parser.add_argument("--temperature", type=float, default=0.2)
     parser.add_argument("--timeout", type=int, default=600)
+    parser.add_argument("--chunk-num-predict", type=int, default=450)
+    parser.add_argument("--final-num-predict", type=int, default=1100)
+    parser.add_argument("--num-ctx", type=int, default=8192)
+    parser.add_argument("--max-transcript-words", type=int, default=0)
+    parser.add_argument("--synthesis-mode", choices=["llm", "template"], default="llm")
+    parser.add_argument("--progress", action="store_true")
     parser.add_argument("--dry-run", action="store_true")
     return parser.parse_args()
 
