@@ -30,7 +30,9 @@ Status:
 
 - [x] First-pass structured notes from metadata and transcript term analysis
 - [x] Local open-source LLM summarization pipeline scaffold
-- [ ] Run local model summaries after installing/pulling a local model runtime
+- [x] Run local model summaries after installing/pulling a local model runtime
+- [x] Generate model-based study index and review schedule
+- [ ] Continue missing transcript extraction in cost-controlled batches
 
 ## Phase 4: Learning Design
 
@@ -48,3 +50,6 @@ Status:
 - [x] `study-plan/flashcards.md`
 - [x] `study-plan/exercises.md`
 - [x] `study-plan/watch_order.md`
+- [x] `study-plan/model_based_index.md`
+- [x] `study-plan/model_based_learning_path.md`
+- [x] `study-plan/review_schedule.md`

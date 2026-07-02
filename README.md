@@ -51,6 +51,18 @@ Outputs:
 - `summaries/model_based/`
 - `data/local_summary_manifest.json`
 
+Build the model-based study plan from generated notes:
+
+```bash
+python3 scripts/build_model_study_plan.py
+```
+
+Outputs:
+
+- `study-plan/model_based_index.md`
+- `study-plan/model_based_learning_path.md`
+- `study-plan/review_schedule.md`
+
 ## Transcription Strategy
 
 Preferred order:
