@@ -506,8 +506,60 @@
       "chunks": 1,
       "elapsed_seconds": 16.78248691558838,
       "error": ""
+    },
+    {
+      "index": 41,
+      "video_id": "m24UKZomm7k",
+      "title": "Don't Let the LLM Drive - Ornella Bahidika & Joel Allou, Microsoft",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/041-don-t-let-the-llm-drive.md",
+      "transcript_words": 991,
+      "chunks": 2,
+      "elapsed_seconds": 629.2893919944763,
+      "error": ""
+    },
+    {
+      "index": 42,
+      "video_id": "4kYl2_mqmnQ",
+      "title": "I Run a Fleet of AI Agents Across Three Machines. Here's What Broke. - Kyle Jaejun Lee, KRAFTON",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/042-i-run-a-fleet-of-ai-agents-across-three-machines-here-s-what-broke.md",
+      "transcript_words": 1651,
+      "chunks": 2,
+      "elapsed_seconds": 30.41242003440857,
+      "error": ""
+    },
+    {
+      "index": 43,
+      "video_id": "wEc9aG7cRQc",
+      "title": "Why Your Agent Disagrees With Itself (And What To Do About It) - Diane Lin, Datadog",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/043-why-your-agent-disagrees-with-itself-and-what-to-do-about-it.md",
+      "transcript_words": 2873,
+      "chunks": 4,
+      "elapsed_seconds": 51.02200484275818,
+      "error": ""
+    },
+    {
+      "index": 44,
+      "video_id": "9arM9b7JgOo",
+      "title": "Develop at Idea Velocity - Jeffrey Lee-Chan, Snapchat",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/044-develop-at-idea-velocity.md",
+      "transcript_words": 2676,
+      "chunks": 3,
+      "elapsed_seconds": 49.7236111164093,
+      "error": ""
     }
   ],
-  "ok_count": 38,
+  "ok_count": 42,
   "dry_run_count": 0
 }

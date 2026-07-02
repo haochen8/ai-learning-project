@@ -279,8 +279,17 @@ def proper_terms(text: str, limit: int = 8) -> list[str]:
     }
     for candidate in candidates:
         cleaned = re.sub(r"\s+", " ", candidate).strip(" .,:;!?")
-        first_word = cleaned.split()[0].lower()
-        if len(cleaned) < 3 or "." in cleaned or cleaned in ignored or first_word in STOPWORDS:
+        words = cleaned.split()
+        lowered_words = {word.lower() for word in words}
+        first_word = words[0].lower()
+        filler_words = {"i", "um", "uh", "so"}
+        if (
+            len(cleaned) < 3
+            or "." in cleaned
+            or cleaned in ignored
+            or first_word in STOPWORDS
+            or lowered_words & filler_words
+        ):
             continue
         counts[cleaned] = counts.get(cleaned, 0) + 1
     return [term for term, _ in sorted(counts.items(), key=lambda item: (-item[1], item[0]))[:limit]]
@@ -303,7 +312,7 @@ def clean_bullets(text: str, limit: int = 10) -> list[str]:
         cleaned = re.sub(r"^\d+\.\s*", "", cleaned).strip()
         cleaned = re.sub(r"^#+\s*", "", cleaned).strip()
         normalized = cleaned.lower().strip(":.")
-        if not cleaned or cleaned.lower().startswith(("transcript chunk", "return markdown")):
+        if not cleaned or normalized.startswith(("transcript chunk", "return markdown")):
             continue
         if normalized.startswith(
             (
