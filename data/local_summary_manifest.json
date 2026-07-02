@@ -558,8 +558,47 @@
       "chunks": 3,
       "elapsed_seconds": 49.7236111164093,
       "error": ""
+    },
+    {
+      "index": 45,
+      "video_id": "IQkVMvXQKLY",
+      "title": "Your LLM Deception Monitor Is Broken. The Fix Is in the Training Data - Sachin Kumar, LexisNexis",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/045-your-llm-deception-monitor-is-broken-the-fix-is-in-the-training-data.md",
+      "transcript_words": 2179,
+      "chunks": 3,
+      "elapsed_seconds": 75.88175201416016,
+      "error": ""
+    },
+    {
+      "index": 46,
+      "video_id": "TJPInBjhE4Q",
+      "title": "Your Coding Agent Is Creating Review Debt - Sachin Gupta",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/046-your-coding-agent-is-creating-review-debt.md",
+      "transcript_words": 3893,
+      "chunks": 5,
+      "elapsed_seconds": 153.10566592216492,
+      "error": ""
+    },
+    {
+      "index": 47,
+      "video_id": "vJukHCIv7Ck",
+      "title": "Stop AI Agent Hallucinations: 5 Techniques + Production Patterns - Elizabeth Fuentes, AWS",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/047-stop-ai-agent-hallucinations-5-techniques-production-patterns.md",
+      "transcript_words": 7195,
+      "chunks": 8,
+      "elapsed_seconds": 291.3366160392761,
+      "error": ""
     }
   ],
-  "ok_count": 42,
+  "ok_count": 45,
   "dry_run_count": 0
 }
