@@ -64,8 +64,73 @@
       "chunks": 4,
       "elapsed_seconds": 88.68259286880493,
       "error": ""
+    },
+    {
+      "index": 6,
+      "video_id": "ZRM_TfEZcIo",
+      "title": "Turn 10,994 Notes Into Memory - Paul Iusztin, Decoding AI & Louis-François Bouchard, Towards AI",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/006-turn-10-994-notes-into-memory.md",
+      "transcript_words": 6564,
+      "chunks": 8,
+      "elapsed_seconds": 201.94385290145874,
+      "error": ""
+    },
+    {
+      "index": 7,
+      "video_id": "ZD9-4fW2HhM",
+      "title": "Build Systems, Not Code - Angie Jones, Agentic AI Foundation",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/007-build-systems-not-code.md",
+      "transcript_words": 3006,
+      "chunks": 4,
+      "elapsed_seconds": 107.31681418418884,
+      "error": ""
+    },
+    {
+      "index": 8,
+      "video_id": "ij-AU9dpJjc",
+      "title": "Stop Writing Tone Instructions. Layer Them. - Isadora Martin-Dye, Isadora & Co",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/008-stop-writing-tone-instructions-layer-them.md",
+      "transcript_words": 3718,
+      "chunks": 5,
+      "elapsed_seconds": 148.41788697242737,
+      "error": ""
+    },
+    {
+      "index": 9,
+      "video_id": "4uFVSLgD2Q4",
+      "title": "Agents in Production: How OpenGov Built and Scaled OG Assist - Gabe De Mesa, OpenGov",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/009-agents-in-production-how-opengov-built-and-scaled-og-assist.md",
+      "transcript_words": 3047,
+      "chunks": 4,
+      "elapsed_seconds": 121.65521812438965,
+      "error": ""
+    },
+    {
+      "index": 10,
+      "video_id": "whue9_YquGA",
+      "title": "Building an Autonomous Engineering Org - Angie Jones, Agentic AI Foundation",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/010-building-an-autonomous-engineering-org.md",
+      "transcript_words": 2732,
+      "chunks": 4,
+      "elapsed_seconds": 124.46262311935425,
+      "error": ""
     }
   ],
-  "ok_count": 5,
+  "ok_count": 10,
   "dry_run_count": 0
 }
