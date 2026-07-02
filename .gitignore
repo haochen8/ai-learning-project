@@ -17,8 +17,11 @@ video/
 *.wav
 *.m4a
 
-# Keep generated text artifacts tracked by default:
-# data/
-# transcripts/
-# summaries/
-# study-plan/
+# Large or verbatim transcript artifacts stay local by default.
+transcripts/raw/
+transcripts/clean/
+
+# Lightweight manifests and derived study notes are tracked.
+!transcripts/
+!transcripts/README.md
+!transcripts/transcript_manifest.json
