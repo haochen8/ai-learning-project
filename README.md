@@ -36,11 +36,25 @@ Create a practical study system from the playlist:
    - summarize each video into `summaries/`
    - assemble the final learning path in `study-plan/`
 
+## Local Model Summaries
+
+The project can generate richer summaries with local open-source models and no OpenAI API calls. See `LOCAL_MODELS.md`.
+
+Example with Ollama:
+
+```bash
+python3 scripts/summarize_with_local_llm.py --backend ollama --model qwen2.5:7b-instruct --limit 3
+```
+
+Outputs:
+
+- `summaries/model_based/`
+- `data/local_summary_manifest.json`
+
 ## Transcription Strategy
 
 Preferred order:
 
 1. Use YouTube caption/transcript tracks when available.
-2. Fall back to `gpt-4o-transcribe` for videos without usable captions.
-3. Use `gpt-4o-transcribe-diarize` for panels or multi-speaker sessions.
-4. Use `whisper-1` only when word-level timestamps are required.
+2. Use local open-source Whisper tooling for missing captions when avoiding API costs.
+3. Use API transcription only when speed or quality requirements justify the cost.
