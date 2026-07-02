@@ -1,7 +1,7 @@
 {
   "playlist_id": "PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn",
   "video_count_checked": 81,
-  "caption_count": 46,
+  "caption_count": 49,
   "records": [
     {
       "index": 1,
@@ -345,14 +345,14 @@
       "index": 27,
       "video_id": "LrGCT7G_rU8",
       "title": "Using RL Agent to Detect and Remediate ETL Pipeline Failures - Anna Marie Benzon",
-      "status": "error",
-      "track_name": "Hindi (auto-generated)",
-      "language_code": "hi",
-      "is_auto_generated": true,
-      "word_count": 0,
-      "raw_path": "",
-      "clean_path": "",
-      "error": "HTTP Error 429: Too Many Requests"
+      "status": "ok",
+      "track_name": "summarize.sh extract",
+      "language_code": "",
+      "is_auto_generated": false,
+      "word_count": 143,
+      "raw_path": "transcripts/raw/027-LrGCT7G_rU8.summarize.md",
+      "clean_path": "transcripts/clean/027-LrGCT7G_rU8.txt",
+      "error": ""
     },
     {
       "index": 28,
@@ -618,27 +618,27 @@
       "index": 48,
       "video_id": "sAOBXCDiDOs",
       "title": "MCP Apps: Primitives, discovery, and the Future of Software - Pietro Zullo, Manufact, Inc",
-      "status": "error",
-      "track_name": "English (auto-generated)",
-      "language_code": "en",
-      "is_auto_generated": true,
-      "word_count": 0,
-      "raw_path": "",
-      "clean_path": "",
-      "error": "HTTP Error 429: Too Many Requests"
+      "status": "ok",
+      "track_name": "summarize.sh extract",
+      "language_code": "",
+      "is_auto_generated": false,
+      "word_count": 363,
+      "raw_path": "transcripts/raw/048-sAOBXCDiDOs.summarize.md",
+      "clean_path": "transcripts/clean/048-sAOBXCDiDOs.txt",
+      "error": ""
     },
     {
       "index": 49,
       "video_id": "WLXxTaPagA8",
       "title": "Every Solo Agent Builder Eventually Reinvents a Worse Version of CI/CD - Sumaiya Shrabony",
-      "status": "error",
-      "track_name": "English (auto-generated)",
-      "language_code": "en",
-      "is_auto_generated": true,
-      "word_count": 0,
-      "raw_path": "",
-      "clean_path": "",
-      "error": "HTTP Error 429: Too Many Requests"
+      "status": "ok",
+      "track_name": "summarize.sh extract",
+      "language_code": "",
+      "is_auto_generated": false,
+      "word_count": 313,
+      "raw_path": "transcripts/raw/049-WLXxTaPagA8.summarize.md",
+      "clean_path": "transcripts/clean/049-WLXxTaPagA8.txt",
+      "error": ""
     },
     {
       "index": 50,

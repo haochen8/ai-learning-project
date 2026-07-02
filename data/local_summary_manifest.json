@@ -339,6 +339,19 @@
       "error": ""
     },
     {
+      "index": 27,
+      "video_id": "LrGCT7G_rU8",
+      "title": "Using RL Agent to Detect and Remediate ETL Pipeline Failures - Anna Marie Benzon",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/027-using-rl-agent-to-detect-and-remediate-etl-pipeline-failures.md",
+      "transcript_words": 143,
+      "chunks": 1,
+      "elapsed_seconds": 17.635626077651978,
+      "error": ""
+    },
+    {
       "index": 28,
       "video_id": "6bmM45jkMDY",
       "title": "You Can't Prompt the Room: The Last Skill AI Won't Replace - Balázs Horváth, VisualLabs",
@@ -597,8 +610,34 @@
       "chunks": 8,
       "elapsed_seconds": 291.3366160392761,
       "error": ""
+    },
+    {
+      "index": 48,
+      "video_id": "sAOBXCDiDOs",
+      "title": "MCP Apps: Primitives, discovery, and the Future of Software - Pietro Zullo, Manufact, Inc",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/048-mcp-apps-primitives-discovery-and-the-future-of-software.md",
+      "transcript_words": 363,
+      "chunks": 1,
+      "elapsed_seconds": 21.557069063186646,
+      "error": ""
+    },
+    {
+      "index": 49,
+      "video_id": "WLXxTaPagA8",
+      "title": "Every Solo Agent Builder Eventually Reinvents a Worse Version of CI/CD - Sumaiya Shrabony",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/049-every-solo-agent-builder-eventually-reinvents-a-worse-version-of-ci-cd.md",
+      "transcript_words": 313,
+      "chunks": 1,
+      "elapsed_seconds": 21.893648147583008,
+      "error": ""
     }
   ],
-  "ok_count": 45,
+  "ok_count": 48,
   "dry_run_count": 0
 }
