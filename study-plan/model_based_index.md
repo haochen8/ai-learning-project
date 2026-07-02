@@ -86,9 +86,9 @@ This index tracks the local open-source model notes in `summaries/model_based/`.
 - 065. Your AI Product Will Fail Unless You Can Explain It - Veronica Hylak, Hey AI - not summarized
 - 066. Agents Need Receipts, Not More Tool Calls - Armanas Povilionis, Alithea Bio - not summarized
 - 067. Build the AI GTM Agent That Knows the Buyer - Dr. Sajjan Kanukolanu, Position2 (Position Squared) - not summarized
-- 068. The UX of AI: Making AI-Powered Apps Your Users Don't Hate - Kathryn Grayson Nanz, Progress Software - missing transcript
-- 069. When Agents Meet Physical Data: The Other Physics of Agent Harnesses - Dmitry Petrov, DataChain - missing transcript
-- 070. Respect The Process - Andrew Dumit, Watershed Technology Inc. - missing transcript
+- 068. The UX of AI: Making AI-Powered Apps Your Users Don't Hate - Kathryn Grayson Nanz, Progress Software - not summarized
+- 069. When Agents Meet Physical Data: The Other Physics of Agent Harnesses - Dmitry Petrov, DataChain - not summarized
+- 070. Respect The Process - Andrew Dumit, Watershed Technology Inc. - not summarized
 - 071. 500 people vibe-coded for 30 days. I was one of them. - Sanja Grbic, Automattic - missing transcript
 - 072. Build AI Systems for Discernment, Not Approval - Angel Ortmann Lee, Duolingo - missing transcript
 - 073. What if the harness mattered more than the model? - Aditya Bhargava, Etsy - missing transcript

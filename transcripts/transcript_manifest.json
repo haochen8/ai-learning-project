@@ -1,7 +1,7 @@
 {
   "playlist_id": "PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn",
   "video_count_checked": 81,
-  "caption_count": 65,
+  "caption_count": 68,
   "records": [
     {
       "index": 1,
@@ -878,40 +878,40 @@
       "index": 68,
       "video_id": "L3RuP_q8Bwc",
       "title": "The UX of AI: Making AI-Powered Apps Your Users Don't Hate - Kathryn Grayson Nanz, Progress Software",
-      "status": "error",
-      "track_name": "English (auto-generated)",
-      "language_code": "en",
-      "is_auto_generated": true,
-      "word_count": 0,
-      "raw_path": "",
-      "clean_path": "",
-      "error": "HTTP Error 429: Too Many Requests"
+      "status": "ok",
+      "track_name": "summarize.sh extract",
+      "language_code": "",
+      "is_auto_generated": false,
+      "word_count": 168,
+      "raw_path": "transcripts/raw/068-L3RuP_q8Bwc.summarize.md",
+      "clean_path": "transcripts/clean/068-L3RuP_q8Bwc.txt",
+      "error": ""
     },
     {
       "index": 69,
       "video_id": "bUJgirn4_yc",
       "title": "When Agents Meet Physical Data: The Other Physics of Agent Harnesses - Dmitry Petrov, DataChain",
-      "status": "error",
-      "track_name": "English (auto-generated)",
-      "language_code": "en",
-      "is_auto_generated": true,
-      "word_count": 0,
-      "raw_path": "",
-      "clean_path": "",
-      "error": "HTTP Error 429: Too Many Requests"
+      "status": "ok",
+      "track_name": "summarize.sh extract",
+      "language_code": "",
+      "is_auto_generated": false,
+      "word_count": 330,
+      "raw_path": "transcripts/raw/069-bUJgirn4_yc.summarize.md",
+      "clean_path": "transcripts/clean/069-bUJgirn4_yc.txt",
+      "error": ""
     },
     {
       "index": 70,
       "video_id": "CLttOU7n6sI",
       "title": "Respect The Process - Andrew Dumit, Watershed Technology Inc.",
-      "status": "error",
-      "track_name": "English (auto-generated)",
-      "language_code": "en",
-      "is_auto_generated": true,
-      "word_count": 0,
-      "raw_path": "",
-      "clean_path": "",
-      "error": "HTTP Error 429: Too Many Requests"
+      "status": "ok",
+      "track_name": "summarize.sh extract",
+      "language_code": "",
+      "is_auto_generated": false,
+      "word_count": 273,
+      "raw_path": "transcripts/raw/070-CLttOU7n6sI.summarize.md",
+      "clean_path": "transcripts/clean/070-CLttOU7n6sI.txt",
+      "error": ""
     },
     {
       "index": 71,
