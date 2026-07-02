@@ -129,8 +129,73 @@
       "chunks": 4,
       "elapsed_seconds": 124.46262311935425,
       "error": ""
+    },
+    {
+      "index": 11,
+      "video_id": "aHhB3sjGjkI",
+      "title": "Agents Building Agents - Alfonso Graziano, Nearform",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/011-agents-building-agents.md",
+      "transcript_words": 4744,
+      "chunks": 6,
+      "elapsed_seconds": 145.1758668422699,
+      "error": ""
+    },
+    {
+      "index": 12,
+      "video_id": "vh2VGuQ3zhY",
+      "title": "The 100-Tool Agent Is a Trap - Sohail Shaikh & Ankush Rastogi, Prosodica",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/012-the-100-tool-agent-is-a-trap.md",
+      "transcript_words": 3467,
+      "chunks": 4,
+      "elapsed_seconds": 118.88809609413147,
+      "error": ""
+    },
+    {
+      "index": 13,
+      "video_id": "IddXPepIAS4",
+      "title": "Using Spec-Driven Development for Production Workflows - Erik Hanchett, AWS",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/013-using-spec-driven-development-for-production-workflows.md",
+      "transcript_words": 3295,
+      "chunks": 4,
+      "elapsed_seconds": 123.07037115097046,
+      "error": ""
+    },
+    {
+      "index": 14,
+      "video_id": "OXMMN-XbxwA",
+      "title": "Research to Reality: Bringing Frontier ML Research to Production - Vaidas Razgaitis, Higharc",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/014-research-to-reality-bringing-frontier-ml-research-to-production.md",
+      "transcript_words": 2284,
+      "chunks": 3,
+      "elapsed_seconds": 84.32082986831665,
+      "error": ""
+    },
+    {
+      "index": 15,
+      "video_id": "-x5GEVnkuRw",
+      "title": "Structuring the Unstructured - Cedric Clyburn, Red Hat",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/015-structuring-the-unstructured.md",
+      "transcript_words": 3941,
+      "chunks": 5,
+      "elapsed_seconds": 148.7303822040558,
+      "error": ""
     }
   ],
-  "ok_count": 10,
+  "ok_count": 15,
   "dry_run_count": 0
 }
