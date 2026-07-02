@@ -1,7 +1,7 @@
 {
   "playlist_id": "PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn",
   "video_count_checked": 81,
-  "caption_count": 72,
+  "caption_count": 74,
   "records": [
     {
       "index": 1,
@@ -995,40 +995,40 @@
       "index": 77,
       "video_id": "rCVVsxHWai8",
       "title": "10x - Reimagining Mobile Development Workflow - Orel Zion, stag.build",
-      "status": "error",
-      "track_name": "English (auto-generated)",
-      "language_code": "en",
-      "is_auto_generated": true,
-      "word_count": 0,
-      "raw_path": "",
-      "clean_path": "",
-      "error": "HTTP Error 429: Too Many Requests"
+      "status": "ok",
+      "track_name": "summarize.sh extract",
+      "language_code": "",
+      "is_auto_generated": false,
+      "word_count": 199,
+      "raw_path": "transcripts/raw/077-rCVVsxHWai8.summarize.md",
+      "clean_path": "transcripts/clean/077-rCVVsxHWai8.txt",
+      "error": ""
     },
     {
       "index": 78,
       "video_id": "M7-KY0W-BPo",
       "title": "Predicting Novel Research Directions in Big Pharma - Vasilije Markovic, cognee",
-      "status": "error",
-      "track_name": "English (auto-generated)",
-      "language_code": "en",
-      "is_auto_generated": true,
+      "status": "too_short",
+      "track_name": "summarize.sh extract",
+      "language_code": "",
+      "is_auto_generated": false,
       "word_count": 0,
       "raw_path": "",
       "clean_path": "",
-      "error": "HTTP Error 429: Too Many Requests"
+      "error": "extracted text had only 98 words"
     },
     {
       "index": 79,
       "video_id": "jtzh-GBXBWc",
       "title": "The Factory That Dreams: 39 AI Agents, No Framework - Rushabh Doshi, Machinecraft",
-      "status": "error",
-      "track_name": "English (auto-generated)",
-      "language_code": "en",
-      "is_auto_generated": true,
-      "word_count": 0,
-      "raw_path": "",
-      "clean_path": "",
-      "error": "HTTP Error 429: Too Many Requests"
+      "status": "ok",
+      "track_name": "summarize.sh extract",
+      "language_code": "",
+      "is_auto_generated": false,
+      "word_count": 309,
+      "raw_path": "transcripts/raw/079-jtzh-GBXBWc.summarize.md",
+      "clean_path": "transcripts/clean/079-jtzh-GBXBWc.txt",
+      "error": ""
     },
     {
       "index": 80,

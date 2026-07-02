@@ -95,8 +95,8 @@ This index tracks the local open-source model notes in `summaries/model_based/`.
 - 074. How we taught agents to use good retrieval - Hanna Lichtenberg, Mixedbread AI - not summarized
 - 075. Beyond the Harness: A Journey Towards Adaptative Engineering - Rajiv Chandegra, Annicha Labs - not summarized
 - 076. Build Neural Networks in TypeScript - Junichi Takahashi, and raindrops - missing transcript
-- 077. 10x - Reimagining Mobile Development Workflow - Orel Zion, stag.build - missing transcript
+- 077. 10x - Reimagining Mobile Development Workflow - Orel Zion, stag.build - not summarized
 - 078. Predicting Novel Research Directions in Big Pharma - Vasilije Markovic, cognee - missing transcript
-- 079. The Factory That Dreams: 39 AI Agents, No Framework - Rushabh Doshi, Machinecraft - missing transcript
+- 079. The Factory That Dreams: 39 AI Agents, No Framework - Rushabh Doshi, Machinecraft - not summarized
 - 080. Building Great Agent Skills: The Missing Manual - missing transcript
 - 081. WF2026: Autoresearch & Keynotes ft. Anthropic, Google DeepMind, Amazon AGI, Sonar, Arena, Recursive - missing transcript
