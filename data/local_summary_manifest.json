@@ -389,8 +389,73 @@
       "chunks": 3,
       "elapsed_seconds": 59.975701332092285,
       "error": ""
+    },
+    {
+      "index": 32,
+      "video_id": "Jx4ZFEAq6bY",
+      "title": "User Signal Dies at the Retrieval Boundary - Sonam Pankaj, StarlightSearch",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/032-user-signal-dies-at-the-retrieval-boundary.md",
+      "transcript_words": 1880,
+      "chunks": 3,
+      "elapsed_seconds": 108.24285292625427,
+      "error": ""
+    },
+    {
+      "index": 33,
+      "video_id": "JnubYCYunk8",
+      "title": "Browser Agents Don't Need Better Models. They Need Better Eyes. - Kushan Raj, ARK",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/033-browser-agents-don-t-need-better-models-they-need-better-eyes.md",
+      "transcript_words": 940,
+      "chunks": 1,
+      "elapsed_seconds": 45.00184607505798,
+      "error": ""
+    },
+    {
+      "index": 34,
+      "video_id": "htM02KMNZnk",
+      "title": "WF2026: Software Factories & Keynotes ft. Microsoft, OpenAI, OpenClaw, Z.ai (GLM), MiniMax, HF",
+      "status": "skipped_too_long",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/034-wf2026-software-factories-keynotes-ft-microsoft-openai-openclaw-z-ai-glm-minimax-hf.md",
+      "transcript_words": 88983,
+      "chunks": 0,
+      "elapsed_seconds": 0.0,
+      "error": ""
+    },
+    {
+      "index": 35,
+      "video_id": "RGiXcVxSD3s",
+      "title": "Chat and citations won't save your vertical AI - Atul Ramachandran, Filed Inc",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/035-chat-and-citations-won-t-save-your-vertical-ai.md",
+      "transcript_words": 2889,
+      "chunks": 4,
+      "elapsed_seconds": 160.14931893348694,
+      "error": ""
+    },
+    {
+      "index": 36,
+      "video_id": "kZsf_Sfm7RU",
+      "title": "The Missing Layer After Launch - Raphael Kalandadze, Wandero AI",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/036-the-missing-layer-after-launch.md",
+      "transcript_words": 3370,
+      "chunks": 4,
+      "elapsed_seconds": 1003.0142168998718,
+      "error": ""
     }
   ],
-  "ok_count": 30,
+  "ok_count": 34,
   "dry_run_count": 0
 }
