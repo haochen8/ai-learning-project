@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local environment
+.env
+.DS_Store
+
+# Large generated media/audio files
+downloads/
+audio/
+video/
+*.mp3
+*.mp4
+*.wav
+*.m4a
+
+# Keep generated text artifacts tracked by default:
+# data/
+# transcripts/
+# summaries/
+# study-plan/
