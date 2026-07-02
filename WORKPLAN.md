@@ -3,9 +3,9 @@
 ## Phase 1: Inventory
 
 - [x] Create project structure
-- [ ] Fetch playlist metadata
-- [ ] Calculate total duration
-- [ ] Identify very long videos that need chunking
+- [x] Fetch playlist metadata
+- [x] Calculate total duration
+- [x] Identify very long videos that need chunking
 
 ## Phase 2: Transcripts
 
