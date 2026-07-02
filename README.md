@@ -56,5 +56,15 @@ Outputs:
 Preferred order:
 
 1. Use YouTube caption/transcript tracks when available.
-2. Use local open-source Whisper tooling for missing captions when avoiding API costs.
-3. Use API transcription only when speed or quality requirements justify the cost.
+2. Retry missing/problem videos with the optional summarize.sh CLI fallback.
+3. Use local open-source Whisper tooling for missing captions when avoiding API costs.
+4. Use API transcription only when speed or quality requirements justify the cost.
+
+Optional summarize.sh fallback:
+
+```bash
+npm i -g @steipete/summarize
+python3 scripts/fetch_transcripts_with_summarize_cli.py --only-missing --limit 3
+```
+
+The fallback writes extracted text to local ignored transcript directories and updates `transcripts/transcript_manifest.json`.

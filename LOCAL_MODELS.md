@@ -68,4 +68,11 @@ Local models do not charge per API call. The cost is local compute time, disk sp
 Only videos with local transcripts in `transcripts/clean/` can be summarized semantically. For videos where YouTube returned `HTTP 429` or no captions, the project still needs either:
 
 - a later transcript retry, or
+- optional extraction through summarize.sh:
+
+  ```bash
+  npm i -g @steipete/summarize
+  python3 scripts/fetch_transcripts_with_summarize_cli.py --only-missing --limit 3
+  ```
+
 - local audio download + local Whisper transcription.
