@@ -236,7 +236,25 @@ def short_anchor(sentence: str, max_words: int = 18) -> str:
 def proper_terms(text: str, limit: int = 8) -> list[str]:
     candidates = re.findall(r"\b(?:[A-Z][A-Za-z0-9+.-]*|[A-Z]{2,})(?:\s+(?:[A-Z][A-Za-z0-9+.-]*|[A-Z]{2,}))*", text)
     counts: dict[str, int] = {}
-    ignored = {"And", "And I", "But", "Okay", "So", "The", "This", "Title", "Duration", "Transcript"}
+    ignored = {
+        "And",
+        "And I",
+        "But",
+        "Great",
+        "Many",
+        "Now",
+        "Okay",
+        "So",
+        "The",
+        "Then",
+        "This",
+        "Today",
+        "Title",
+        "Duration",
+        "Transcript",
+        "Um",
+        "Yeah",
+    }
     for candidate in candidates:
         cleaned = candidate.strip()
         first_word = cleaned.split()[0].lower()

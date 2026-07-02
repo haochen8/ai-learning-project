@@ -10,10 +10,62 @@
       "output_path": "summaries/model_based/001-recursive-coding-agents.md",
       "transcript_words": 3703,
       "chunks": 4,
-      "elapsed_seconds": 53.064849853515625,
+      "elapsed_seconds": 56.34692716598511,
+      "error": ""
+    },
+    {
+      "index": 2,
+      "video_id": "UPwGaM2MKHY",
+      "title": "The Log Is The Agent - Ishaan Sehgal, Omnara",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/002-the-log-is-the-agent.md",
+      "transcript_words": 2548,
+      "chunks": 3,
+      "elapsed_seconds": 46.458735942840576,
+      "error": ""
+    },
+    {
+      "index": 3,
+      "video_id": "vljxQZfJ9wY",
+      "title": "Production Evals For Agentic AI Systems - Nishant Gupta, Meta Superintelligence Labs",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/003-production-evals-for-agentic-ai-systems.md",
+      "transcript_words": 1143,
+      "chunks": 2,
+      "elapsed_seconds": 38.15120983123779,
+      "error": ""
+    },
+    {
+      "index": 4,
+      "video_id": "IJXjTLPzvAU",
+      "title": "The Miranda Hypothesis: How Hamilton Poisoned Persona Evals - Jacob E. Thomas, Results Gen",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/004-the-miranda-hypothesis-how-hamilton-poisoned-persona-evals.md",
+      "transcript_words": 7016,
+      "chunks": 9,
+      "elapsed_seconds": 182.97272396087646,
+      "error": ""
+    },
+    {
+      "index": 5,
+      "video_id": "jVjt-2g8NMY",
+      "title": "A Genius With Amnesia - Victor Savkin, Nx",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/005-a-genius-with-amnesia.md",
+      "transcript_words": 3358,
+      "chunks": 4,
+      "elapsed_seconds": 88.68259286880493,
       "error": ""
     }
   ],
-  "ok_count": 1,
+  "ok_count": 5,
   "dry_run_count": 0
 }

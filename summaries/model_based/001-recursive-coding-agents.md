@@ -23,11 +23,11 @@ The transcript signals repeated attention to: Recursive Coding Agents, RLM, RLMs
 - OpenProse: recurring transcript signal to connect back to Recursive Coding Agents.
 
 ## Model-Assisted Observations
-- **RLM Context**: RLMs operate symbolically on prompts, allowing them to abstract away from specific contexts
-- **Symbolic Manipulation**: RLMs can be used to break down complex tasks into smaller subtasks, making it easier to verify their correctness
-- **Recursive Subagents**: RLMs can recursively
-- **Concepts:** Understanding the core concepts and principles of coding agents
-- **Tools:** Familiarizing with the various tools and technologies used in coding agent development
+- 1. **Context Understanding**: The learner needs to understand the context of the prompt and its implications
+- Example: "The AI assistant is trying to solve a complex problem."
+- This helps in identifying the main goal and understanding the broader scope of the task
+- 2. **Tool Recognition**:
+- **RLA Framework**: A framework that combines code and recursive calls to create a sub-agent model
 
 ## Practical Takeaways
 - Map the talk's claims into a small prototype before treating Recursive Coding Agents as a production pattern
