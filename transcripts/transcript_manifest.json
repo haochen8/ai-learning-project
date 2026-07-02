@@ -1,7 +1,7 @@
 {
   "playlist_id": "PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn",
   "video_count_checked": 81,
-  "caption_count": 57,
+  "caption_count": 59,
   "records": [
     {
       "index": 1,
@@ -761,40 +761,40 @@
       "index": 59,
       "video_id": "hMlLw1LeIK8",
       "title": "Voice Agents That Handle Interrupts - Chintan Agrawal, Amazon Web Services",
-      "status": "error",
-      "track_name": "English (auto-generated)",
-      "language_code": "en",
-      "is_auto_generated": true,
-      "word_count": 0,
-      "raw_path": "",
-      "clean_path": "",
-      "error": "HTTP Error 429: Too Many Requests"
+      "status": "ok",
+      "track_name": "summarize.sh extract",
+      "language_code": "",
+      "is_auto_generated": false,
+      "word_count": 295,
+      "raw_path": "transcripts/raw/059-hMlLw1LeIK8.summarize.md",
+      "clean_path": "transcripts/clean/059-hMlLw1LeIK8.txt",
+      "error": ""
     },
     {
       "index": 60,
       "video_id": "2IxD9OB3XuQ",
       "title": "Continual Learning for AI Agents: From Failures to Durable Improvements - Soheil Feizi, RELAI",
-      "status": "error",
-      "track_name": "English (auto-generated)",
-      "language_code": "en",
-      "is_auto_generated": true,
-      "word_count": 0,
-      "raw_path": "",
-      "clean_path": "",
-      "error": "HTTP Error 429: Too Many Requests"
+      "status": "ok",
+      "track_name": "summarize.sh extract",
+      "language_code": "",
+      "is_auto_generated": false,
+      "word_count": 178,
+      "raw_path": "transcripts/raw/060-2IxD9OB3XuQ.summarize.md",
+      "clean_path": "transcripts/clean/060-2IxD9OB3XuQ.txt",
+      "error": ""
     },
     {
       "index": 61,
       "video_id": "G6IlDzj8OjA",
       "title": "GTM Is You - Victoria Melnikova, Evil Martians",
-      "status": "error",
-      "track_name": "English (auto-generated)",
-      "language_code": "en",
-      "is_auto_generated": true,
+      "status": "too_short",
+      "track_name": "summarize.sh extract",
+      "language_code": "",
+      "is_auto_generated": false,
       "word_count": 0,
       "raw_path": "",
       "clean_path": "",
-      "error": "HTTP Error 429: Too Many Requests"
+      "error": "extracted text had only 78 words"
     },
     {
       "index": 62,

@@ -77,8 +77,8 @@ This index tracks the local open-source model notes in `summaries/model_based/`.
 - 056. Frontier results, on device - RL Nabors, Arize - not summarized
 - 057. Medic for Apache Spark - First Aid for Failing Jobs - Drasko Profirovic, Pinterest - not summarized
 - 058. Skills are the New SDKs - Elvin Aghammadzada, DataRobot - not summarized
-- 059. Voice Agents That Handle Interrupts - Chintan Agrawal, Amazon Web Services - missing transcript
-- 060. Continual Learning for AI Agents: From Failures to Durable Improvements - Soheil Feizi, RELAI - missing transcript
+- 059. Voice Agents That Handle Interrupts - Chintan Agrawal, Amazon Web Services - not summarized
+- 060. Continual Learning for AI Agents: From Failures to Durable Improvements - Soheil Feizi, RELAI - not summarized
 - 061. GTM Is You - Victoria Melnikova, Evil Martians - missing transcript
 - 062. Agent Output Is Not UX: Rendering Layer Your LLM Pipeline Is Missing - Bala Ramdoss, Amazon - missing transcript
 - 063. The Pipeline Is Dead - Iris ten Teije, Sky Valley Ambient Computing - missing transcript
