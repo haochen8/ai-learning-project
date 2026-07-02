@@ -83,9 +83,9 @@ This index tracks the local open-source model notes in `summaries/model_based/`.
 - 062. Agent Output Is Not UX: Rendering Layer Your LLM Pipeline Is Missing - Bala Ramdoss, Amazon - not summarized
 - 063. The Pipeline Is Dead - Iris ten Teije, Sky Valley Ambient Computing - not summarized
 - 064. Your Agents Need a Save Button - Hamza Tahir, ZenML - not summarized
-- 065. Your AI Product Will Fail Unless You Can Explain It - Veronica Hylak, Hey AI - missing transcript
-- 066. Agents Need Receipts, Not More Tool Calls - Armanas Povilionis, Alithea Bio - missing transcript
-- 067. Build the AI GTM Agent That Knows the Buyer - Dr. Sajjan Kanukolanu, Position2 (Position Squared) - missing transcript
+- 065. Your AI Product Will Fail Unless You Can Explain It - Veronica Hylak, Hey AI - not summarized
+- 066. Agents Need Receipts, Not More Tool Calls - Armanas Povilionis, Alithea Bio - not summarized
+- 067. Build the AI GTM Agent That Knows the Buyer - Dr. Sajjan Kanukolanu, Position2 (Position Squared) - not summarized
 - 068. The UX of AI: Making AI-Powered Apps Your Users Don't Hate - Kathryn Grayson Nanz, Progress Software - missing transcript
 - 069. When Agents Meet Physical Data: The Other Physics of Agent Harnesses - Dmitry Petrov, DataChain - missing transcript
 - 070. Respect The Process - Andrew Dumit, Watershed Technology Inc. - missing transcript
