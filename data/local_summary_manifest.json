@@ -454,8 +454,60 @@
       "chunks": 4,
       "elapsed_seconds": 1003.0142168998718,
       "error": ""
+    },
+    {
+      "index": 37,
+      "video_id": "EfcfUB2uprc",
+      "title": "Stop Evaluating Models Like It's the 50s - Alejandro Vidal, Mindmakers",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/037-stop-evaluating-models-like-it-s-the-50s.md",
+      "transcript_words": 3528,
+      "chunks": 4,
+      "elapsed_seconds": 128.91283297538757,
+      "error": ""
+    },
+    {
+      "index": 38,
+      "video_id": "7P0elyLIxXo",
+      "title": "What Does Done Even Mean? Agents and Paperclip's Liveness Model - Dotta, Paperclip",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/038-what-does-done-even-mean-agents-and-paperclip-s-liveness-model.md",
+      "transcript_words": 1325,
+      "chunks": 2,
+      "elapsed_seconds": 56.46916198730469,
+      "error": ""
+    },
+    {
+      "index": 39,
+      "video_id": "B8l81jhvHbI",
+      "title": "Enterprise Agents Have a Structure Problem - Ishita Daga, Tesla",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/039-enterprise-agents-have-a-structure-problem.md",
+      "transcript_words": 1752,
+      "chunks": 2,
+      "elapsed_seconds": 69.85504579544067,
+      "error": ""
+    },
+    {
+      "index": 40,
+      "video_id": "fnLBmfsI_Fg",
+      "title": "Your Voice Agent Doesn't Need a Frontier Model - Joel Allou & Ornella Bahidika, Microsoft",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/040-your-voice-agent-doesn-t-need-a-frontier-model.md",
+      "transcript_words": 895,
+      "chunks": 1,
+      "elapsed_seconds": 16.78248691558838,
+      "error": ""
     }
   ],
-  "ok_count": 34,
+  "ok_count": 38,
   "dry_run_count": 0
 }

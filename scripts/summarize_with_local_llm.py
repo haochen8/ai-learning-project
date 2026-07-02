@@ -264,6 +264,8 @@ def proper_terms(text: str, limit: int = 8) -> list[str]:
         "So",
         "The",
         "Then",
+        "Thank",
+        "Thanks",
         "This",
         "Today",
         "First",
