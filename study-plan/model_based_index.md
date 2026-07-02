@@ -89,8 +89,8 @@ This index tracks the local open-source model notes in `summaries/model_based/`.
 - 068. The UX of AI: Making AI-Powered Apps Your Users Don't Hate - Kathryn Grayson Nanz, Progress Software - not summarized
 - 069. When Agents Meet Physical Data: The Other Physics of Agent Harnesses - Dmitry Petrov, DataChain - not summarized
 - 070. Respect The Process - Andrew Dumit, Watershed Technology Inc. - not summarized
-- 071. 500 people vibe-coded for 30 days. I was one of them. - Sanja Grbic, Automattic - missing transcript
-- 072. Build AI Systems for Discernment, Not Approval - Angel Ortmann Lee, Duolingo - missing transcript
+- 071. 500 people vibe-coded for 30 days. I was one of them. - Sanja Grbic, Automattic - not summarized
+- 072. Build AI Systems for Discernment, Not Approval - Angel Ortmann Lee, Duolingo - not summarized
 - 073. What if the harness mattered more than the model? - Aditya Bhargava, Etsy - missing transcript
 - 074. How we taught agents to use good retrieval - Hanna Lichtenberg, Mixedbread AI - missing transcript
 - 075. Beyond the Harness: A Journey Towards Adaptative Engineering - Rajiv Chandegra, Annicha Labs - missing transcript
