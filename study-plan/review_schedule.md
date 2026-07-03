@@ -103,6 +103,13 @@ Use this as a spaced repetition plan for the local model-based notes.
 | 57 | First pass | [Skills are the New SDKs](../summaries/model_based/058-skills-are-the-new-sdks.md) |
 | 58 | First pass | [Voice Agents That Handle Interrupts](../summaries/model_based/059-voice-agents-that-handle-interrupts.md) |
 | 59 | Quick recall | [Medic for Apache Spark](../summaries/model_based/057-medic-for-apache-spark.md) |
+| 59 | First pass | [Continual Learning for AI Agents: From Failures to Durable Improvements](../summaries/model_based/060-continual-learning-for-ai-agents-from-failures-to-durable-improvements.md) |
+| 60 | First pass | [GTM Is You](../summaries/model_based/061-gtm-is-you.md) |
+| 61 | First pass | [Agent Output Is Not UX: Rendering Layer Your LLM Pipeline Is Missing](../summaries/model_based/062-agent-output-is-not-ux-rendering-layer-your-llm-pipeline-is-missing.md) |
+| 62 | First pass | [The Pipeline Is Dead](../summaries/model_based/063-the-pipeline-is-dead.md) |
+| 63 | Quick recall | [GTM Is You](../summaries/model_based/061-gtm-is-you.md) |
+| 63 | First pass | [Your Agents Need a Save Button](../summaries/model_based/064-your-agents-need-a-save-button.md) |
+| 64 | Quick recall | [Agent Output Is Not UX: Rendering Layer Your LLM Pipeline Is Missing](../summaries/model_based/062-agent-output-is-not-ux-rendering-layer-your-llm-pipeline-is-missing.md) |
 
 ## Daily Review Loop
 

@@ -34,8 +34,8 @@ This is the recommended route through the notes that have local model-based summ
 
 ### Module 1: Agent architecture and orchestration
 
-- Notes: 10
-- Total watch time represented: 3:40:16
+- Notes: 13
+- Total watch time represented: 4:34:11
 
 | # | Effort | Source | Talk | First learning target |
 |---:|---|---|---|---|
@@ -46,7 +46,10 @@ This is the recommended route through the notes that have local model-based summ
 | 12 | Standard watch | YouTube transcript, 3467 words | [The 100-Tool Agent Is a Trap](../summaries/model_based/012-the-100-tool-agent-is-a-trap.md) | How The 100-Tool Agent Is a Trap decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 11 | Deep watch | YouTube transcript, 4744 words | [Agents Building Agents](../summaries/model_based/011-agents-building-agents.md) | How Agents Building Agents decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 51 | Standard watch | fallback extract, 96 words | [SWE-Marathon: Evaluating Coding Agents at Billion-Token Scale](../summaries/model_based/051-swe-marathon-evaluating-coding-agents-at-billion-token-scale.md) | How SWE-Marathon: Evaluating Coding Agents at Billion-Token Scale decomposes a larger AI engineering task into smaller reasoning or implementation steps |
+| 62 | Standard watch | fallback extract, 267 words | [Agent Output Is Not UX: Rendering Layer Your LLM Pipeline Is Missing](../summaries/model_based/062-agent-output-is-not-ux-rendering-layer-your-llm-pipeline-is-missing.md) | How Agent Output Is Not UX: Rendering Layer Your LLM Pipeline Is Missing decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 54 | Standard watch | fallback extract, 110 words | [A Song of Types and Agents](../summaries/model_based/054-a-song-of-types-and-agents.md) | How A Song of Types and Agents decomposes a larger AI engineering task into smaller reasoning or implementation steps |
+| 64 | Standard watch | fallback extract, 273 words | [Your Agents Need a Save Button](../summaries/model_based/064-your-agents-need-a-save-button.md) | How Your Agents Need a Save Button decomposes a larger AI engineering task into smaller reasoning or implementation steps |
+| 60 | Standard watch | fallback extract, 178 words | [Continual Learning for AI Agents: From Failures to Durable Improvements](../summaries/model_based/060-continual-learning-for-ai-agents-from-failures-to-durable-improvements.md) | How Continual Learning for AI Agents: From Failures to Durable Improvements decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 55 | Deep watch | fallback extract, 131 words | [The Future Is Domain-Specific Agents](../summaries/model_based/055-the-future-is-domain-specific-agents.md) | How The Future Is Domain-Specific Agents decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 59 | Deep watch | fallback extract, 295 words | [Voice Agents That Handle Interrupts](../summaries/model_based/059-voice-agents-that-handle-interrupts.md) | How Voice Agents That Handle Interrupts decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 
@@ -134,14 +137,16 @@ This is the recommended route through the notes that have local model-based summ
 
 ### Module 7: General AI engineering
 
-- Notes: 6
-- Total watch time represented: 2:05:15
+- Notes: 8
+- Total watch time represented: 2:37:40
 
 | # | Effort | Source | Talk | First learning target |
 |---:|---|---|---|---|
 | 57 | Standard watch | fallback extract, 325 words | [Medic for Apache Spark](../summaries/model_based/057-medic-for-apache-spark.md) | How Medic for Apache Spark decomposes a larger AI engineering task into smaller reasoning or implementation steps |
+| 61 | Standard watch | fallback extract, 78 words | [GTM Is You](../summaries/model_based/061-gtm-is-you.md) | How GTM Is You decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 50 | Standard watch | fallback extract, 488 words | [Semantic Blindness: 500,000 Sensors Confused an LLM](../summaries/model_based/050-semantic-blindness-500-000-sensors-confused-an-llm.md) | How Semantic Blindness: 500,000 Sensors Confused an LLM decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 53 | Standard watch | fallback extract, 153 words | [The AI bugpocalypse is here. Now what?](../summaries/model_based/053-the-ai-bugpocalypse-is-here-now-what.md) | How The AI bugpocalypse is here. Now what? decomposes a larger AI engineering task into smaller reasoning or implementation steps |
+| 63 | Standard watch | fallback extract, 155 words | [The Pipeline Is Dead](../summaries/model_based/063-the-pipeline-is-dead.md) | How The Pipeline Is Dead decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 52 | Standard watch | fallback extract, 159 words | [The Prompt Is Still a Punch Card](../summaries/model_based/052-the-prompt-is-still-a-punch-card.md) | How The Prompt Is Still a Punch Card decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 58 | Standard watch | fallback extract, 197 words | [Skills are the New SDKs](../summaries/model_based/058-skills-are-the-new-sdks.md) | How Skills are the New SDKs decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 56 | Deep watch | fallback extract, 249 words | [Frontier results, on device](../summaries/model_based/056-frontier-results-on-device.md) | How Frontier results, on device decomposes a larger AI engineering task into smaller reasoning or implementation steps |

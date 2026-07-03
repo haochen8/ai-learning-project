@@ -766,8 +766,73 @@
       "chunks": 1,
       "elapsed_seconds": 21.37502408027649,
       "error": ""
+    },
+    {
+      "index": 60,
+      "video_id": "2IxD9OB3XuQ",
+      "title": "Continual Learning for AI Agents: From Failures to Durable Improvements - Soheil Feizi, RELAI",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/060-continual-learning-for-ai-agents-from-failures-to-durable-improvements.md",
+      "transcript_words": 178,
+      "chunks": 1,
+      "elapsed_seconds": 16.492318868637085,
+      "error": ""
+    },
+    {
+      "index": 61,
+      "video_id": "G6IlDzj8OjA",
+      "title": "GTM Is You - Victoria Melnikova, Evil Martians",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/061-gtm-is-you.md",
+      "transcript_words": 78,
+      "chunks": 1,
+      "elapsed_seconds": 15.689633846282959,
+      "error": ""
+    },
+    {
+      "index": 62,
+      "video_id": "maTp79FD9gI",
+      "title": "Agent Output Is Not UX: Rendering Layer Your LLM Pipeline Is Missing - Bala Ramdoss, Amazon",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/062-agent-output-is-not-ux-rendering-layer-your-llm-pipeline-is-missing.md",
+      "transcript_words": 267,
+      "chunks": 1,
+      "elapsed_seconds": 17.948110818862915,
+      "error": ""
+    },
+    {
+      "index": 63,
+      "video_id": "bRnoEpoK5m4",
+      "title": "The Pipeline Is Dead - Iris ten Teije, Sky Valley Ambient Computing",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/063-the-pipeline-is-dead.md",
+      "transcript_words": 155,
+      "chunks": 1,
+      "elapsed_seconds": 17.13199019432068,
+      "error": ""
+    },
+    {
+      "index": 64,
+      "video_id": "bZISsg7H7DA",
+      "title": "Your Agents Need a Save Button - Hamza Tahir, ZenML",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/064-your-agents-need-a-save-button.md",
+      "transcript_words": 273,
+      "chunks": 1,
+      "elapsed_seconds": 11.636082172393799,
+      "error": ""
     }
   ],
-  "ok_count": 58,
+  "ok_count": 63,
   "dry_run_count": 0
 }

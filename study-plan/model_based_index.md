@@ -4,9 +4,9 @@ This index tracks the local open-source model notes in `summaries/model_based/`.
 
 ## Coverage
 
-- Model-based notes: 58
+- Model-based notes: 63
 - Skipped model summaries: 1
-- Playlist items still missing model notes: 22
+- Playlist items still missing model notes: 17
 - Large raw/clean transcript files are intentionally not tracked in git.
 
 ## Notes
@@ -71,6 +71,11 @@ This index tracks the local open-source model notes in `summaries/model_based/`.
 | 57 | P3 | General AI engineering | fallback extract, 325 words | [Medic for Apache Spark - First Aid for Failing Jobs - Drasko Profirovic, Pinterest](https://www.youtube.com/watch?v=0RNNfxpdbQk&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [057-medic-for-apache-spark.md](../summaries/model_based/057-medic-for-apache-spark.md) |
 | 58 | P3 | General AI engineering | fallback extract, 197 words | [Skills are the New SDKs - Elvin Aghammadzada, DataRobot](https://www.youtube.com/watch?v=LC3-P7v3yoI&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [058-skills-are-the-new-sdks.md](../summaries/model_based/058-skills-are-the-new-sdks.md) |
 | 59 | P3 | Agent architecture and orchestration | fallback extract, 295 words | [Voice Agents That Handle Interrupts - Chintan Agrawal, Amazon Web Services](https://www.youtube.com/watch?v=hMlLw1LeIK8&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [059-voice-agents-that-handle-interrupts.md](../summaries/model_based/059-voice-agents-that-handle-interrupts.md) |
+| 60 | P3 | Agent architecture and orchestration | fallback extract, 178 words | [Continual Learning for AI Agents: From Failures to Durable Improvements - Soheil Feizi, RELAI](https://www.youtube.com/watch?v=2IxD9OB3XuQ&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [060-continual-learning-for-ai-agents-from-failures-to-durable-improvements.md](../summaries/model_based/060-continual-learning-for-ai-agents-from-failures-to-durable-improvements.md) |
+| 61 | P3 | General AI engineering | fallback extract, 78 words | [GTM Is You - Victoria Melnikova, Evil Martians](https://www.youtube.com/watch?v=G6IlDzj8OjA&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [061-gtm-is-you.md](../summaries/model_based/061-gtm-is-you.md) |
+| 62 | P3 | Agent architecture and orchestration | fallback extract, 267 words | [Agent Output Is Not UX: Rendering Layer Your LLM Pipeline Is Missing - Bala Ramdoss, Amazon](https://www.youtube.com/watch?v=maTp79FD9gI&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [062-agent-output-is-not-ux-rendering-layer-your-llm-pipeline-is-missing.md](../summaries/model_based/062-agent-output-is-not-ux-rendering-layer-your-llm-pipeline-is-missing.md) |
+| 63 | P3 | General AI engineering | fallback extract, 155 words | [The Pipeline Is Dead - Iris ten Teije, Sky Valley Ambient Computing](https://www.youtube.com/watch?v=bRnoEpoK5m4&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [063-the-pipeline-is-dead.md](../summaries/model_based/063-the-pipeline-is-dead.md) |
+| 64 | P3 | Agent architecture and orchestration | fallback extract, 273 words | [Your Agents Need a Save Button - Hamza Tahir, ZenML](https://www.youtube.com/watch?v=bZISsg7H7DA&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [064-your-agents-need-a-save-button.md](../summaries/model_based/064-your-agents-need-a-save-button.md) |
 
 ## Skipped Or Blocked
 
@@ -78,11 +83,6 @@ This index tracks the local open-source model notes in `summaries/model_based/`.
 
 ## Missing Transcript Queue
 
-- 060. Continual Learning for AI Agents: From Failures to Durable Improvements - Soheil Feizi, RELAI - not summarized
-- 061. GTM Is You - Victoria Melnikova, Evil Martians - not summarized
-- 062. Agent Output Is Not UX: Rendering Layer Your LLM Pipeline Is Missing - Bala Ramdoss, Amazon - not summarized
-- 063. The Pipeline Is Dead - Iris ten Teije, Sky Valley Ambient Computing - not summarized
-- 064. Your Agents Need a Save Button - Hamza Tahir, ZenML - not summarized
 - 065. Your AI Product Will Fail Unless You Can Explain It - Veronica Hylak, Hey AI - not summarized
 - 066. Agents Need Receipts, Not More Tool Calls - Armanas Povilionis, Alithea Bio - not summarized
 - 067. Build the AI GTM Agent That Knows the Buyer - Dr. Sajjan Kanukolanu, Position2 (Position Squared) - not summarized
