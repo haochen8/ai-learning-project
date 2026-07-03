@@ -896,8 +896,73 @@
       "chunks": 1,
       "elapsed_seconds": 18.014454126358032,
       "error": ""
+    },
+    {
+      "index": 70,
+      "video_id": "CLttOU7n6sI",
+      "title": "Respect The Process - Andrew Dumit, Watershed Technology Inc.",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/070-respect-the-process.md",
+      "transcript_words": 273,
+      "chunks": 1,
+      "elapsed_seconds": 17.249958992004395,
+      "error": ""
+    },
+    {
+      "index": 71,
+      "video_id": "UcYoMg-8-L8",
+      "title": "500 people vibe-coded for 30 days. I was one of them. - Sanja Grbic, Automattic",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/071-500-people-vibe-coded-for-30-days-i-was-one-of-them.md",
+      "transcript_words": 101,
+      "chunks": 1,
+      "elapsed_seconds": 16.6504487991333,
+      "error": ""
+    },
+    {
+      "index": 72,
+      "video_id": "CDqzWpwkSls",
+      "title": "Build AI Systems for Discernment, Not Approval - Angel Ortmann Lee, Duolingo",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/072-build-ai-systems-for-discernment-not-approval.md",
+      "transcript_words": 303,
+      "chunks": 1,
+      "elapsed_seconds": 19.639710903167725,
+      "error": ""
+    },
+    {
+      "index": 73,
+      "video_id": "2e9ANoOEn28",
+      "title": "What if the harness mattered more than the model? - Aditya Bhargava, Etsy",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/073-what-if-the-harness-mattered-more-than-the-model.md",
+      "transcript_words": 76,
+      "chunks": 1,
+      "elapsed_seconds": 17.022263050079346,
+      "error": ""
+    },
+    {
+      "index": 74,
+      "video_id": "1IdzkRVmWAA",
+      "title": "How we taught agents to use good retrieval - Hanna Lichtenberg, Mixedbread AI",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/074-how-we-taught-agents-to-use-good-retrieval.md",
+      "transcript_words": 299,
+      "chunks": 1,
+      "elapsed_seconds": 19.79872465133667,
+      "error": ""
     }
   ],
-  "ok_count": 68,
+  "ok_count": 73,
   "dry_run_count": 0
 }

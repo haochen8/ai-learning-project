@@ -117,6 +117,12 @@ Use this as a spaced repetition plan for the local model-based notes.
 | 67 | First pass | [The UX of AI: Making AI-Powered Apps Your Users Don't Hate](../summaries/model_based/068-the-ux-of-ai-making-ai-powered-apps-your-users-don-t-hate.md) |
 | 68 | Quick recall | [Agents Need Receipts, Not More Tool Calls](../summaries/model_based/066-agents-need-receipts-not-more-tool-calls.md) |
 | 68 | First pass | [When Agents Meet Physical Data: The Other Physics of Agent Harnesses](../summaries/model_based/069-when-agents-meet-physical-data-the-other-physics-of-agent-harnesses.md) |
+| 69 | First pass | [Respect The Process](../summaries/model_based/070-respect-the-process.md) |
+| 70 | First pass | [500 people vibe-coded for 30 days. I was one of them.](../summaries/model_based/071-500-people-vibe-coded-for-30-days-i-was-one-of-them.md) |
+| 71 | First pass | [Build AI Systems for Discernment, Not Approval](../summaries/model_based/072-build-ai-systems-for-discernment-not-approval.md) |
+| 72 | First pass | [What if the harness mattered more than the model?](../summaries/model_based/073-what-if-the-harness-mattered-more-than-the-model.md) |
+| 73 | First pass | [How we taught agents to use good retrieval](../summaries/model_based/074-how-we-taught-agents-to-use-good-retrieval.md) |
+| 76 | Quick recall | [How we taught agents to use good retrieval](../summaries/model_based/074-how-we-taught-agents-to-use-good-retrieval.md) |
 
 ## Daily Review Loop
 

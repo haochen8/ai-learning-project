@@ -4,9 +4,9 @@ This index tracks the local open-source model notes in `summaries/model_based/`.
 
 ## Coverage
 
-- Model-based notes: 68
+- Model-based notes: 73
 - Skipped model summaries: 1
-- Playlist items still missing model notes: 12
+- Playlist items still missing model notes: 7
 - Large raw/clean transcript files are intentionally not tracked in git.
 
 ## Notes
@@ -81,6 +81,11 @@ This index tracks the local open-source model notes in `summaries/model_based/`.
 | 67 | P3 | Agent architecture and orchestration | fallback extract, 247 words | [Build the AI GTM Agent That Knows the Buyer - Dr. Sajjan Kanukolanu, Position2 (Position Squared)](https://www.youtube.com/watch?v=ltv-L5oMPIs&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [067-build-the-ai-gtm-agent-that-knows-the-buyer.md](../summaries/model_based/067-build-the-ai-gtm-agent-that-knows-the-buyer.md) |
 | 68 | P3 | Developer workflow and coding systems | fallback extract, 168 words | [The UX of AI: Making AI-Powered Apps Your Users Don't Hate - Kathryn Grayson Nanz, Progress Software](https://www.youtube.com/watch?v=L3RuP_q8Bwc&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [068-the-ux-of-ai-making-ai-powered-apps-your-users-don-t-hate.md](../summaries/model_based/068-the-ux-of-ai-making-ai-powered-apps-your-users-don-t-hate.md) |
 | 69 | P3 | Agent architecture and orchestration | fallback extract, 330 words | [When Agents Meet Physical Data: The Other Physics of Agent Harnesses - Dmitry Petrov, DataChain](https://www.youtube.com/watch?v=bUJgirn4_yc&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [069-when-agents-meet-physical-data-the-other-physics-of-agent-harnesses.md](../summaries/model_based/069-when-agents-meet-physical-data-the-other-physics-of-agent-harnesses.md) |
+| 70 | P3 | General AI engineering | fallback extract, 273 words | [Respect The Process - Andrew Dumit, Watershed Technology Inc.](https://www.youtube.com/watch?v=CLttOU7n6sI&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [070-respect-the-process.md](../summaries/model_based/070-respect-the-process.md) |
+| 71 | P3 | Developer workflow and coding systems | fallback extract, 101 words | [500 people vibe-coded for 30 days. I was one of them. - Sanja Grbic, Automattic](https://www.youtube.com/watch?v=UcYoMg-8-L8&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [071-500-people-vibe-coded-for-30-days-i-was-one-of-them.md](../summaries/model_based/071-500-people-vibe-coded-for-30-days-i-was-one-of-them.md) |
+| 72 | P3 | General AI engineering | fallback extract, 303 words | [Build AI Systems for Discernment, Not Approval - Angel Ortmann Lee, Duolingo](https://www.youtube.com/watch?v=CDqzWpwkSls&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [072-build-ai-systems-for-discernment-not-approval.md](../summaries/model_based/072-build-ai-systems-for-discernment-not-approval.md) |
+| 73 | P3 | General AI engineering | fallback extract, 76 words | [What if the harness mattered more than the model? - Aditya Bhargava, Etsy](https://www.youtube.com/watch?v=2e9ANoOEn28&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [073-what-if-the-harness-mattered-more-than-the-model.md](../summaries/model_based/073-what-if-the-harness-mattered-more-than-the-model.md) |
+| 74 | P3 | Agent architecture and orchestration | fallback extract, 299 words | [How we taught agents to use good retrieval - Hanna Lichtenberg, Mixedbread AI](https://www.youtube.com/watch?v=1IdzkRVmWAA&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [074-how-we-taught-agents-to-use-good-retrieval.md](../summaries/model_based/074-how-we-taught-agents-to-use-good-retrieval.md) |
 
 ## Skipped Or Blocked
 
@@ -88,11 +93,6 @@ This index tracks the local open-source model notes in `summaries/model_based/`.
 
 ## Missing Transcript Queue
 
-- 070. Respect The Process - Andrew Dumit, Watershed Technology Inc. - not summarized
-- 071. 500 people vibe-coded for 30 days. I was one of them. - Sanja Grbic, Automattic - not summarized
-- 072. Build AI Systems for Discernment, Not Approval - Angel Ortmann Lee, Duolingo - not summarized
-- 073. What if the harness mattered more than the model? - Aditya Bhargava, Etsy - not summarized
-- 074. How we taught agents to use good retrieval - Hanna Lichtenberg, Mixedbread AI - not summarized
 - 075. Beyond the Harness: A Journey Towards Adaptative Engineering - Rajiv Chandegra, Annicha Labs - not summarized
 - 076. Build Neural Networks in TypeScript - Junichi Takahashi, and raindrops - not summarized
 - 077. 10x - Reimagining Mobile Development Workflow - Orel Zion, stag.build - not summarized
