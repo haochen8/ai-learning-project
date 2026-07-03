@@ -80,3 +80,7 @@ python3 scripts/fetch_transcripts_with_summarize_cli.py --only-missing --limit 3
 ```
 
 The fallback writes extracted text to local ignored transcript directories and updates `transcripts/transcript_manifest.json`.
+
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE).
