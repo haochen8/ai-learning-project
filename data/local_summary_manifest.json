@@ -636,8 +636,73 @@
       "chunks": 1,
       "elapsed_seconds": 21.893648147583008,
       "error": ""
+    },
+    {
+      "index": 50,
+      "video_id": "EUsPvBeIx70",
+      "title": "Semantic Blindness: 500,000 Sensors Confused an LLM - Raahul Singh & Vanč Levstik, Phaidra",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/050-semantic-blindness-500-000-sensors-confused-an-llm.md",
+      "transcript_words": 488,
+      "chunks": 1,
+      "elapsed_seconds": 15.682630062103271,
+      "error": ""
+    },
+    {
+      "index": 51,
+      "video_id": "Rx8f05JI_WA",
+      "title": "SWE-Marathon: Evaluating Coding Agents at Billion-Token Scale - Rishi Desai, Abundant AI",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/051-swe-marathon-evaluating-coding-agents-at-billion-token-scale.md",
+      "transcript_words": 96,
+      "chunks": 1,
+      "elapsed_seconds": 16.37155318260193,
+      "error": ""
+    },
+    {
+      "index": 52,
+      "video_id": "hVJOnuhFmTA",
+      "title": "The Prompt Is Still a Punch Card - Ted Johnson, JoinIn AI",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/052-the-prompt-is-still-a-punch-card.md",
+      "transcript_words": 159,
+      "chunks": 1,
+      "elapsed_seconds": 8.47302508354187,
+      "error": ""
+    },
+    {
+      "index": 53,
+      "video_id": "7JgIS42mz7U",
+      "title": "The AI bugpocalypse is here. Now what? - Jack Cable, Corridor",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/053-the-ai-bugpocalypse-is-here-now-what.md",
+      "transcript_words": 153,
+      "chunks": 1,
+      "elapsed_seconds": 16.246860027313232,
+      "error": ""
+    },
+    {
+      "index": 54,
+      "video_id": "UlFB6efYN5Q",
+      "title": "A Song of Types and Agents - Roberto Stagi, Ratel",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/054-a-song-of-types-and-agents.md",
+      "transcript_words": 110,
+      "chunks": 1,
+      "elapsed_seconds": 8.07538104057312,
+      "error": ""
     }
   ],
-  "ok_count": 48,
+  "ok_count": 53,
   "dry_run_count": 0
 }

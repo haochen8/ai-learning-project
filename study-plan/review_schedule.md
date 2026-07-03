@@ -89,7 +89,14 @@ Use this as a spaced repetition plan for the local model-based notes.
 | 48 | Quick recall | [Your LLM Deception Monitor Is Broken. The Fix Is in the Training Data](../summaries/model_based/045-your-llm-deception-monitor-is-broken-the-fix-is-in-the-training-data.md) |
 | 48 | First pass | [Every Solo Agent Builder Eventually Reinvents a Worse Version of CI/CD](../summaries/model_based/049-every-solo-agent-builder-eventually-reinvents-a-worse-version-of-ci-cd.md) |
 | 49 | Quick recall | [Using RL Agent to Detect and Remediate ETL Pipeline Failures](../summaries/model_based/027-using-rl-agent-to-detect-and-remediate-etl-pipeline-failures.md) |
+| 49 | First pass | [Semantic Blindness: 500,000 Sensors Confused an LLM](../summaries/model_based/050-semantic-blindness-500-000-sensors-confused-an-llm.md) |
+| 50 | First pass | [SWE-Marathon: Evaluating Coding Agents at Billion-Token Scale](../summaries/model_based/051-swe-marathon-evaluating-coding-agents-at-billion-token-scale.md) |
 | 51 | Quick recall | [Every Solo Agent Builder Eventually Reinvents a Worse Version of CI/CD](../summaries/model_based/049-every-solo-agent-builder-eventually-reinvents-a-worse-version-of-ci-cd.md) |
+| 51 | First pass | [The Prompt Is Still a Punch Card](../summaries/model_based/052-the-prompt-is-still-a-punch-card.md) |
+| 52 | First pass | [The AI bugpocalypse is here. Now what?](../summaries/model_based/053-the-ai-bugpocalypse-is-here-now-what.md) |
+| 53 | Quick recall | [SWE-Marathon: Evaluating Coding Agents at Billion-Token Scale](../summaries/model_based/051-swe-marathon-evaluating-coding-agents-at-billion-token-scale.md) |
+| 53 | First pass | [A Song of Types and Agents](../summaries/model_based/054-a-song-of-types-and-agents.md) |
+| 56 | Quick recall | [A Song of Types and Agents](../summaries/model_based/054-a-song-of-types-and-agents.md) |
 
 ## Daily Review Loop
 

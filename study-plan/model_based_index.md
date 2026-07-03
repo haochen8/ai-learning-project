@@ -4,9 +4,9 @@ This index tracks the local open-source model notes in `summaries/model_based/`.
 
 ## Coverage
 
-- Model-based notes: 48
+- Model-based notes: 53
 - Skipped model summaries: 1
-- Playlist items still missing model notes: 32
+- Playlist items still missing model notes: 27
 - Large raw/clean transcript files are intentionally not tracked in git.
 
 ## Notes
@@ -61,6 +61,11 @@ This index tracks the local open-source model notes in `summaries/model_based/`.
 | 47 | P1 | Production reliability and evals | YouTube transcript, 7195 words | [Stop AI Agent Hallucinations: 5 Techniques + Production Patterns - Elizabeth Fuentes, AWS](https://www.youtube.com/watch?v=vJukHCIv7Ck&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [047-stop-ai-agent-hallucinations-5-techniques-production-patterns.md](../summaries/model_based/047-stop-ai-agent-hallucinations-5-techniques-production-patterns.md) |
 | 48 | P3 | Developer workflow and coding systems | fallback extract, 363 words | [MCP Apps: Primitives, discovery, and the Future of Software - Pietro Zullo, Manufact, Inc](https://www.youtube.com/watch?v=sAOBXCDiDOs&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [048-mcp-apps-primitives-discovery-and-the-future-of-software.md](../summaries/model_based/048-mcp-apps-primitives-discovery-and-the-future-of-software.md) |
 | 49 | P3 | Production reliability and evals | fallback extract, 313 words | [Every Solo Agent Builder Eventually Reinvents a Worse Version of CI/CD - Sumaiya Shrabony](https://www.youtube.com/watch?v=WLXxTaPagA8&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [049-every-solo-agent-builder-eventually-reinvents-a-worse-version-of-ci-cd.md](../summaries/model_based/049-every-solo-agent-builder-eventually-reinvents-a-worse-version-of-ci-cd.md) |
+| 50 | P3 | General AI engineering | fallback extract, 488 words | [Semantic Blindness: 500,000 Sensors Confused an LLM - Raahul Singh & Vanč Levstik, Phaidra](https://www.youtube.com/watch?v=EUsPvBeIx70&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [050-semantic-blindness-500-000-sensors-confused-an-llm.md](../summaries/model_based/050-semantic-blindness-500-000-sensors-confused-an-llm.md) |
+| 51 | P3 | Agent architecture and orchestration | fallback extract, 96 words | [SWE-Marathon: Evaluating Coding Agents at Billion-Token Scale - Rishi Desai, Abundant AI](https://www.youtube.com/watch?v=Rx8f05JI_WA&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [051-swe-marathon-evaluating-coding-agents-at-billion-token-scale.md](../summaries/model_based/051-swe-marathon-evaluating-coding-agents-at-billion-token-scale.md) |
+| 52 | P3 | General AI engineering | fallback extract, 159 words | [The Prompt Is Still a Punch Card - Ted Johnson, JoinIn AI](https://www.youtube.com/watch?v=hVJOnuhFmTA&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [052-the-prompt-is-still-a-punch-card.md](../summaries/model_based/052-the-prompt-is-still-a-punch-card.md) |
+| 53 | P3 | General AI engineering | fallback extract, 153 words | [The AI bugpocalypse is here. Now what? - Jack Cable, Corridor](https://www.youtube.com/watch?v=7JgIS42mz7U&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [053-the-ai-bugpocalypse-is-here-now-what.md](../summaries/model_based/053-the-ai-bugpocalypse-is-here-now-what.md) |
+| 54 | P3 | Agent architecture and orchestration | fallback extract, 110 words | [A Song of Types and Agents - Roberto Stagi, Ratel](https://www.youtube.com/watch?v=UlFB6efYN5Q&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [054-a-song-of-types-and-agents.md](../summaries/model_based/054-a-song-of-types-and-agents.md) |
 
 ## Skipped Or Blocked
 
@@ -68,11 +73,6 @@ This index tracks the local open-source model notes in `summaries/model_based/`.
 
 ## Missing Transcript Queue
 
-- 050. Semantic Blindness: 500,000 Sensors Confused an LLM - Raahul Singh & Vanč Levstik, Phaidra - not summarized
-- 051. SWE-Marathon: Evaluating Coding Agents at Billion-Token Scale - Rishi Desai, Abundant AI - not summarized
-- 052. The Prompt Is Still a Punch Card - Ted Johnson, JoinIn AI - not summarized
-- 053. The AI bugpocalypse is here. Now what? - Jack Cable, Corridor - not summarized
-- 054. A Song of Types and Agents - Roberto Stagi, Ratel - not summarized
 - 055. The Future Is Domain-Specific Agents - Justin Schroeder, StandardAgents - not summarized
 - 056. Frontier results, on device - RL Nabors, Arize - not summarized
 - 057. Medic for Apache Spark - First Aid for Failing Jobs - Drasko Profirovic, Pinterest - not summarized

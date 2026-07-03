@@ -34,8 +34,8 @@ This is the recommended route through the notes that have local model-based summ
 
 ### Module 1: Agent architecture and orchestration
 
-- Notes: 6
-- Total watch time represented: 2:09:27
+- Notes: 8
+- Total watch time represented: 2:36:41
 
 | # | Effort | Source | Talk | First learning target |
 |---:|---|---|---|---|
@@ -45,6 +45,8 @@ This is the recommended route through the notes that have local model-based summ
 | 1 | Standard watch | YouTube transcript, 3703 words | [Recursive Coding Agents](../summaries/model_based/001-recursive-coding-agents.md) | How Recursive Coding Agents decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 12 | Standard watch | YouTube transcript, 3467 words | [The 100-Tool Agent Is a Trap](../summaries/model_based/012-the-100-tool-agent-is-a-trap.md) | How The 100-Tool Agent Is a Trap decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 11 | Deep watch | YouTube transcript, 4744 words | [Agents Building Agents](../summaries/model_based/011-agents-building-agents.md) | How Agents Building Agents decomposes a larger AI engineering task into smaller reasoning or implementation steps |
+| 51 | Standard watch | fallback extract, 96 words | [SWE-Marathon: Evaluating Coding Agents at Billion-Token Scale](../summaries/model_based/051-swe-marathon-evaluating-coding-agents-at-billion-token-scale.md) | How SWE-Marathon: Evaluating Coding Agents at Billion-Token Scale decomposes a larger AI engineering task into smaller reasoning or implementation steps |
+| 54 | Standard watch | fallback extract, 110 words | [A Song of Types and Agents](../summaries/model_based/054-a-song-of-types-and-agents.md) | How A Song of Types and Agents decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 
 ### Module 2: Production reliability and evals
 
@@ -127,6 +129,17 @@ This is the recommended route through the notes that have local model-based summ
 | 24 | Standard watch | YouTube transcript, 2315 words | [AI-Driven Multi-Document Correlation for Financial Compliance](../summaries/model_based/024-ai-driven-multi-document-correlation-for-financial-compliance.md) | How AI-Driven Multi-Document Correlation for Financial Compliance decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 36 | Standard watch | YouTube transcript, 3370 words | [The Missing Layer After Launch](../summaries/model_based/036-the-missing-layer-after-launch.md) | How The Missing Layer After Launch decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 8 | Standard watch | YouTube transcript, 3718 words | [Stop Writing Tone Instructions. Layer Them.](../summaries/model_based/008-stop-writing-tone-instructions-layer-them.md) | How Stop Writing Tone Instructions. Layer Them. decomposes a larger AI engineering task into smaller reasoning or implementation steps |
+
+### Module 7: General AI engineering
+
+- Notes: 3
+- Total watch time represented: 0:56:22
+
+| # | Effort | Source | Talk | First learning target |
+|---:|---|---|---|---|
+| 50 | Standard watch | fallback extract, 488 words | [Semantic Blindness: 500,000 Sensors Confused an LLM](../summaries/model_based/050-semantic-blindness-500-000-sensors-confused-an-llm.md) | How Semantic Blindness: 500,000 Sensors Confused an LLM decomposes a larger AI engineering task into smaller reasoning or implementation steps |
+| 53 | Standard watch | fallback extract, 153 words | [The AI bugpocalypse is here. Now what?](../summaries/model_based/053-the-ai-bugpocalypse-is-here-now-what.md) | How The AI bugpocalypse is here. Now what? decomposes a larger AI engineering task into smaller reasoning or implementation steps |
+| 52 | Standard watch | fallback extract, 159 words | [The Prompt Is Still a Punch Card](../summaries/model_based/052-the-prompt-is-still-a-punch-card.md) | How The Prompt Is Still a Punch Card decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 
 ## Four-Week Study Plan
 
