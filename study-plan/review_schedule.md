@@ -122,7 +122,16 @@ Use this as a spaced repetition plan for the local model-based notes.
 | 71 | First pass | [Build AI Systems for Discernment, Not Approval](../summaries/model_based/072-build-ai-systems-for-discernment-not-approval.md) |
 | 72 | First pass | [What if the harness mattered more than the model?](../summaries/model_based/073-what-if-the-harness-mattered-more-than-the-model.md) |
 | 73 | First pass | [How we taught agents to use good retrieval](../summaries/model_based/074-how-we-taught-agents-to-use-good-retrieval.md) |
+| 74 | First pass | [Beyond the Harness: A Journey Towards Adaptative Engineering](../summaries/model_based/075-beyond-the-harness-a-journey-towards-adaptative-engineering.md) |
+| 75 | First pass | [Build Neural Networks in TypeScript](../summaries/model_based/076-build-neural-networks-in-typescript.md) |
 | 76 | Quick recall | [How we taught agents to use good retrieval](../summaries/model_based/074-how-we-taught-agents-to-use-good-retrieval.md) |
+| 76 | First pass | [10x](../summaries/model_based/077-10x.md) |
+| 77 | First pass | [Predicting Novel Research Directions in Big Pharma](../summaries/model_based/078-predicting-novel-research-directions-in-big-pharma.md) |
+| 78 | Quick recall | [Build Neural Networks in TypeScript](../summaries/model_based/076-build-neural-networks-in-typescript.md) |
+| 78 | First pass | [The Factory That Dreams: 39 AI Agents, No Framework](../summaries/model_based/079-the-factory-that-dreams-39-ai-agents-no-framework.md) |
+| 79 | Quick recall | [10x](../summaries/model_based/077-10x.md) |
+| 80 | Quick recall | [Predicting Novel Research Directions in Big Pharma](../summaries/model_based/078-predicting-novel-research-directions-in-big-pharma.md) |
+| 81 | Quick recall | [The Factory That Dreams: 39 AI Agents, No Framework](../summaries/model_based/079-the-factory-that-dreams-39-ai-agents-no-framework.md) |
 
 ## Daily Review Loop
 

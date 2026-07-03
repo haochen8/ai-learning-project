@@ -961,8 +961,73 @@
       "chunks": 1,
       "elapsed_seconds": 19.79872465133667,
       "error": ""
+    },
+    {
+      "index": 75,
+      "video_id": "qdZzND79mcg",
+      "title": "Beyond the Harness: A Journey Towards Adaptative Engineering - Rajiv Chandegra, Annicha Labs",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/075-beyond-the-harness-a-journey-towards-adaptative-engineering.md",
+      "transcript_words": 179,
+      "chunks": 1,
+      "elapsed_seconds": 16.60073494911194,
+      "error": ""
+    },
+    {
+      "index": 76,
+      "video_id": "rX14bHH5wI0",
+      "title": "Build Neural Networks in TypeScript - Junichi Takahashi, and raindrops",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/076-build-neural-networks-in-typescript.md",
+      "transcript_words": 88,
+      "chunks": 1,
+      "elapsed_seconds": 16.78580093383789,
+      "error": ""
+    },
+    {
+      "index": 77,
+      "video_id": "rCVVsxHWai8",
+      "title": "10x - Reimagining Mobile Development Workflow - Orel Zion, stag.build",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/077-10x.md",
+      "transcript_words": 199,
+      "chunks": 1,
+      "elapsed_seconds": 18.011284828186035,
+      "error": ""
+    },
+    {
+      "index": 78,
+      "video_id": "M7-KY0W-BPo",
+      "title": "Predicting Novel Research Directions in Big Pharma - Vasilije Markovic, cognee",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/078-predicting-novel-research-directions-in-big-pharma.md",
+      "transcript_words": 98,
+      "chunks": 1,
+      "elapsed_seconds": 17.501832008361816,
+      "error": ""
+    },
+    {
+      "index": 79,
+      "video_id": "jtzh-GBXBWc",
+      "title": "The Factory That Dreams: 39 AI Agents, No Framework - Rushabh Doshi, Machinecraft",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/079-the-factory-that-dreams-39-ai-agents-no-framework.md",
+      "transcript_words": 309,
+      "chunks": 1,
+      "elapsed_seconds": 14.644591093063354,
+      "error": ""
     }
   ],
-  "ok_count": 73,
+  "ok_count": 78,
   "dry_run_count": 0
 }

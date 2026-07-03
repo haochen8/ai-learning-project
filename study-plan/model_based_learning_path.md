@@ -34,8 +34,8 @@ This is the recommended route through the notes that have local model-based summ
 
 ### Module 1: Agent architecture and orchestration
 
-- Notes: 17
-- Total watch time represented: 5:53:02
+- Notes: 18
+- Total watch time represented: 6:03:00
 
 | # | Effort | Source | Talk | First learning target |
 |---:|---|---|---|---|
@@ -45,6 +45,7 @@ This is the recommended route through the notes that have local model-based summ
 | 1 | Standard watch | YouTube transcript, 3703 words | [Recursive Coding Agents](../summaries/model_based/001-recursive-coding-agents.md) | How Recursive Coding Agents decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 12 | Standard watch | YouTube transcript, 3467 words | [The 100-Tool Agent Is a Trap](../summaries/model_based/012-the-100-tool-agent-is-a-trap.md) | How The 100-Tool Agent Is a Trap decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 11 | Deep watch | YouTube transcript, 4744 words | [Agents Building Agents](../summaries/model_based/011-agents-building-agents.md) | How Agents Building Agents decomposes a larger AI engineering task into smaller reasoning or implementation steps |
+| 79 | Quick skim | fallback extract, 309 words | [The Factory That Dreams: 39 AI Agents, No Framework](../summaries/model_based/079-the-factory-that-dreams-39-ai-agents-no-framework.md) | How The Factory That Dreams: 39 AI Agents, No Framework decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 66 | Standard watch | fallback extract, 183 words | [Agents Need Receipts, Not More Tool Calls](../summaries/model_based/066-agents-need-receipts-not-more-tool-calls.md) | How Agents Need Receipts, Not More Tool Calls decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 51 | Standard watch | fallback extract, 96 words | [SWE-Marathon: Evaluating Coding Agents at Billion-Token Scale](../summaries/model_based/051-swe-marathon-evaluating-coding-agents-at-billion-token-scale.md) | How SWE-Marathon: Evaluating Coding Agents at Billion-Token Scale decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 62 | Standard watch | fallback extract, 267 words | [Agent Output Is Not UX: Rendering Layer Your LLM Pipeline Is Missing](../summaries/model_based/062-agent-output-is-not-ux-rendering-layer-your-llm-pipeline-is-missing.md) | How Agent Output Is Not UX: Rendering Layer Your LLM Pipeline Is Missing decomposes a larger AI engineering task into smaller reasoning or implementation steps |
@@ -99,8 +100,8 @@ This is the recommended route through the notes that have local model-based summ
 
 ### Module 4: Developer workflow and coding systems
 
-- Notes: 9
-- Total watch time represented: 3:19:04
+- Notes: 10
+- Total watch time represented: 3:27:32
 
 | # | Effort | Source | Talk | First learning target |
 |---:|---|---|---|---|
@@ -110,6 +111,7 @@ This is the recommended route through the notes that have local model-based summ
 | 13 | Standard watch | YouTube transcript, 3295 words | [Using Spec-Driven Development for Production Workflows](../summaries/model_based/013-using-spec-driven-development-for-production-workflows.md) | How Using Spec-Driven Development for Production Workflows decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 5 | Standard watch | YouTube transcript, 3358 words | [A Genius With Amnesia](../summaries/model_based/005-a-genius-with-amnesia.md) | How A Genius With Amnesia decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 30 | Deep watch | YouTube transcript, 4306 words | [The Agentic AI Engineer](../summaries/model_based/030-the-agentic-ai-engineer.md) | How The Agentic AI Engineer decomposes a larger AI engineering task into smaller reasoning or implementation steps |
+| 77 | Quick skim | fallback extract, 199 words | [10x](../summaries/model_based/077-10x.md) | How 10x decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 71 | Standard watch | fallback extract, 101 words | [500 people vibe-coded for 30 days. I was one of them.](../summaries/model_based/071-500-people-vibe-coded-for-30-days-i-was-one-of-them.md) | How 500 people vibe-coded for 30 days. I was one of them. decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 48 | Standard watch | fallback extract, 363 words | [MCP Apps: Primitives, discovery, and the Future of Software](../summaries/model_based/048-mcp-apps-primitives-discovery-and-the-future-of-software.md) | How MCP Apps: Primitives, discovery, and the Future of Software decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 68 | Deep watch | fallback extract, 168 words | [The UX of AI: Making AI-Powered Apps Your Users Don't Hate](../summaries/model_based/068-the-ux-of-ai-making-ai-powered-apps-your-users-don-t-hate.md) | How The UX of AI: Making AI-Powered Apps Your Users Don't Hate decomposes a larger AI engineering task into smaller reasoning or implementation steps |
@@ -144,13 +146,15 @@ This is the recommended route through the notes that have local model-based summ
 
 ### Module 7: General AI engineering
 
-- Notes: 11
-- Total watch time represented: 3:52:20
+- Notes: 14
+- Total watch time represented: 4:46:39
 
 | # | Effort | Source | Talk | First learning target |
 |---:|---|---|---|---|
+| 78 | Quick skim | fallback extract, 98 words | [Predicting Novel Research Directions in Big Pharma](../summaries/model_based/078-predicting-novel-research-directions-in-big-pharma.md) | How Predicting Novel Research Directions in Big Pharma decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 57 | Standard watch | fallback extract, 325 words | [Medic for Apache Spark](../summaries/model_based/057-medic-for-apache-spark.md) | How Medic for Apache Spark decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 61 | Standard watch | fallback extract, 78 words | [GTM Is You](../summaries/model_based/061-gtm-is-you.md) | How GTM Is You decomposes a larger AI engineering task into smaller reasoning or implementation steps |
+| 76 | Standard watch | fallback extract, 88 words | [Build Neural Networks in TypeScript](../summaries/model_based/076-build-neural-networks-in-typescript.md) | How Build Neural Networks in TypeScript decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 50 | Standard watch | fallback extract, 488 words | [Semantic Blindness: 500,000 Sensors Confused an LLM](../summaries/model_based/050-semantic-blindness-500-000-sensors-confused-an-llm.md) | How Semantic Blindness: 500,000 Sensors Confused an LLM decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 70 | Standard watch | fallback extract, 273 words | [Respect The Process](../summaries/model_based/070-respect-the-process.md) | How Respect The Process decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 53 | Standard watch | fallback extract, 153 words | [The AI bugpocalypse is here. Now what?](../summaries/model_based/053-the-ai-bugpocalypse-is-here-now-what.md) | How The AI bugpocalypse is here. Now what? decomposes a larger AI engineering task into smaller reasoning or implementation steps |
@@ -160,6 +164,7 @@ This is the recommended route through the notes that have local model-based summ
 | 58 | Standard watch | fallback extract, 197 words | [Skills are the New SDKs](../summaries/model_based/058-skills-are-the-new-sdks.md) | How Skills are the New SDKs decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 56 | Deep watch | fallback extract, 249 words | [Frontier results, on device](../summaries/model_based/056-frontier-results-on-device.md) | How Frontier results, on device decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 73 | Deep watch | fallback extract, 76 words | [What if the harness mattered more than the model?](../summaries/model_based/073-what-if-the-harness-mattered-more-than-the-model.md) | How What if the harness mattered more than the model? decomposes a larger AI engineering task into smaller reasoning or implementation steps |
+| 75 | Deep watch | fallback extract, 179 words | [Beyond the Harness: A Journey Towards Adaptative Engineering](../summaries/model_based/075-beyond-the-harness-a-journey-towards-adaptative-engineering.md) | How Beyond the Harness: A Journey Towards Adaptative Engineering decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 
 ## Four-Week Study Plan
 

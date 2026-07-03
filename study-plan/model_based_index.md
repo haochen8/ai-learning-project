@@ -4,9 +4,9 @@ This index tracks the local open-source model notes in `summaries/model_based/`.
 
 ## Coverage
 
-- Model-based notes: 73
+- Model-based notes: 78
 - Skipped model summaries: 1
-- Playlist items still missing model notes: 7
+- Playlist items still missing model notes: 2
 - Large raw/clean transcript files are intentionally not tracked in git.
 
 ## Notes
@@ -86,6 +86,11 @@ This index tracks the local open-source model notes in `summaries/model_based/`.
 | 72 | P3 | General AI engineering | fallback extract, 303 words | [Build AI Systems for Discernment, Not Approval - Angel Ortmann Lee, Duolingo](https://www.youtube.com/watch?v=CDqzWpwkSls&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [072-build-ai-systems-for-discernment-not-approval.md](../summaries/model_based/072-build-ai-systems-for-discernment-not-approval.md) |
 | 73 | P3 | General AI engineering | fallback extract, 76 words | [What if the harness mattered more than the model? - Aditya Bhargava, Etsy](https://www.youtube.com/watch?v=2e9ANoOEn28&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [073-what-if-the-harness-mattered-more-than-the-model.md](../summaries/model_based/073-what-if-the-harness-mattered-more-than-the-model.md) |
 | 74 | P3 | Agent architecture and orchestration | fallback extract, 299 words | [How we taught agents to use good retrieval - Hanna Lichtenberg, Mixedbread AI](https://www.youtube.com/watch?v=1IdzkRVmWAA&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [074-how-we-taught-agents-to-use-good-retrieval.md](../summaries/model_based/074-how-we-taught-agents-to-use-good-retrieval.md) |
+| 75 | P3 | General AI engineering | fallback extract, 179 words | [Beyond the Harness: A Journey Towards Adaptative Engineering - Rajiv Chandegra, Annicha Labs](https://www.youtube.com/watch?v=qdZzND79mcg&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [075-beyond-the-harness-a-journey-towards-adaptative-engineering.md](../summaries/model_based/075-beyond-the-harness-a-journey-towards-adaptative-engineering.md) |
+| 76 | P3 | General AI engineering | fallback extract, 88 words | [Build Neural Networks in TypeScript - Junichi Takahashi, and raindrops](https://www.youtube.com/watch?v=rX14bHH5wI0&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [076-build-neural-networks-in-typescript.md](../summaries/model_based/076-build-neural-networks-in-typescript.md) |
+| 77 | P3 | Developer workflow and coding systems | fallback extract, 199 words | [10x - Reimagining Mobile Development Workflow - Orel Zion, stag.build](https://www.youtube.com/watch?v=rCVVsxHWai8&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [077-10x.md](../summaries/model_based/077-10x.md) |
+| 78 | P3 | General AI engineering | fallback extract, 98 words | [Predicting Novel Research Directions in Big Pharma - Vasilije Markovic, cognee](https://www.youtube.com/watch?v=M7-KY0W-BPo&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [078-predicting-novel-research-directions-in-big-pharma.md](../summaries/model_based/078-predicting-novel-research-directions-in-big-pharma.md) |
+| 79 | P3 | Agent architecture and orchestration | fallback extract, 309 words | [The Factory That Dreams: 39 AI Agents, No Framework - Rushabh Doshi, Machinecraft](https://www.youtube.com/watch?v=jtzh-GBXBWc&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [079-the-factory-that-dreams-39-ai-agents-no-framework.md](../summaries/model_based/079-the-factory-that-dreams-39-ai-agents-no-framework.md) |
 
 ## Skipped Or Blocked
 
@@ -93,10 +98,5 @@ This index tracks the local open-source model notes in `summaries/model_based/`.
 
 ## Missing Transcript Queue
 
-- 075. Beyond the Harness: A Journey Towards Adaptative Engineering - Rajiv Chandegra, Annicha Labs - not summarized
-- 076. Build Neural Networks in TypeScript - Junichi Takahashi, and raindrops - not summarized
-- 077. 10x - Reimagining Mobile Development Workflow - Orel Zion, stag.build - not summarized
-- 078. Predicting Novel Research Directions in Big Pharma - Vasilije Markovic, cognee - not summarized
-- 079. The Factory That Dreams: 39 AI Agents, No Framework - Rushabh Doshi, Machinecraft - not summarized
 - 080. Building Great Agent Skills: The Missing Manual - not summarized
 - 081. WF2026: Autoresearch & Keynotes ft. Anthropic, Google DeepMind, Amazon AGI, Sonar, Arena, Recursive - not summarized
