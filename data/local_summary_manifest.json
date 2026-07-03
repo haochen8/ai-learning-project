@@ -831,8 +831,73 @@
       "chunks": 1,
       "elapsed_seconds": 11.636082172393799,
       "error": ""
+    },
+    {
+      "index": 65,
+      "video_id": "d_Ftrl3vfV0",
+      "title": "Your AI Product Will Fail Unless You Can Explain It - Veronica Hylak, Hey AI",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/065-your-ai-product-will-fail-unless-you-can-explain-it.md",
+      "transcript_words": 240,
+      "chunks": 1,
+      "elapsed_seconds": 17.177527904510498,
+      "error": ""
+    },
+    {
+      "index": 66,
+      "video_id": "Q9ycQHbDdJs",
+      "title": "Agents Need Receipts, Not More Tool Calls - Armanas Povilionis, Alithea Bio",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/066-agents-need-receipts-not-more-tool-calls.md",
+      "transcript_words": 183,
+      "chunks": 1,
+      "elapsed_seconds": 13.339888095855713,
+      "error": ""
+    },
+    {
+      "index": 67,
+      "video_id": "ltv-L5oMPIs",
+      "title": "Build the AI GTM Agent That Knows the Buyer - Dr. Sajjan Kanukolanu, Position2 (Position Squared)",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/067-build-the-ai-gtm-agent-that-knows-the-buyer.md",
+      "transcript_words": 247,
+      "chunks": 1,
+      "elapsed_seconds": 18.2355899810791,
+      "error": ""
+    },
+    {
+      "index": 68,
+      "video_id": "L3RuP_q8Bwc",
+      "title": "The UX of AI: Making AI-Powered Apps Your Users Don't Hate - Kathryn Grayson Nanz, Progress Software",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/068-the-ux-of-ai-making-ai-powered-apps-your-users-don-t-hate.md",
+      "transcript_words": 168,
+      "chunks": 1,
+      "elapsed_seconds": 17.57906699180603,
+      "error": ""
+    },
+    {
+      "index": 69,
+      "video_id": "bUJgirn4_yc",
+      "title": "When Agents Meet Physical Data: The Other Physics of Agent Harnesses - Dmitry Petrov, DataChain",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/069-when-agents-meet-physical-data-the-other-physics-of-agent-harnesses.md",
+      "transcript_words": 330,
+      "chunks": 1,
+      "elapsed_seconds": 18.014454126358032,
+      "error": ""
     }
   ],
-  "ok_count": 63,
+  "ok_count": 68,
   "dry_run_count": 0
 }

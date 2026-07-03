@@ -34,8 +34,8 @@ This is the recommended route through the notes that have local model-based summ
 
 ### Module 1: Agent architecture and orchestration
 
-- Notes: 13
-- Total watch time represented: 4:34:11
+- Notes: 16
+- Total watch time represented: 5:38:34
 
 | # | Effort | Source | Talk | First learning target |
 |---:|---|---|---|---|
@@ -45,18 +45,21 @@ This is the recommended route through the notes that have local model-based summ
 | 1 | Standard watch | YouTube transcript, 3703 words | [Recursive Coding Agents](../summaries/model_based/001-recursive-coding-agents.md) | How Recursive Coding Agents decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 12 | Standard watch | YouTube transcript, 3467 words | [The 100-Tool Agent Is a Trap](../summaries/model_based/012-the-100-tool-agent-is-a-trap.md) | How The 100-Tool Agent Is a Trap decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 11 | Deep watch | YouTube transcript, 4744 words | [Agents Building Agents](../summaries/model_based/011-agents-building-agents.md) | How Agents Building Agents decomposes a larger AI engineering task into smaller reasoning or implementation steps |
+| 66 | Standard watch | fallback extract, 183 words | [Agents Need Receipts, Not More Tool Calls](../summaries/model_based/066-agents-need-receipts-not-more-tool-calls.md) | How Agents Need Receipts, Not More Tool Calls decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 51 | Standard watch | fallback extract, 96 words | [SWE-Marathon: Evaluating Coding Agents at Billion-Token Scale](../summaries/model_based/051-swe-marathon-evaluating-coding-agents-at-billion-token-scale.md) | How SWE-Marathon: Evaluating Coding Agents at Billion-Token Scale decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 62 | Standard watch | fallback extract, 267 words | [Agent Output Is Not UX: Rendering Layer Your LLM Pipeline Is Missing](../summaries/model_based/062-agent-output-is-not-ux-rendering-layer-your-llm-pipeline-is-missing.md) | How Agent Output Is Not UX: Rendering Layer Your LLM Pipeline Is Missing decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 54 | Standard watch | fallback extract, 110 words | [A Song of Types and Agents](../summaries/model_based/054-a-song-of-types-and-agents.md) | How A Song of Types and Agents decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 64 | Standard watch | fallback extract, 273 words | [Your Agents Need a Save Button](../summaries/model_based/064-your-agents-need-a-save-button.md) | How Your Agents Need a Save Button decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 60 | Standard watch | fallback extract, 178 words | [Continual Learning for AI Agents: From Failures to Durable Improvements](../summaries/model_based/060-continual-learning-for-ai-agents-from-failures-to-durable-improvements.md) | How Continual Learning for AI Agents: From Failures to Durable Improvements decomposes a larger AI engineering task into smaller reasoning or implementation steps |
+| 67 | Standard watch | fallback extract, 247 words | [Build the AI GTM Agent That Knows the Buyer](../summaries/model_based/067-build-the-ai-gtm-agent-that-knows-the-buyer.md) | How Build the AI GTM Agent That Knows the Buyer decomposes a larger AI engineering task into smaller reasoning or implementation steps |
+| 69 | Standard watch | fallback extract, 330 words | [When Agents Meet Physical Data: The Other Physics of Agent Harnesses](../summaries/model_based/069-when-agents-meet-physical-data-the-other-physics-of-agent-harnesses.md) | How When Agents Meet Physical Data: The Other Physics of Agent Harnesses decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 55 | Deep watch | fallback extract, 131 words | [The Future Is Domain-Specific Agents](../summaries/model_based/055-the-future-is-domain-specific-agents.md) | How The Future Is Domain-Specific Agents decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 59 | Deep watch | fallback extract, 295 words | [Voice Agents That Handle Interrupts](../summaries/model_based/059-voice-agents-that-handle-interrupts.md) | How Voice Agents That Handle Interrupts decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 
 ### Module 2: Production reliability and evals
 
-- Notes: 15
-- Total watch time represented: 5:25:54
+- Notes: 16
+- Total watch time represented: 5:31:56
 
 | # | Effort | Source | Talk | First learning target |
 |---:|---|---|---|---|
@@ -73,6 +76,7 @@ This is the recommended route through the notes that have local model-based summ
 | 9 | Standard watch | YouTube transcript, 3047 words | [Agents in Production: How OpenGov Built and Scaled OG Assist](../summaries/model_based/009-agents-in-production-how-opengov-built-and-scaled-og-assist.md) | How Agents in Production: How OpenGov Built and Scaled OG Assist decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 43 | Standard watch | YouTube transcript, 2873 words | [Why Your Agent Disagrees With Itself (And What To Do About It)](../summaries/model_based/043-why-your-agent-disagrees-with-itself-and-what-to-do-about-it.md) | How Why Your Agent Disagrees With Itself (And What To Do About It) decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 4 | Deep watch | YouTube transcript, 7016 words | [The Miranda Hypothesis: How Hamilton Poisoned Persona Evals](../summaries/model_based/004-the-miranda-hypothesis-how-hamilton-poisoned-persona-evals.md) | How The Miranda Hypothesis: How Hamilton Poisoned Persona Evals decomposes a larger AI engineering task into smaller reasoning or implementation steps |
+| 65 | Quick skim | fallback extract, 240 words | [Your AI Product Will Fail Unless You Can Explain It](../summaries/model_based/065-your-ai-product-will-fail-unless-you-can-explain-it.md) | How Your AI Product Will Fail Unless You Can Explain It decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 49 | Standard watch | fallback extract, 313 words | [Every Solo Agent Builder Eventually Reinvents a Worse Version of CI/CD](../summaries/model_based/049-every-solo-agent-builder-eventually-reinvents-a-worse-version-of-ci-cd.md) | How Every Solo Agent Builder Eventually Reinvents a Worse Version of CI/CD decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 27 | Standard watch | fallback extract, 143 words | [Using RL Agent to Detect and Remediate ETL Pipeline Failures](../summaries/model_based/027-using-rl-agent-to-detect-and-remediate-etl-pipeline-failures.md) | How Using RL Agent to Detect and Remediate ETL Pipeline Failures decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 
@@ -94,8 +98,8 @@ This is the recommended route through the notes that have local model-based summ
 
 ### Module 4: Developer workflow and coding systems
 
-- Notes: 7
-- Total watch time represented: 2:25:16
+- Notes: 8
+- Total watch time represented: 3:01:15
 
 | # | Effort | Source | Talk | First learning target |
 |---:|---|---|---|---|
@@ -106,6 +110,7 @@ This is the recommended route through the notes that have local model-based summ
 | 5 | Standard watch | YouTube transcript, 3358 words | [A Genius With Amnesia](../summaries/model_based/005-a-genius-with-amnesia.md) | How A Genius With Amnesia decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 30 | Deep watch | YouTube transcript, 4306 words | [The Agentic AI Engineer](../summaries/model_based/030-the-agentic-ai-engineer.md) | How The Agentic AI Engineer decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 48 | Standard watch | fallback extract, 363 words | [MCP Apps: Primitives, discovery, and the Future of Software](../summaries/model_based/048-mcp-apps-primitives-discovery-and-the-future-of-software.md) | How MCP Apps: Primitives, discovery, and the Future of Software decomposes a larger AI engineering task into smaller reasoning or implementation steps |
+| 68 | Deep watch | fallback extract, 168 words | [The UX of AI: Making AI-Powered Apps Your Users Don't Hate](../summaries/model_based/068-the-ux-of-ai-making-ai-powered-apps-your-users-don-t-hate.md) | How The UX of AI: Making AI-Powered Apps Your Users Don't Hate decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 
 ### Module 5: Voice, browser, and multimodal UX
 

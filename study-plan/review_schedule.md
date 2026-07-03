@@ -110,6 +110,13 @@ Use this as a spaced repetition plan for the local model-based notes.
 | 63 | Quick recall | [GTM Is You](../summaries/model_based/061-gtm-is-you.md) |
 | 63 | First pass | [Your Agents Need a Save Button](../summaries/model_based/064-your-agents-need-a-save-button.md) |
 | 64 | Quick recall | [Agent Output Is Not UX: Rendering Layer Your LLM Pipeline Is Missing](../summaries/model_based/062-agent-output-is-not-ux-rendering-layer-your-llm-pipeline-is-missing.md) |
+| 64 | First pass | [Your AI Product Will Fail Unless You Can Explain It](../summaries/model_based/065-your-ai-product-will-fail-unless-you-can-explain-it.md) |
+| 65 | First pass | [Agents Need Receipts, Not More Tool Calls](../summaries/model_based/066-agents-need-receipts-not-more-tool-calls.md) |
+| 66 | First pass | [Build the AI GTM Agent That Knows the Buyer](../summaries/model_based/067-build-the-ai-gtm-agent-that-knows-the-buyer.md) |
+| 67 | Quick recall | [Your AI Product Will Fail Unless You Can Explain It](../summaries/model_based/065-your-ai-product-will-fail-unless-you-can-explain-it.md) |
+| 67 | First pass | [The UX of AI: Making AI-Powered Apps Your Users Don't Hate](../summaries/model_based/068-the-ux-of-ai-making-ai-powered-apps-your-users-don-t-hate.md) |
+| 68 | Quick recall | [Agents Need Receipts, Not More Tool Calls](../summaries/model_based/066-agents-need-receipts-not-more-tool-calls.md) |
+| 68 | First pass | [When Agents Meet Physical Data: The Other Physics of Agent Harnesses](../summaries/model_based/069-when-agents-meet-physical-data-the-other-physics-of-agent-harnesses.md) |
 
 ## Daily Review Loop
 

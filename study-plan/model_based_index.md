@@ -4,9 +4,9 @@ This index tracks the local open-source model notes in `summaries/model_based/`.
 
 ## Coverage
 
-- Model-based notes: 63
+- Model-based notes: 68
 - Skipped model summaries: 1
-- Playlist items still missing model notes: 17
+- Playlist items still missing model notes: 12
 - Large raw/clean transcript files are intentionally not tracked in git.
 
 ## Notes
@@ -76,6 +76,11 @@ This index tracks the local open-source model notes in `summaries/model_based/`.
 | 62 | P3 | Agent architecture and orchestration | fallback extract, 267 words | [Agent Output Is Not UX: Rendering Layer Your LLM Pipeline Is Missing - Bala Ramdoss, Amazon](https://www.youtube.com/watch?v=maTp79FD9gI&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [062-agent-output-is-not-ux-rendering-layer-your-llm-pipeline-is-missing.md](../summaries/model_based/062-agent-output-is-not-ux-rendering-layer-your-llm-pipeline-is-missing.md) |
 | 63 | P3 | General AI engineering | fallback extract, 155 words | [The Pipeline Is Dead - Iris ten Teije, Sky Valley Ambient Computing](https://www.youtube.com/watch?v=bRnoEpoK5m4&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [063-the-pipeline-is-dead.md](../summaries/model_based/063-the-pipeline-is-dead.md) |
 | 64 | P3 | Agent architecture and orchestration | fallback extract, 273 words | [Your Agents Need a Save Button - Hamza Tahir, ZenML](https://www.youtube.com/watch?v=bZISsg7H7DA&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [064-your-agents-need-a-save-button.md](../summaries/model_based/064-your-agents-need-a-save-button.md) |
+| 65 | P3 | Production reliability and evals | fallback extract, 240 words | [Your AI Product Will Fail Unless You Can Explain It - Veronica Hylak, Hey AI](https://www.youtube.com/watch?v=d_Ftrl3vfV0&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [065-your-ai-product-will-fail-unless-you-can-explain-it.md](../summaries/model_based/065-your-ai-product-will-fail-unless-you-can-explain-it.md) |
+| 66 | P3 | Agent architecture and orchestration | fallback extract, 183 words | [Agents Need Receipts, Not More Tool Calls - Armanas Povilionis, Alithea Bio](https://www.youtube.com/watch?v=Q9ycQHbDdJs&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [066-agents-need-receipts-not-more-tool-calls.md](../summaries/model_based/066-agents-need-receipts-not-more-tool-calls.md) |
+| 67 | P3 | Agent architecture and orchestration | fallback extract, 247 words | [Build the AI GTM Agent That Knows the Buyer - Dr. Sajjan Kanukolanu, Position2 (Position Squared)](https://www.youtube.com/watch?v=ltv-L5oMPIs&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [067-build-the-ai-gtm-agent-that-knows-the-buyer.md](../summaries/model_based/067-build-the-ai-gtm-agent-that-knows-the-buyer.md) |
+| 68 | P3 | Developer workflow and coding systems | fallback extract, 168 words | [The UX of AI: Making AI-Powered Apps Your Users Don't Hate - Kathryn Grayson Nanz, Progress Software](https://www.youtube.com/watch?v=L3RuP_q8Bwc&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [068-the-ux-of-ai-making-ai-powered-apps-your-users-don-t-hate.md](../summaries/model_based/068-the-ux-of-ai-making-ai-powered-apps-your-users-don-t-hate.md) |
+| 69 | P3 | Agent architecture and orchestration | fallback extract, 330 words | [When Agents Meet Physical Data: The Other Physics of Agent Harnesses - Dmitry Petrov, DataChain](https://www.youtube.com/watch?v=bUJgirn4_yc&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [069-when-agents-meet-physical-data-the-other-physics-of-agent-harnesses.md](../summaries/model_based/069-when-agents-meet-physical-data-the-other-physics-of-agent-harnesses.md) |
 
 ## Skipped Or Blocked
 
@@ -83,11 +88,6 @@ This index tracks the local open-source model notes in `summaries/model_based/`.
 
 ## Missing Transcript Queue
 
-- 065. Your AI Product Will Fail Unless You Can Explain It - Veronica Hylak, Hey AI - not summarized
-- 066. Agents Need Receipts, Not More Tool Calls - Armanas Povilionis, Alithea Bio - not summarized
-- 067. Build the AI GTM Agent That Knows the Buyer - Dr. Sajjan Kanukolanu, Position2 (Position Squared) - not summarized
-- 068. The UX of AI: Making AI-Powered Apps Your Users Don't Hate - Kathryn Grayson Nanz, Progress Software - not summarized
-- 069. When Agents Meet Physical Data: The Other Physics of Agent Harnesses - Dmitry Petrov, DataChain - not summarized
 - 070. Respect The Process - Andrew Dumit, Watershed Technology Inc. - not summarized
 - 071. 500 people vibe-coded for 30 days. I was one of them. - Sanja Grbic, Automattic - not summarized
 - 072. Build AI Systems for Discernment, Not Approval - Angel Ortmann Lee, Duolingo - not summarized
