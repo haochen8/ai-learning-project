@@ -34,8 +34,8 @@ This is the recommended route through the notes that have local model-based summ
 
 ### Module 1: Agent architecture and orchestration
 
-- Notes: 18
-- Total watch time represented: 6:03:00
+- Notes: 20
+- Total watch time represented: 15:15:39
 
 | # | Effort | Source | Talk | First learning target |
 |---:|---|---|---|---|
@@ -52,11 +52,13 @@ This is the recommended route through the notes that have local model-based summ
 | 54 | Standard watch | fallback extract, 110 words | [A Song of Types and Agents](../summaries/model_based/054-a-song-of-types-and-agents.md) | How A Song of Types and Agents decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 74 | Standard watch | fallback extract, 299 words | [How we taught agents to use good retrieval](../summaries/model_based/074-how-we-taught-agents-to-use-good-retrieval.md) | How How we taught agents to use good retrieval decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 64 | Standard watch | fallback extract, 273 words | [Your Agents Need a Save Button](../summaries/model_based/064-your-agents-need-a-save-button.md) | How Your Agents Need a Save Button decomposes a larger AI engineering task into smaller reasoning or implementation steps |
+| 80 | Standard watch | fallback extract, 298 words | [Building Great Agent Skills: The Missing Manual](../summaries/model_based/080-building-great-agent-skills-the-missing-manual.md) | How Building Great Agent Skills: The Missing Manual decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 60 | Standard watch | fallback extract, 178 words | [Continual Learning for AI Agents: From Failures to Durable Improvements](../summaries/model_based/060-continual-learning-for-ai-agents-from-failures-to-durable-improvements.md) | How Continual Learning for AI Agents: From Failures to Durable Improvements decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 67 | Standard watch | fallback extract, 247 words | [Build the AI GTM Agent That Knows the Buyer](../summaries/model_based/067-build-the-ai-gtm-agent-that-knows-the-buyer.md) | How Build the AI GTM Agent That Knows the Buyer decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 69 | Standard watch | fallback extract, 330 words | [When Agents Meet Physical Data: The Other Physics of Agent Harnesses](../summaries/model_based/069-when-agents-meet-physical-data-the-other-physics-of-agent-harnesses.md) | How When Agents Meet Physical Data: The Other Physics of Agent Harnesses decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 55 | Deep watch | fallback extract, 131 words | [The Future Is Domain-Specific Agents](../summaries/model_based/055-the-future-is-domain-specific-agents.md) | How The Future Is Domain-Specific Agents decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 59 | Deep watch | fallback extract, 295 words | [Voice Agents That Handle Interrupts](../summaries/model_based/059-voice-agents-that-handle-interrupts.md) | How Voice Agents That Handle Interrupts decomposes a larger AI engineering task into smaller reasoning or implementation steps |
+| 81 | Deep watch | fallback extract, 124 words | [WF2026: Autoresearch & Keynotes ft. Anthropic, Google DeepMind, Amazon AGI, Sonar, Arena, Recursive](../summaries/model_based/081-wf2026-autoresearch-keynotes-ft-anthropic-google-deepmind-amazon-agi-sonar-arena-recursive.md) | How WF2026: Autoresearch & Keynotes ft. Anthropic, Google DeepMind, Amazon AGI, Sonar, Arena, Recursive decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 
 ### Module 2: Production reliability and evals
 

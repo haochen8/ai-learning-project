@@ -4,9 +4,9 @@ This index tracks the local open-source model notes in `summaries/model_based/`.
 
 ## Coverage
 
-- Model-based notes: 78
+- Model-based notes: 80
 - Skipped model summaries: 1
-- Playlist items still missing model notes: 2
+- Playlist items still missing model notes: 0
 - Large raw/clean transcript files are intentionally not tracked in git.
 
 ## Notes
@@ -91,6 +91,8 @@ This index tracks the local open-source model notes in `summaries/model_based/`.
 | 77 | P3 | Developer workflow and coding systems | fallback extract, 199 words | [10x - Reimagining Mobile Development Workflow - Orel Zion, stag.build](https://www.youtube.com/watch?v=rCVVsxHWai8&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [077-10x.md](../summaries/model_based/077-10x.md) |
 | 78 | P3 | General AI engineering | fallback extract, 98 words | [Predicting Novel Research Directions in Big Pharma - Vasilije Markovic, cognee](https://www.youtube.com/watch?v=M7-KY0W-BPo&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [078-predicting-novel-research-directions-in-big-pharma.md](../summaries/model_based/078-predicting-novel-research-directions-in-big-pharma.md) |
 | 79 | P3 | Agent architecture and orchestration | fallback extract, 309 words | [The Factory That Dreams: 39 AI Agents, No Framework - Rushabh Doshi, Machinecraft](https://www.youtube.com/watch?v=jtzh-GBXBWc&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [079-the-factory-that-dreams-39-ai-agents-no-framework.md](../summaries/model_based/079-the-factory-that-dreams-39-ai-agents-no-framework.md) |
+| 80 | P3 | Agent architecture and orchestration | fallback extract, 298 words | [Building Great Agent Skills: The Missing Manual](https://www.youtube.com/watch?v=UNzCG3lw6O0&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [080-building-great-agent-skills-the-missing-manual.md](../summaries/model_based/080-building-great-agent-skills-the-missing-manual.md) |
+| 81 | P3 | Agent architecture and orchestration | fallback extract, 124 words | [WF2026: Autoresearch & Keynotes ft. Anthropic, Google DeepMind, Amazon AGI, Sonar, Arena, Recursive](https://www.youtube.com/watch?v=4sX_He5c4sI&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [081-wf2026-autoresearch-keynotes-ft-anthropic-google-deepmind-amazon-agi-sonar-arena-recursive.md](../summaries/model_based/081-wf2026-autoresearch-keynotes-ft-anthropic-google-deepmind-amazon-agi-sonar-arena-recursive.md) |
 
 ## Skipped Or Blocked
 
@@ -98,5 +100,3 @@ This index tracks the local open-source model notes in `summaries/model_based/`.
 
 ## Missing Transcript Queue
 
-- 080. Building Great Agent Skills: The Missing Manual - not summarized
-- 081. WF2026: Autoresearch & Keynotes ft. Anthropic, Google DeepMind, Amazon AGI, Sonar, Arena, Recursive - not summarized

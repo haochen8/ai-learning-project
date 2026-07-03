@@ -130,7 +130,9 @@ Use this as a spaced repetition plan for the local model-based notes.
 | 78 | Quick recall | [Build Neural Networks in TypeScript](../summaries/model_based/076-build-neural-networks-in-typescript.md) |
 | 78 | First pass | [The Factory That Dreams: 39 AI Agents, No Framework](../summaries/model_based/079-the-factory-that-dreams-39-ai-agents-no-framework.md) |
 | 79 | Quick recall | [10x](../summaries/model_based/077-10x.md) |
+| 79 | First pass | [Building Great Agent Skills: The Missing Manual](../summaries/model_based/080-building-great-agent-skills-the-missing-manual.md) |
 | 80 | Quick recall | [Predicting Novel Research Directions in Big Pharma](../summaries/model_based/078-predicting-novel-research-directions-in-big-pharma.md) |
+| 80 | First pass | [WF2026: Autoresearch & Keynotes ft. Anthropic, Google DeepMind, Amazon AGI, Sonar, Arena, Recursive](../summaries/model_based/081-wf2026-autoresearch-keynotes-ft-anthropic-google-deepmind-amazon-agi-sonar-arena-recursive.md) |
 | 81 | Quick recall | [The Factory That Dreams: 39 AI Agents, No Framework](../summaries/model_based/079-the-factory-that-dreams-39-ai-agents-no-framework.md) |
 
 ## Daily Review Loop

@@ -1026,8 +1026,34 @@
       "chunks": 1,
       "elapsed_seconds": 14.644591093063354,
       "error": ""
+    },
+    {
+      "index": 80,
+      "video_id": "UNzCG3lw6O0",
+      "title": "Building Great Agent Skills: The Missing Manual",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/080-building-great-agent-skills-the-missing-manual.md",
+      "transcript_words": 298,
+      "chunks": 1,
+      "elapsed_seconds": 14.471404790878296,
+      "error": ""
+    },
+    {
+      "index": 81,
+      "video_id": "4sX_He5c4sI",
+      "title": "WF2026: Autoresearch & Keynotes ft. Anthropic, Google DeepMind, Amazon AGI, Sonar, Arena, Recursive",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/081-wf2026-autoresearch-keynotes-ft-anthropic-google-deepmind-amazon-agi-sonar-arena-recursive.md",
+      "transcript_words": 124,
+      "chunks": 1,
+      "elapsed_seconds": 17.51242184638977,
+      "error": ""
     }
   ],
-  "ok_count": 78,
+  "ok_count": 80,
   "dry_run_count": 0
 }
