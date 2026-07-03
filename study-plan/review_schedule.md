@@ -96,7 +96,13 @@ Use this as a spaced repetition plan for the local model-based notes.
 | 52 | First pass | [The AI bugpocalypse is here. Now what?](../summaries/model_based/053-the-ai-bugpocalypse-is-here-now-what.md) |
 | 53 | Quick recall | [SWE-Marathon: Evaluating Coding Agents at Billion-Token Scale](../summaries/model_based/051-swe-marathon-evaluating-coding-agents-at-billion-token-scale.md) |
 | 53 | First pass | [A Song of Types and Agents](../summaries/model_based/054-a-song-of-types-and-agents.md) |
+| 54 | First pass | [The Future Is Domain-Specific Agents](../summaries/model_based/055-the-future-is-domain-specific-agents.md) |
+| 55 | First pass | [Frontier results, on device](../summaries/model_based/056-frontier-results-on-device.md) |
 | 56 | Quick recall | [A Song of Types and Agents](../summaries/model_based/054-a-song-of-types-and-agents.md) |
+| 56 | First pass | [Medic for Apache Spark](../summaries/model_based/057-medic-for-apache-spark.md) |
+| 57 | First pass | [Skills are the New SDKs](../summaries/model_based/058-skills-are-the-new-sdks.md) |
+| 58 | First pass | [Voice Agents That Handle Interrupts](../summaries/model_based/059-voice-agents-that-handle-interrupts.md) |
+| 59 | Quick recall | [Medic for Apache Spark](../summaries/model_based/057-medic-for-apache-spark.md) |
 
 ## Daily Review Loop
 

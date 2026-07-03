@@ -701,8 +701,73 @@
       "chunks": 1,
       "elapsed_seconds": 8.07538104057312,
       "error": ""
+    },
+    {
+      "index": 55,
+      "video_id": "spNAUEgq_A8",
+      "title": "The Future Is Domain-Specific Agents - Justin Schroeder, StandardAgents",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/055-the-future-is-domain-specific-agents.md",
+      "transcript_words": 131,
+      "chunks": 1,
+      "elapsed_seconds": 9.779368877410889,
+      "error": ""
+    },
+    {
+      "index": 56,
+      "video_id": "fWXJM-J0ZB8",
+      "title": "Frontier results, on device - RL Nabors, Arize",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/056-frontier-results-on-device.md",
+      "transcript_words": 249,
+      "chunks": 1,
+      "elapsed_seconds": 17.106207847595215,
+      "error": ""
+    },
+    {
+      "index": 57,
+      "video_id": "0RNNfxpdbQk",
+      "title": "Medic for Apache Spark - First Aid for Failing Jobs - Drasko Profirovic, Pinterest",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/057-medic-for-apache-spark.md",
+      "transcript_words": 325,
+      "chunks": 1,
+      "elapsed_seconds": 18.235186100006104,
+      "error": ""
+    },
+    {
+      "index": 58,
+      "video_id": "LC3-P7v3yoI",
+      "title": "Skills are the New SDKs - Elvin Aghammadzada, DataRobot",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/058-skills-are-the-new-sdks.md",
+      "transcript_words": 197,
+      "chunks": 1,
+      "elapsed_seconds": 17.163141012191772,
+      "error": ""
+    },
+    {
+      "index": 59,
+      "video_id": "hMlLw1LeIK8",
+      "title": "Voice Agents That Handle Interrupts - Chintan Agrawal, Amazon Web Services",
+      "status": "ok",
+      "backend": "ollama",
+      "model": "qwen2.5:0.5b",
+      "output_path": "summaries/model_based/059-voice-agents-that-handle-interrupts.md",
+      "transcript_words": 295,
+      "chunks": 1,
+      "elapsed_seconds": 21.37502408027649,
+      "error": ""
     }
   ],
-  "ok_count": 53,
+  "ok_count": 58,
   "dry_run_count": 0
 }

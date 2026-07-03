@@ -4,9 +4,9 @@ This index tracks the local open-source model notes in `summaries/model_based/`.
 
 ## Coverage
 
-- Model-based notes: 53
+- Model-based notes: 58
 - Skipped model summaries: 1
-- Playlist items still missing model notes: 27
+- Playlist items still missing model notes: 22
 - Large raw/clean transcript files are intentionally not tracked in git.
 
 ## Notes
@@ -66,6 +66,11 @@ This index tracks the local open-source model notes in `summaries/model_based/`.
 | 52 | P3 | General AI engineering | fallback extract, 159 words | [The Prompt Is Still a Punch Card - Ted Johnson, JoinIn AI](https://www.youtube.com/watch?v=hVJOnuhFmTA&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [052-the-prompt-is-still-a-punch-card.md](../summaries/model_based/052-the-prompt-is-still-a-punch-card.md) |
 | 53 | P3 | General AI engineering | fallback extract, 153 words | [The AI bugpocalypse is here. Now what? - Jack Cable, Corridor](https://www.youtube.com/watch?v=7JgIS42mz7U&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [053-the-ai-bugpocalypse-is-here-now-what.md](../summaries/model_based/053-the-ai-bugpocalypse-is-here-now-what.md) |
 | 54 | P3 | Agent architecture and orchestration | fallback extract, 110 words | [A Song of Types and Agents - Roberto Stagi, Ratel](https://www.youtube.com/watch?v=UlFB6efYN5Q&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [054-a-song-of-types-and-agents.md](../summaries/model_based/054-a-song-of-types-and-agents.md) |
+| 55 | P3 | Agent architecture and orchestration | fallback extract, 131 words | [The Future Is Domain-Specific Agents - Justin Schroeder, StandardAgents](https://www.youtube.com/watch?v=spNAUEgq_A8&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [055-the-future-is-domain-specific-agents.md](../summaries/model_based/055-the-future-is-domain-specific-agents.md) |
+| 56 | P3 | General AI engineering | fallback extract, 249 words | [Frontier results, on device - RL Nabors, Arize](https://www.youtube.com/watch?v=fWXJM-J0ZB8&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [056-frontier-results-on-device.md](../summaries/model_based/056-frontier-results-on-device.md) |
+| 57 | P3 | General AI engineering | fallback extract, 325 words | [Medic for Apache Spark - First Aid for Failing Jobs - Drasko Profirovic, Pinterest](https://www.youtube.com/watch?v=0RNNfxpdbQk&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [057-medic-for-apache-spark.md](../summaries/model_based/057-medic-for-apache-spark.md) |
+| 58 | P3 | General AI engineering | fallback extract, 197 words | [Skills are the New SDKs - Elvin Aghammadzada, DataRobot](https://www.youtube.com/watch?v=LC3-P7v3yoI&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [058-skills-are-the-new-sdks.md](../summaries/model_based/058-skills-are-the-new-sdks.md) |
+| 59 | P3 | Agent architecture and orchestration | fallback extract, 295 words | [Voice Agents That Handle Interrupts - Chintan Agrawal, Amazon Web Services](https://www.youtube.com/watch?v=hMlLw1LeIK8&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [059-voice-agents-that-handle-interrupts.md](../summaries/model_based/059-voice-agents-that-handle-interrupts.md) |
 
 ## Skipped Or Blocked
 
@@ -73,11 +78,6 @@ This index tracks the local open-source model notes in `summaries/model_based/`.
 
 ## Missing Transcript Queue
 
-- 055. The Future Is Domain-Specific Agents - Justin Schroeder, StandardAgents - not summarized
-- 056. Frontier results, on device - RL Nabors, Arize - not summarized
-- 057. Medic for Apache Spark - First Aid for Failing Jobs - Drasko Profirovic, Pinterest - not summarized
-- 058. Skills are the New SDKs - Elvin Aghammadzada, DataRobot - not summarized
-- 059. Voice Agents That Handle Interrupts - Chintan Agrawal, Amazon Web Services - not summarized
 - 060. Continual Learning for AI Agents: From Failures to Durable Improvements - Soheil Feizi, RELAI - not summarized
 - 061. GTM Is You - Victoria Melnikova, Evil Martians - not summarized
 - 062. Agent Output Is Not UX: Rendering Layer Your LLM Pipeline Is Missing - Bala Ramdoss, Amazon - not summarized
