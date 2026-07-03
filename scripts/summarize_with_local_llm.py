@@ -56,6 +56,8 @@ def slugify(value: str) -> str:
 
 
 def title_topic(title: str) -> str:
+    if title.startswith("WF2026:") and " ft. " in title:
+        return title.split(" ft. ", maxsplit=1)[0].strip()
     return re.split(r"\s+-\s+", title, maxsplit=1)[0].strip()
 
 
@@ -140,6 +142,35 @@ One paragraph.
 
 Transcript chunk:
 {chunk}
+"""
+
+
+def reduce_prompt(video: dict, summaries: list[str], group_number: int, group_count: int) -> str:
+    joined = "\n\n---\n\n".join(summaries)
+    return f"""\
+{system_instruction()}
+
+Condense summary group {group_number}/{group_count} for this long talk.
+
+Title: {video['title']}
+Duration: {video['duration']}
+
+Return Markdown with exactly these sections:
+
+## Group Thesis
+One paragraph.
+
+## Durable Ideas
+- 5-8 concrete bullets.
+
+## Technical Signals
+- Concepts, tools, frameworks, examples, or named systems to preserve.
+
+## Risks And Open Questions
+- Practical risks, missing evidence, or production concerns.
+
+Chunk summaries:
+{joined}
 """
 
 
@@ -324,6 +355,7 @@ def clean_bullets(text: str, limit: int = 10) -> list[str]:
                 "risks and failure modes",
                 "risks and failure modes:",
                 "summarize transcript chunk",
+                "summarizing transcript chunk",
             )
         ):
             continue
@@ -554,6 +586,29 @@ def generate(prompt: str, args: argparse.Namespace, num_predict: int) -> str:
     raise ValueError(f"Unsupported backend: {args.backend}")
 
 
+def reduce_summaries(video: dict, chunk_summaries: list[str], args: argparse.Namespace) -> list[str]:
+    """Compress many chunk summaries before final synthesis for very long transcripts."""
+    if args.longform_reduce_group_size <= 1:
+        return chunk_summaries
+    groups = [
+        chunk_summaries[index : index + args.longform_reduce_group_size]
+        for index in range(0, len(chunk_summaries), args.longform_reduce_group_size)
+    ]
+    if len(groups) <= 1:
+        return chunk_summaries
+
+    reduced: list[str] = []
+    for idx, group in enumerate(groups, start=1):
+        if args.progress:
+            print(
+                f"{video['index']:03d} reduce group {idx}/{len(groups)} "
+                f"chunks={len(group)} {video['title']}",
+                flush=True,
+            )
+        reduced.append(generate(reduce_prompt(video, group, idx, len(groups)), args, args.reduce_num_predict))
+    return reduced
+
+
 def select_videos(playlist: dict, records_by_id: dict[str, dict], args: argparse.Namespace) -> list[tuple[dict, dict]]:
     selected: list[tuple[dict, dict]] = []
     for video in playlist["videos"]:
@@ -593,7 +648,8 @@ def summarize_video(video: dict, record: dict, args: argparse.Namespace) -> Summ
     if not transcript.strip():
         summary_record.status = "missing_transcript"
         return summary_record
-    if args.max_transcript_words and transcript_words > args.max_transcript_words:
+    is_longform = bool(args.max_transcript_words and transcript_words > args.max_transcript_words)
+    if is_longform and not args.longform:
         summary_record.status = "skipped_too_long"
         return summary_record
 
@@ -618,14 +674,16 @@ def summarize_video(video: dict, record: dict, args: argparse.Namespace) -> Summ
                 flush=True,
             )
         prompt = chunk_prompt(video, chunk, idx, len(chunks))
-        chunk_summaries.append(generate(prompt, args, args.chunk_num_predict))
+        num_predict = args.longform_chunk_num_predict if is_longform and args.longform_chunk_num_predict > 0 else args.chunk_num_predict
+        chunk_summaries.append(generate(prompt, args, num_predict))
 
     if args.synthesis_mode == "template":
         final_markdown = build_template_note(video, transcript, chunk_summaries)
     else:
         if args.progress:
             print(f"{video['index']:03d} final synthesis {video['title']}", flush=True)
-        final_markdown = generate(final_prompt(video, chunk_summaries), args, args.final_num_predict)
+        synthesis_summaries = reduce_summaries(video, chunk_summaries, args) if is_longform else chunk_summaries
+        final_markdown = generate(final_prompt(video, synthesis_summaries), args, args.final_num_predict)
     if not final_markdown.startswith("# "):
         final_markdown = f"# {video['title']}\n\n{final_markdown}"
 
@@ -666,9 +724,13 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--temperature", type=float, default=0.2)
     parser.add_argument("--timeout", type=int, default=600)
     parser.add_argument("--chunk-num-predict", type=int, default=450)
+    parser.add_argument("--longform-chunk-num-predict", type=int, default=260)
+    parser.add_argument("--reduce-num-predict", type=int, default=700)
     parser.add_argument("--final-num-predict", type=int, default=1100)
     parser.add_argument("--num-ctx", type=int, default=8192)
     parser.add_argument("--max-transcript-words", type=int, default=0)
+    parser.add_argument("--longform", action="store_true")
+    parser.add_argument("--longform-reduce-group-size", type=int, default=8)
     parser.add_argument("--synthesis-mode", choices=["llm", "template"], default="llm")
     parser.add_argument("--progress", action="store_true")
     parser.add_argument("--dry-run", action="store_true")

@@ -4,8 +4,8 @@ This index tracks the local open-source model notes in `summaries/model_based/`.
 
 ## Coverage
 
-- Model-based notes: 80
-- Skipped model summaries: 1
+- Model-based notes: 81
+- Skipped model summaries: 0
 - Playlist items still missing model notes: 0
 - Large raw/clean transcript files are intentionally not tracked in git.
 
@@ -46,6 +46,7 @@ This index tracks the local open-source model notes in `summaries/model_based/`.
 | 31 | P2 | Developer workflow and coding systems | YouTube transcript, 2091 words | [The Prompt is the Platform - Dominik Tornow, Resonate HQ](https://www.youtube.com/watch?v=DqtmZE6Hl0g&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [031-the-prompt-is-the-platform.md](../summaries/model_based/031-the-prompt-is-the-platform.md) |
 | 32 | P2 | Retrieval, memory, and context | YouTube transcript, 1880 words | [User Signal Dies at the Retrieval Boundary - Sonam Pankaj, StarlightSearch](https://www.youtube.com/watch?v=Jx4ZFEAq6bY&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [032-user-signal-dies-at-the-retrieval-boundary.md](../summaries/model_based/032-user-signal-dies-at-the-retrieval-boundary.md) |
 | 33 | P2 | Voice, browser, and multimodal UX | YouTube transcript, 940 words | [Browser Agents Don't Need Better Models. They Need Better Eyes. - Kushan Raj, ARK](https://www.youtube.com/watch?v=JnubYCYunk8&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [033-browser-agents-don-t-need-better-models-they-need-better-eyes.md](../summaries/model_based/033-browser-agents-don-t-need-better-models-they-need-better-eyes.md) |
+| 34 | P2 | Developer workflow and coding systems | YouTube transcript, 88983 words | [WF2026: Software Factories & Keynotes ft. Microsoft, OpenAI, OpenClaw, Z.ai (GLM), MiniMax, HF](https://www.youtube.com/watch?v=htM02KMNZnk&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [034-wf2026-software-factories-keynotes-ft-microsoft-openai-openclaw-z-ai-glm-minimax-hf.md](../summaries/model_based/034-wf2026-software-factories-keynotes-ft-microsoft-openai-openclaw-z-ai-glm-minimax-hf.md) |
 | 35 | P2 | Product, domain, and organization | YouTube transcript, 2889 words | [Chat and citations won't save your vertical AI - Atul Ramachandran, Filed Inc](https://www.youtube.com/watch?v=RGiXcVxSD3s&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [035-chat-and-citations-won-t-save-your-vertical-ai.md](../summaries/model_based/035-chat-and-citations-won-t-save-your-vertical-ai.md) |
 | 36 | P2 | Product, domain, and organization | YouTube transcript, 3370 words | [The Missing Layer After Launch - Raphael Kalandadze, Wandero AI](https://www.youtube.com/watch?v=kZsf_Sfm7RU&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [036-the-missing-layer-after-launch.md](../summaries/model_based/036-the-missing-layer-after-launch.md) |
 | 37 | P1 | Production reliability and evals | YouTube transcript, 3528 words | [Stop Evaluating Models Like It's the 50s - Alejandro Vidal, Mindmakers](https://www.youtube.com/watch?v=EfcfUB2uprc&list=PLcfpQ4tk2k0V1LNigteMgExP1rb4Hy8wn) | [037-stop-evaluating-models-like-it-s-the-50s.md](../summaries/model_based/037-stop-evaluating-models-like-it-s-the-50s.md) |
@@ -96,7 +97,7 @@ This index tracks the local open-source model notes in `summaries/model_based/`.
 
 ## Skipped Or Blocked
 
-- 034. WF2026: Software Factories & Keynotes ft. Microsoft, OpenAI, OpenClaw, Z.ai (GLM), MiniMax, HF - skipped_too_long (88983 words)
+- None
 
 ## Missing Transcript Queue
 

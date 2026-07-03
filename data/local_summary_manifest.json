@@ -433,13 +433,13 @@
       "index": 34,
       "video_id": "htM02KMNZnk",
       "title": "WF2026: Software Factories & Keynotes ft. Microsoft, OpenAI, OpenClaw, Z.ai (GLM), MiniMax, HF",
-      "status": "skipped_too_long",
+      "status": "ok",
       "backend": "ollama",
       "model": "qwen2.5:0.5b",
       "output_path": "summaries/model_based/034-wf2026-software-factories-keynotes-ft-microsoft-openai-openclaw-z-ai-glm-minimax-hf.md",
       "transcript_words": 88983,
-      "chunks": 0,
-      "elapsed_seconds": 0.0,
+      "chunks": 40,
+      "elapsed_seconds": 2819.5154089927673,
       "error": ""
     },
     {
@@ -1054,6 +1054,6 @@
       "error": ""
     }
   ],
-  "ok_count": 80,
+  "ok_count": 81,
   "dry_run_count": 0
 }

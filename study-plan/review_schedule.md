@@ -70,70 +70,71 @@ Use this as a spaced repetition plan for the local model-based notes.
 | 34 | First pass | [The Prompt is the Platform](../summaries/model_based/031-the-prompt-is-the-platform.md) |
 | 35 | First pass | [User Signal Dies at the Retrieval Boundary](../summaries/model_based/032-user-signal-dies-at-the-retrieval-boundary.md) |
 | 36 | First pass | [Browser Agents Don't Need Better Models. They Need Better Eyes.](../summaries/model_based/033-browser-agents-don-t-need-better-models-they-need-better-eyes.md) |
-| 37 | First pass | [Chat and citations won't save your vertical AI](../summaries/model_based/035-chat-and-citations-won-t-save-your-vertical-ai.md) |
-| 38 | First pass | [The Missing Layer After Launch](../summaries/model_based/036-the-missing-layer-after-launch.md) |
+| 37 | First pass | [WF2026: Software Factories & Keynotes ft. Microsoft, OpenAI, OpenClaw, Z.ai (GLM), MiniMax, HF](../summaries/model_based/034-wf2026-software-factories-keynotes-ft-microsoft-openai-openclaw-z-ai-glm-minimax-hf.md) |
+| 38 | First pass | [Chat and citations won't save your vertical AI](../summaries/model_based/035-chat-and-citations-won-t-save-your-vertical-ai.md) |
 | 39 | Quick recall | [Browser Agents Don't Need Better Models. They Need Better Eyes.](../summaries/model_based/033-browser-agents-don-t-need-better-models-they-need-better-eyes.md) |
-| 39 | First pass | [What Does Done Even Mean? Agents and Paperclip's Liveness Model](../summaries/model_based/038-what-does-done-even-mean-agents-and-paperclip-s-liveness-model.md) |
-| 40 | First pass | [Your Voice Agent Doesn't Need a Frontier Model](../summaries/model_based/040-your-voice-agent-doesn-t-need-a-frontier-model.md) |
-| 41 | First pass | [Don't Let the LLM Drive](../summaries/model_based/041-don-t-let-the-llm-drive.md) |
-| 42 | Quick recall | [What Does Done Even Mean? Agents and Paperclip's Liveness Model](../summaries/model_based/038-what-does-done-even-mean-agents-and-paperclip-s-liveness-model.md) |
-| 42 | First pass | [I Run a Fleet of AI Agents Across Three Machines. Here's What Broke.](../summaries/model_based/042-i-run-a-fleet-of-ai-agents-across-three-machines-here-s-what-broke.md) |
-| 43 | Quick recall | [Your Voice Agent Doesn't Need a Frontier Model](../summaries/model_based/040-your-voice-agent-doesn-t-need-a-frontier-model.md) |
-| 43 | First pass | [Why Your Agent Disagrees With Itself (And What To Do About It)](../summaries/model_based/043-why-your-agent-disagrees-with-itself-and-what-to-do-about-it.md) |
-| 44 | Quick recall | [Don't Let the LLM Drive](../summaries/model_based/041-don-t-let-the-llm-drive.md) |
-| 44 | First pass | [Develop at Idea Velocity](../summaries/model_based/044-develop-at-idea-velocity.md) |
-| 45 | Quick recall | [I Run a Fleet of AI Agents Across Three Machines. Here's What Broke.](../summaries/model_based/042-i-run-a-fleet-of-ai-agents-across-three-machines-here-s-what-broke.md) |
-| 45 | First pass | [Your LLM Deception Monitor Is Broken. The Fix Is in the Training Data](../summaries/model_based/045-your-llm-deception-monitor-is-broken-the-fix-is-in-the-training-data.md) |
-| 46 | First pass | [Using RL Agent to Detect and Remediate ETL Pipeline Failures](../summaries/model_based/027-using-rl-agent-to-detect-and-remediate-etl-pipeline-failures.md) |
-| 47 | First pass | [MCP Apps: Primitives, discovery, and the Future of Software](../summaries/model_based/048-mcp-apps-primitives-discovery-and-the-future-of-software.md) |
-| 48 | Quick recall | [Your LLM Deception Monitor Is Broken. The Fix Is in the Training Data](../summaries/model_based/045-your-llm-deception-monitor-is-broken-the-fix-is-in-the-training-data.md) |
-| 48 | First pass | [Every Solo Agent Builder Eventually Reinvents a Worse Version of CI/CD](../summaries/model_based/049-every-solo-agent-builder-eventually-reinvents-a-worse-version-of-ci-cd.md) |
-| 49 | Quick recall | [Using RL Agent to Detect and Remediate ETL Pipeline Failures](../summaries/model_based/027-using-rl-agent-to-detect-and-remediate-etl-pipeline-failures.md) |
-| 49 | First pass | [Semantic Blindness: 500,000 Sensors Confused an LLM](../summaries/model_based/050-semantic-blindness-500-000-sensors-confused-an-llm.md) |
-| 50 | First pass | [SWE-Marathon: Evaluating Coding Agents at Billion-Token Scale](../summaries/model_based/051-swe-marathon-evaluating-coding-agents-at-billion-token-scale.md) |
-| 51 | Quick recall | [Every Solo Agent Builder Eventually Reinvents a Worse Version of CI/CD](../summaries/model_based/049-every-solo-agent-builder-eventually-reinvents-a-worse-version-of-ci-cd.md) |
-| 51 | First pass | [The Prompt Is Still a Punch Card](../summaries/model_based/052-the-prompt-is-still-a-punch-card.md) |
-| 52 | First pass | [The AI bugpocalypse is here. Now what?](../summaries/model_based/053-the-ai-bugpocalypse-is-here-now-what.md) |
-| 53 | Quick recall | [SWE-Marathon: Evaluating Coding Agents at Billion-Token Scale](../summaries/model_based/051-swe-marathon-evaluating-coding-agents-at-billion-token-scale.md) |
-| 53 | First pass | [A Song of Types and Agents](../summaries/model_based/054-a-song-of-types-and-agents.md) |
-| 54 | First pass | [The Future Is Domain-Specific Agents](../summaries/model_based/055-the-future-is-domain-specific-agents.md) |
-| 55 | First pass | [Frontier results, on device](../summaries/model_based/056-frontier-results-on-device.md) |
-| 56 | Quick recall | [A Song of Types and Agents](../summaries/model_based/054-a-song-of-types-and-agents.md) |
-| 56 | First pass | [Medic for Apache Spark](../summaries/model_based/057-medic-for-apache-spark.md) |
-| 57 | First pass | [Skills are the New SDKs](../summaries/model_based/058-skills-are-the-new-sdks.md) |
-| 58 | First pass | [Voice Agents That Handle Interrupts](../summaries/model_based/059-voice-agents-that-handle-interrupts.md) |
-| 59 | Quick recall | [Medic for Apache Spark](../summaries/model_based/057-medic-for-apache-spark.md) |
-| 59 | First pass | [Continual Learning for AI Agents: From Failures to Durable Improvements](../summaries/model_based/060-continual-learning-for-ai-agents-from-failures-to-durable-improvements.md) |
-| 60 | First pass | [GTM Is You](../summaries/model_based/061-gtm-is-you.md) |
-| 61 | First pass | [Agent Output Is Not UX: Rendering Layer Your LLM Pipeline Is Missing](../summaries/model_based/062-agent-output-is-not-ux-rendering-layer-your-llm-pipeline-is-missing.md) |
-| 62 | First pass | [The Pipeline Is Dead](../summaries/model_based/063-the-pipeline-is-dead.md) |
-| 63 | Quick recall | [GTM Is You](../summaries/model_based/061-gtm-is-you.md) |
-| 63 | First pass | [Your Agents Need a Save Button](../summaries/model_based/064-your-agents-need-a-save-button.md) |
-| 64 | Quick recall | [Agent Output Is Not UX: Rendering Layer Your LLM Pipeline Is Missing](../summaries/model_based/062-agent-output-is-not-ux-rendering-layer-your-llm-pipeline-is-missing.md) |
-| 64 | First pass | [Your AI Product Will Fail Unless You Can Explain It](../summaries/model_based/065-your-ai-product-will-fail-unless-you-can-explain-it.md) |
-| 65 | First pass | [Agents Need Receipts, Not More Tool Calls](../summaries/model_based/066-agents-need-receipts-not-more-tool-calls.md) |
-| 66 | First pass | [Build the AI GTM Agent That Knows the Buyer](../summaries/model_based/067-build-the-ai-gtm-agent-that-knows-the-buyer.md) |
-| 67 | Quick recall | [Your AI Product Will Fail Unless You Can Explain It](../summaries/model_based/065-your-ai-product-will-fail-unless-you-can-explain-it.md) |
-| 67 | First pass | [The UX of AI: Making AI-Powered Apps Your Users Don't Hate](../summaries/model_based/068-the-ux-of-ai-making-ai-powered-apps-your-users-don-t-hate.md) |
-| 68 | Quick recall | [Agents Need Receipts, Not More Tool Calls](../summaries/model_based/066-agents-need-receipts-not-more-tool-calls.md) |
-| 68 | First pass | [When Agents Meet Physical Data: The Other Physics of Agent Harnesses](../summaries/model_based/069-when-agents-meet-physical-data-the-other-physics-of-agent-harnesses.md) |
-| 69 | First pass | [Respect The Process](../summaries/model_based/070-respect-the-process.md) |
-| 70 | First pass | [500 people vibe-coded for 30 days. I was one of them.](../summaries/model_based/071-500-people-vibe-coded-for-30-days-i-was-one-of-them.md) |
-| 71 | First pass | [Build AI Systems for Discernment, Not Approval](../summaries/model_based/072-build-ai-systems-for-discernment-not-approval.md) |
-| 72 | First pass | [What if the harness mattered more than the model?](../summaries/model_based/073-what-if-the-harness-mattered-more-than-the-model.md) |
-| 73 | First pass | [How we taught agents to use good retrieval](../summaries/model_based/074-how-we-taught-agents-to-use-good-retrieval.md) |
-| 74 | First pass | [Beyond the Harness: A Journey Towards Adaptative Engineering](../summaries/model_based/075-beyond-the-harness-a-journey-towards-adaptative-engineering.md) |
-| 75 | First pass | [Build Neural Networks in TypeScript](../summaries/model_based/076-build-neural-networks-in-typescript.md) |
-| 76 | Quick recall | [How we taught agents to use good retrieval](../summaries/model_based/074-how-we-taught-agents-to-use-good-retrieval.md) |
-| 76 | First pass | [10x](../summaries/model_based/077-10x.md) |
-| 77 | First pass | [Predicting Novel Research Directions in Big Pharma](../summaries/model_based/078-predicting-novel-research-directions-in-big-pharma.md) |
-| 78 | Quick recall | [Build Neural Networks in TypeScript](../summaries/model_based/076-build-neural-networks-in-typescript.md) |
-| 78 | First pass | [The Factory That Dreams: 39 AI Agents, No Framework](../summaries/model_based/079-the-factory-that-dreams-39-ai-agents-no-framework.md) |
-| 79 | Quick recall | [10x](../summaries/model_based/077-10x.md) |
-| 79 | First pass | [Building Great Agent Skills: The Missing Manual](../summaries/model_based/080-building-great-agent-skills-the-missing-manual.md) |
-| 80 | Quick recall | [Predicting Novel Research Directions in Big Pharma](../summaries/model_based/078-predicting-novel-research-directions-in-big-pharma.md) |
-| 80 | First pass | [WF2026: Autoresearch & Keynotes ft. Anthropic, Google DeepMind, Amazon AGI, Sonar, Arena, Recursive](../summaries/model_based/081-wf2026-autoresearch-keynotes-ft-anthropic-google-deepmind-amazon-agi-sonar-arena-recursive.md) |
-| 81 | Quick recall | [The Factory That Dreams: 39 AI Agents, No Framework](../summaries/model_based/079-the-factory-that-dreams-39-ai-agents-no-framework.md) |
+| 39 | First pass | [The Missing Layer After Launch](../summaries/model_based/036-the-missing-layer-after-launch.md) |
+| 40 | First pass | [What Does Done Even Mean? Agents and Paperclip's Liveness Model](../summaries/model_based/038-what-does-done-even-mean-agents-and-paperclip-s-liveness-model.md) |
+| 41 | First pass | [Your Voice Agent Doesn't Need a Frontier Model](../summaries/model_based/040-your-voice-agent-doesn-t-need-a-frontier-model.md) |
+| 42 | First pass | [Don't Let the LLM Drive](../summaries/model_based/041-don-t-let-the-llm-drive.md) |
+| 43 | Quick recall | [What Does Done Even Mean? Agents and Paperclip's Liveness Model](../summaries/model_based/038-what-does-done-even-mean-agents-and-paperclip-s-liveness-model.md) |
+| 43 | First pass | [I Run a Fleet of AI Agents Across Three Machines. Here's What Broke.](../summaries/model_based/042-i-run-a-fleet-of-ai-agents-across-three-machines-here-s-what-broke.md) |
+| 44 | Quick recall | [Your Voice Agent Doesn't Need a Frontier Model](../summaries/model_based/040-your-voice-agent-doesn-t-need-a-frontier-model.md) |
+| 44 | First pass | [Why Your Agent Disagrees With Itself (And What To Do About It)](../summaries/model_based/043-why-your-agent-disagrees-with-itself-and-what-to-do-about-it.md) |
+| 45 | Quick recall | [Don't Let the LLM Drive](../summaries/model_based/041-don-t-let-the-llm-drive.md) |
+| 45 | First pass | [Develop at Idea Velocity](../summaries/model_based/044-develop-at-idea-velocity.md) |
+| 46 | Quick recall | [I Run a Fleet of AI Agents Across Three Machines. Here's What Broke.](../summaries/model_based/042-i-run-a-fleet-of-ai-agents-across-three-machines-here-s-what-broke.md) |
+| 46 | First pass | [Your LLM Deception Monitor Is Broken. The Fix Is in the Training Data](../summaries/model_based/045-your-llm-deception-monitor-is-broken-the-fix-is-in-the-training-data.md) |
+| 47 | First pass | [Using RL Agent to Detect and Remediate ETL Pipeline Failures](../summaries/model_based/027-using-rl-agent-to-detect-and-remediate-etl-pipeline-failures.md) |
+| 48 | First pass | [MCP Apps: Primitives, discovery, and the Future of Software](../summaries/model_based/048-mcp-apps-primitives-discovery-and-the-future-of-software.md) |
+| 49 | Quick recall | [Your LLM Deception Monitor Is Broken. The Fix Is in the Training Data](../summaries/model_based/045-your-llm-deception-monitor-is-broken-the-fix-is-in-the-training-data.md) |
+| 49 | First pass | [Every Solo Agent Builder Eventually Reinvents a Worse Version of CI/CD](../summaries/model_based/049-every-solo-agent-builder-eventually-reinvents-a-worse-version-of-ci-cd.md) |
+| 50 | Quick recall | [Using RL Agent to Detect and Remediate ETL Pipeline Failures](../summaries/model_based/027-using-rl-agent-to-detect-and-remediate-etl-pipeline-failures.md) |
+| 50 | First pass | [Semantic Blindness: 500,000 Sensors Confused an LLM](../summaries/model_based/050-semantic-blindness-500-000-sensors-confused-an-llm.md) |
+| 51 | First pass | [SWE-Marathon: Evaluating Coding Agents at Billion-Token Scale](../summaries/model_based/051-swe-marathon-evaluating-coding-agents-at-billion-token-scale.md) |
+| 52 | Quick recall | [Every Solo Agent Builder Eventually Reinvents a Worse Version of CI/CD](../summaries/model_based/049-every-solo-agent-builder-eventually-reinvents-a-worse-version-of-ci-cd.md) |
+| 52 | First pass | [The Prompt Is Still a Punch Card](../summaries/model_based/052-the-prompt-is-still-a-punch-card.md) |
+| 53 | First pass | [The AI bugpocalypse is here. Now what?](../summaries/model_based/053-the-ai-bugpocalypse-is-here-now-what.md) |
+| 54 | Quick recall | [SWE-Marathon: Evaluating Coding Agents at Billion-Token Scale](../summaries/model_based/051-swe-marathon-evaluating-coding-agents-at-billion-token-scale.md) |
+| 54 | First pass | [A Song of Types and Agents](../summaries/model_based/054-a-song-of-types-and-agents.md) |
+| 55 | First pass | [The Future Is Domain-Specific Agents](../summaries/model_based/055-the-future-is-domain-specific-agents.md) |
+| 56 | First pass | [Frontier results, on device](../summaries/model_based/056-frontier-results-on-device.md) |
+| 57 | Quick recall | [A Song of Types and Agents](../summaries/model_based/054-a-song-of-types-and-agents.md) |
+| 57 | First pass | [Medic for Apache Spark](../summaries/model_based/057-medic-for-apache-spark.md) |
+| 58 | First pass | [Skills are the New SDKs](../summaries/model_based/058-skills-are-the-new-sdks.md) |
+| 59 | First pass | [Voice Agents That Handle Interrupts](../summaries/model_based/059-voice-agents-that-handle-interrupts.md) |
+| 60 | Quick recall | [Medic for Apache Spark](../summaries/model_based/057-medic-for-apache-spark.md) |
+| 60 | First pass | [Continual Learning for AI Agents: From Failures to Durable Improvements](../summaries/model_based/060-continual-learning-for-ai-agents-from-failures-to-durable-improvements.md) |
+| 61 | First pass | [GTM Is You](../summaries/model_based/061-gtm-is-you.md) |
+| 62 | First pass | [Agent Output Is Not UX: Rendering Layer Your LLM Pipeline Is Missing](../summaries/model_based/062-agent-output-is-not-ux-rendering-layer-your-llm-pipeline-is-missing.md) |
+| 63 | First pass | [The Pipeline Is Dead](../summaries/model_based/063-the-pipeline-is-dead.md) |
+| 64 | Quick recall | [GTM Is You](../summaries/model_based/061-gtm-is-you.md) |
+| 64 | First pass | [Your Agents Need a Save Button](../summaries/model_based/064-your-agents-need-a-save-button.md) |
+| 65 | Quick recall | [Agent Output Is Not UX: Rendering Layer Your LLM Pipeline Is Missing](../summaries/model_based/062-agent-output-is-not-ux-rendering-layer-your-llm-pipeline-is-missing.md) |
+| 65 | First pass | [Your AI Product Will Fail Unless You Can Explain It](../summaries/model_based/065-your-ai-product-will-fail-unless-you-can-explain-it.md) |
+| 66 | First pass | [Agents Need Receipts, Not More Tool Calls](../summaries/model_based/066-agents-need-receipts-not-more-tool-calls.md) |
+| 67 | First pass | [Build the AI GTM Agent That Knows the Buyer](../summaries/model_based/067-build-the-ai-gtm-agent-that-knows-the-buyer.md) |
+| 68 | Quick recall | [Your AI Product Will Fail Unless You Can Explain It](../summaries/model_based/065-your-ai-product-will-fail-unless-you-can-explain-it.md) |
+| 68 | First pass | [The UX of AI: Making AI-Powered Apps Your Users Don't Hate](../summaries/model_based/068-the-ux-of-ai-making-ai-powered-apps-your-users-don-t-hate.md) |
+| 69 | Quick recall | [Agents Need Receipts, Not More Tool Calls](../summaries/model_based/066-agents-need-receipts-not-more-tool-calls.md) |
+| 69 | First pass | [When Agents Meet Physical Data: The Other Physics of Agent Harnesses](../summaries/model_based/069-when-agents-meet-physical-data-the-other-physics-of-agent-harnesses.md) |
+| 70 | First pass | [Respect The Process](../summaries/model_based/070-respect-the-process.md) |
+| 71 | First pass | [500 people vibe-coded for 30 days. I was one of them.](../summaries/model_based/071-500-people-vibe-coded-for-30-days-i-was-one-of-them.md) |
+| 72 | First pass | [Build AI Systems for Discernment, Not Approval](../summaries/model_based/072-build-ai-systems-for-discernment-not-approval.md) |
+| 73 | First pass | [What if the harness mattered more than the model?](../summaries/model_based/073-what-if-the-harness-mattered-more-than-the-model.md) |
+| 74 | First pass | [How we taught agents to use good retrieval](../summaries/model_based/074-how-we-taught-agents-to-use-good-retrieval.md) |
+| 75 | First pass | [Beyond the Harness: A Journey Towards Adaptative Engineering](../summaries/model_based/075-beyond-the-harness-a-journey-towards-adaptative-engineering.md) |
+| 76 | First pass | [Build Neural Networks in TypeScript](../summaries/model_based/076-build-neural-networks-in-typescript.md) |
+| 77 | Quick recall | [How we taught agents to use good retrieval](../summaries/model_based/074-how-we-taught-agents-to-use-good-retrieval.md) |
+| 77 | First pass | [10x](../summaries/model_based/077-10x.md) |
+| 78 | First pass | [Predicting Novel Research Directions in Big Pharma](../summaries/model_based/078-predicting-novel-research-directions-in-big-pharma.md) |
+| 79 | Quick recall | [Build Neural Networks in TypeScript](../summaries/model_based/076-build-neural-networks-in-typescript.md) |
+| 79 | First pass | [The Factory That Dreams: 39 AI Agents, No Framework](../summaries/model_based/079-the-factory-that-dreams-39-ai-agents-no-framework.md) |
+| 80 | Quick recall | [10x](../summaries/model_based/077-10x.md) |
+| 80 | First pass | [Building Great Agent Skills: The Missing Manual](../summaries/model_based/080-building-great-agent-skills-the-missing-manual.md) |
+| 81 | Quick recall | [Predicting Novel Research Directions in Big Pharma](../summaries/model_based/078-predicting-novel-research-directions-in-big-pharma.md) |
+| 81 | First pass | [WF2026: Autoresearch & Keynotes ft. Anthropic, Google DeepMind, Amazon AGI, Sonar, Arena, Recursive](../summaries/model_based/081-wf2026-autoresearch-keynotes-ft-anthropic-google-deepmind-amazon-agi-sonar-arena-recursive.md) |
+| 82 | Quick recall | [The Factory That Dreams: 39 AI Agents, No Framework](../summaries/model_based/079-the-factory-that-dreams-39-ai-agents-no-framework.md) |
 
 ## Daily Review Loop
 

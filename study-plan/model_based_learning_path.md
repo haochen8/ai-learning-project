@@ -102,8 +102,8 @@ This is the recommended route through the notes that have local model-based summ
 
 ### Module 4: Developer workflow and coding systems
 
-- Notes: 10
-- Total watch time represented: 3:27:32
+- Notes: 11
+- Total watch time represented: 12:04:24
 
 | # | Effort | Source | Talk | First learning target |
 |---:|---|---|---|---|
@@ -113,6 +113,7 @@ This is the recommended route through the notes that have local model-based summ
 | 13 | Standard watch | YouTube transcript, 3295 words | [Using Spec-Driven Development for Production Workflows](../summaries/model_based/013-using-spec-driven-development-for-production-workflows.md) | How Using Spec-Driven Development for Production Workflows decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 5 | Standard watch | YouTube transcript, 3358 words | [A Genius With Amnesia](../summaries/model_based/005-a-genius-with-amnesia.md) | How A Genius With Amnesia decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 30 | Deep watch | YouTube transcript, 4306 words | [The Agentic AI Engineer](../summaries/model_based/030-the-agentic-ai-engineer.md) | How The Agentic AI Engineer decomposes a larger AI engineering task into smaller reasoning or implementation steps |
+| 34 | Deep watch | YouTube transcript, 88983 words | [WF2026: Software Factories & Keynotes ft. Microsoft, OpenAI, OpenClaw, Z.ai (GLM), MiniMax, HF](../summaries/model_based/034-wf2026-software-factories-keynotes-ft-microsoft-openai-openclaw-z-ai-glm-minimax-hf.md) | How "software factory" expands coding agents into a full operating model for shipping software. |
 | 77 | Quick skim | fallback extract, 199 words | [10x](../summaries/model_based/077-10x.md) | How 10x decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 71 | Standard watch | fallback extract, 101 words | [500 people vibe-coded for 30 days. I was one of them.](../summaries/model_based/071-500-people-vibe-coded-for-30-days-i-was-one-of-them.md) | How 500 people vibe-coded for 30 days. I was one of them. decomposes a larger AI engineering task into smaller reasoning or implementation steps |
 | 48 | Standard watch | fallback extract, 363 words | [MCP Apps: Primitives, discovery, and the Future of Software](../summaries/model_based/048-mcp-apps-primitives-discovery-and-the-future-of-software.md) | How MCP Apps: Primitives, discovery, and the Future of Software decomposes a larger AI engineering task into smaller reasoning or implementation steps |
